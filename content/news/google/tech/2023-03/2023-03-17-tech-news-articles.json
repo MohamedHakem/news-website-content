@@ -1,0 +1,37 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "سعر ومواصفات جوال كوكاكولا الجديد.. تريند 2023",
+      "thumb": "https://lh3.googleusercontent.com/proxy/SmEWp9rGed4haAH1Q7aaAcutK899aBVjZV8m0in8I4p6zAhFkQ42h6VBlc16r49LfHSChaFrXEaTmIN0bpq0XQg6eX2hgm5o-Dd2H3wF2IlIXu8V90ROKKt2SkcBd4XtjoaKcoIhPbCIKQ=s0-w200-h112-dcETGIrJwH",
+      "googleLink": "https://news.google.com/./articles/CBMigAJodHRwczovL211aHR3YXBsdXMuY29tLzM2NjAxNi8yMDIzLzAzLzE3LyVEOCVCMyVEOCVCOSVEOCVCMS0lRDklODglRDklODUlRDklODglRDglQTclRDglQjUlRDklODElRDglQTclRDglQUEtJUQ4JUFDJUQ5JTg4JUQ4JUE3JUQ5JTg0LSVEOSU4MyVEOSU4OCVEOSU4MyVEOCVBNyVEOSU4MyVEOSU4OCVEOSU4NCVEOCVBNy0lRDglQTclRDklODQlRDglQUMlRDglQUYlRDklOEElRDglQUYtJUQ4JUFBJUQ4JUIxJUQ5JThBJUQ5JTg2JUQ4JUFGLTIwMjMv0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "محتوى بلس",
+      "datetime": "2023-03-16T23:51:26Z",
+      "titleSlug": "سعر-ومواصفات-جوال-كوكاكولا-الجديد..-تريند-2023"
+    },
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "Oppo A1 .. سعر مش هتلاقي زيه ومواصفات عالمية",
+      "thumb": "https://lh3.googleusercontent.com/proxy/1TI7WfOoRFTzdrB88w2HYq_g4glkNTa9AA3CTBrb7cUs_lLG7htUpOzec1x5JU_0M39OzVPNUs4S8tlJkkH4OvrCrdkrh1gyZxWD20uJsA=s0-w280-h168-dcJWWQDKYI",
+      "googleLink": "https://news.google.com/./articles/CBMi4gFodHRwczovL3d3dy5hcmFiZml2ZS5uZXdzLzE1MTgxNS8yMDIzLzAzLzE2L29wcG8tYTEtJUQ4JUIzJUQ4JUI5JUQ4JUIxLSVEOSU4NSVEOCVCNC0lRDklODclRDglQUElRDklODQlRDglQTclRDklODIlRDklOEEtJUQ4JUIyJUQ5JThBJUQ5JTg3LSVEOSU4OCVEOSU4NSVEOSU4OCVEOCVBNyVEOCVCNSVEOSU4MSVEOCVBNyVEOCVBQS0lRDglQjklRDglQTclRDklODQlRDklODUlRDklOEElRDglQTkv0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "عرب فايف",
+      "datetime": "2023-03-16T15:30:37Z",
+      "titleSlug": "Oppo-A1-..-سعر-مش-هتلاقي-زيه-ومواصفات-عالمية"
+    },
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "سامسونج تطلق واجهة one ui 5.1 الجديدة بمميزات رائعة لهذه الهواتف",
+      "thumb": "https://lh3.googleusercontent.com/proxy/2BvTTTmsE4uJrVzlAYoQttmDptW23w9USqlUTTsd0lZK583W2YckvdB0-r094q5j_2l6dqbQdw4S-gNCTanWGNoq7oC2GQ2N37EkOK6PBi0q46oM2X_qPKe531IV4a5i5Nd0dOKbYWFHeu3CmDDW8qm0I3VdDXZtzYQU=s0-w200-h112-dcESKMSZUL",
+      "googleLink": "https://news.google.com/./articles/CBMi3wFodHRwczovL3d3dy5uZ21pc3IuY29tL3RlY2gvJUQ4JUIzJUQ4JUE3JUQ5JTg1JUQ4JUIzJUQ5JTg4JUQ5JTg2JUQ4JUFDLSVEOCVBQSVEOCVCNyVEOSU4NCVEOSU4Mi0lRDklODglRDglQTclRDglQUMlRDklODclRDglQTktb25lLXVpLTUtMS0lRDglQTclRDklODQlRDglQUMlRDglQUYlRDklOEElRDglQUYlRDglQTktJUQ4JUE4JUQ5JTg1JUQ5JTg1JUQ5JThBJUQ4JUIyJUQ4JUE3JUQ4JUFB0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "نجوم مصرية",
+      "datetime": "2023-03-16T13:32:02Z",
+      "titleSlug": "سامسونج-تطلق-واجهة-one-ui-5.1-الجديدة-بمميزات-رائعة-لهذه-الهواتف"
+    }
+  ]
+}
