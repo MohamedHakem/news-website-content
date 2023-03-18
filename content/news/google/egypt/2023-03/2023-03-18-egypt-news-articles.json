@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "egypt",
+      "source": "https://news.google.com/",
+      "title": "هجوم نوة الشمس الكبيرة .. تحذير شديد من حالة الطقس اليوم : أمطار وانخفاض درجات الحرارة",
+      "thumb": "https://lh3.googleusercontent.com/proxy/tDNHiJRRknEbvxI16RmNFAPkY2qhg_dDl-bClCckBDiqhh6-uxBNTAP_2pIcYbGagPflqRQuu4-zWszP7k9mF5RIJE7MqGblf6So32ecCbQXWIDHkyfkPjhWJFG9TGunD9fN34ct=s0-w280-h168-dcpTGKrR0H",
+      "googleLink": "https://news.google.com/./articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yODQ0NTI50gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Al Masry Al Youm - المصري اليوم",
+      "datetime": "2023-03-18T00:16:39Z",
+      "titleSlug": "هجوم-نوة-الشمس-الكبيرة-..-تحذير-شديد-من-حالة-الطقس-اليوم-أمطار-وانخفاض-درجات-الحرارة"
+    },
+    {
+      "category": "egypt",
+      "source": "https://news.google.com/",
+      "title": "السجن 10 سنوات وغرامة 5 ملايين جنيه عقوبة التعامل فى النقد الأجنبى خارج البنوك",
+      "thumb": "https://lh3.googleusercontent.com/proxy/h3rr3Ycpzq9tftqzT8O1xMY18rzPjvLdlEAXxVMwgbmrhQnPgkNWkzrV8RkMgV2WpLzKOAkCczvjZkIJJHKTv-1IK3DAj14DeRyajUI=s0-w200-h112-dcoWOUbCkI",
+      "googleLink": "https://news.google.com/./articles/CBMiqgJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy8zLzE4LyVEOCVBNyVEOSU4NCVEOCVCMyVEOCVBQyVEOSU4Ni0xMC0lRDglQjMlRDklODYlRDklODglRDglQTclRDglQUEtJUQ5JTg4JUQ4JUJBJUQ4JUIxJUQ4JUE3JUQ5JTg1JUQ4JUE5LTUtJUQ5JTg1JUQ5JTg0JUQ4JUE3JUQ5JThBJUQ5JThBJUQ5JTg2LSVEOCVBQyVEOSU4NiVEOSU4QSVEOSU4Ny0lRDglQjklRDklODIlRDklODglRDglQTglRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUFBJUQ4JUI5JUQ4JUE3JUQ5JTg1JUQ5JTg0LSVEOSU4MSVEOSU4OS82MTE2NTAy0gGmAmh0dHBzOi8vbS55b3VtNy5jb20vYW1wLzIwMjMvMy8xOC8lRDglQTclRDklODQlRDglQjMlRDglQUMlRDklODYtMTAtJUQ4JUIzJUQ5JTg2JUQ5JTg4JUQ4JUE3JUQ4JUFBLSVEOSU4OCVEOCVCQSVEOCVCMSVEOCVBNyVEOSU4NSVEOCVBOS01LSVEOSU4NSVEOSU4NCVEOCVBNyVEOSU4QSVEOSU4QSVEOSU4Ni0lRDglQUMlRDklODYlRDklOEElRDklODctJUQ4JUI5JUQ5JTgyJUQ5JTg4JUQ4JUE4JUQ4JUE5LSVEOCVBNyVEOSU4NCVEOCVBQSVEOCVCOSVEOCVBNyVEOSU4NSVEOSU4NC0lRDklODElRDklODkvNjExNjUwMg?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "اليوم السابع",
+      "datetime": "2023-03-18T01:00:00Z",
+      "titleSlug": "السجن-10-سنوات-وغرامة-5-ملايين-جنيه-عقوبة-التعامل-فى-النقد-الأجنبى-خارج-البنوك"
+    }
+  ]
+}
