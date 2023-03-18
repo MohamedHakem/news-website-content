@@ -1,0 +1,59 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "رئيس الاتحاد الدولى للجمباز يتفقد نادي النادي شيراتون",
+      "thumb": "https://lh3.googleusercontent.com/proxy/7hC0qnq6ENcyeAlbe5cFIEQXrrO6PmETyC_VPYcWIHviKEQ3PBRnjfpsnKfJHFjoy_nn71olr9R-KjOJ3PpuVCop5LchCghpDn6EX-22MfppyPejCEZPZY5_Qdl7SoPM0OpeJA=s0-w200-h112-dcAVCYYKQI",
+      "googleLink": "https://news.google.com/./articles/CBMiJGh0dHBzOi8vd3d3LmFsYmF3YWJobmV3cy5jb20vNDc3MjgxNNIBAA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "البوابة نيوز",
+      "datetime": "2023-03-18T11:52:00Z",
+      "titleSlug": "رئيس-الاتحاد-الدولى-للجمباز-يتفقد-نادي-النادي-شيراتون"
+    },
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "المتحدة: نعتمد على الأفكار الجديدة والمُبدعين من الشباب في الدراما",
+      "thumb": "https://lh3.googleusercontent.com/proxy/1OG5O_0UkuAljNuiB28LLyvK2RNyloC2MKOgcIBXPjP0OROmEiEF1dJQPPo8VreSx2Gkf-ePytwCWpezHwALbd9tO3cu0OL9HCdeFci002vNMVIPkbxuUeQO4xLY=s0-w200-h112-dcAYCKYDwmiFUph4s",
+      "googleLink": "https://news.google.com/./articles/CBMiMGh0dHBzOi8vd3d3LmVsd2F0YW5uZXdzLmNvbS9uZXdzL2RldGFpbHMvNjQ4MDg0NNIBAA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "الوطن",
+      "datetime": "2023-03-18T10:54:09Z",
+      "titleSlug": "المتحدة-نعتمد-على-الأفكار-الجديدة-والمُبدعين-من-الشباب-في-الدراما"
+    },
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "غدا.. استكمال محاكمة 3 عاملين بمركز طبى في كرداسة",
+      "thumb": "https://lh3.googleusercontent.com/proxy/HBmJK_7Coz_2Pf59oGRzcBO-Vf5d12sL5c7dQ-UEAkkJPqKu10_cA4qF2ND1WSf_5IJtuDbjAXMCcsEX0-rdEyIEdIQlRaN3O8mN6EP_c4Ty1KY1_EP02BNcIDsS=s0-w200-h112-dcuQGMFJEI",
+      "googleLink": "https://news.google.com/./articles/CBMiHmh0dHBzOi8vd3d3LmRvc3Rvci5vcmcvNDM0MDk0N9IBAA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "جريدة الدستور",
+      "datetime": "2023-03-18T13:34:00Z",
+      "titleSlug": "غدا..-استكمال-محاكمة-3-عاملين-بمركز-طبى-في-كرداسة"
+    },
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "السيطرة على حريق اشتعل بشقة سكنية في منشأة القناطر بالجيزة",
+      "thumb": "https://lh3.googleusercontent.com/proxy/jN2I0oT2MHAPjE_6jvZZTHgSVan6tZzsoxFjCJx1Xyimj3acy2VnNVpVt9djsQXmVABk_0dkIXUmnw4Bq_EKtiqHPamTf12Ozu9mHHI=s0-w200-h112-dcDRAG",
+      "googleLink": "https://news.google.com/./articles/CBMi3QJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy8zLzE4LyVEOCVBNyVEOSU4NCVEOCVCMyVEOSU4QSVEOCVCNyVEOCVCMSVEOCVBOS0lRDglQjklRDklODQlRDklODktJUQ4JUFEJUQ4JUIxJUQ5JThBJUQ5JTgyLSVEOCVBNyVEOCVCNCVEOCVBQSVEOCVCOSVEOSU4NC0lRDglQTglRDglQjQlRDklODIlRDglQTktJUQ4JUIzJUQ5JTgzJUQ5JTg2JUQ5JThBJUQ4JUE5LSVEOSU4MSVEOSU4QS0lRDklODUlRDklODYlRDglQjQlRDglQTMlRDglQTktJUQ4JUE3JUQ5JTg0JUQ5JTgyJUQ5JTg2JUQ4JUE3JUQ4JUI3JUQ4JUIxLSVEOCVBOCVEOCVBNyVEOSU4NCVEOCVBQyVEOSU4QSVEOCVCMiVEOCVBOS82MTE5NzQ20gHZAmh0dHBzOi8vbS55b3VtNy5jb20vYW1wLzIwMjMvMy8xOC8lRDglQTclRDklODQlRDglQjMlRDklOEElRDglQjclRDglQjElRDglQTktJUQ4JUI5JUQ5JTg0JUQ5JTg5LSVEOCVBRCVEOCVCMSVEOSU4QSVEOSU4Mi0lRDglQTclRDglQjQlRDglQUElRDglQjklRDklODQtJUQ4JUE4JUQ4JUI0JUQ5JTgyJUQ4JUE5LSVEOCVCMyVEOSU4MyVEOSU4NiVEOSU4QSVEOCVBOS0lRDklODElRDklOEEtJUQ5JTg1JUQ5JTg2JUQ4JUI0JUQ4JUEzJUQ4JUE5LSVEOCVBNyVEOSU4NCVEOSU4MiVEOSU4NiVEOCVBNyVEOCVCNyVEOCVCMS0lRDglQTglRDglQTclRDklODQlRDglQUMlRDklOEElRDglQjIlRDglQTkvNjExOTc0Ng?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "اليوم السابع",
+      "datetime": "2023-03-18T11:27:00Z",
+      "titleSlug": "السيطرة-على-حريق-اشتعل-بشقة-سكنية-في-منشأة-القناطر-بالجيزة"
+    },
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "تجديد حبس عاطل لحيازته 10 قطع حشيش في منشأة القناطر 15 يوما",
+      "thumb": "https://lh3.googleusercontent.com/proxy/AIIHVhPjiOoVUKQ8EDS-ElbfjzZZRdk7R98GmL-P8E0_qxlIeA3gnJs3rROqCeD1UJPJUrd7vbm-ZptsrJx5G4fnYcY14oqChHMlK-rt8Hlg9mibFsWBIYOY6tNux7PidKLx3NLwCMYJriHnX9fM=s0-w200-h112-dcATGIzi0J",
+      "googleLink": "https://news.google.com/./articles/CBMiaGh0dHBzOi8vd3d3LnNob3JvdWtuZXdzLmNvbS9tb2JpbGUvbmV3cy92aWV3LmFzcHg_Y2RhdGU9MTgwMzIwMjMmaWQ9NGUwYWEyZGItMWU0Yi00YWE3LWJjOGQtOTUyNDgxZThlMGUw0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "الشروق",
+      "datetime": "2023-03-18T13:28:51Z",
+      "titleSlug": "تجديد-حبس-عاطل-لحيازته-10-قطع-حشيش-في-منشأة-القناطر-15-يوما"
+    }
+  ]
+}
