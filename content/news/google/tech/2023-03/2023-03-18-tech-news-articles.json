@@ -1,0 +1,37 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "سعر سامسونج a04 في مصر.. مواصفاته لا مثيل لها",
+      "thumb": "https://lh3.googleusercontent.com/proxy/L2zOmqTU88rr2E4TEToiYlASju9ds8GU3SX87vVFKqnTnMGTnip34YtAbRfdU6bVv2TRNCb1DfQEr_isqQAzY49orTT3tRI4j94Wl-UUe0tmGfwkHxdS8hI=s0-w280-h168-dcEQGOtpQG",
+      "googleLink": "https://news.google.com/./articles/CBMi9QFodHRwczovL211aHR3YXBsdXMuY29tLzM2NjAyOC8yMDIzLzAzLzE3LyVEOCVCMyVEOCVCOSVEOCVCMS0lRDglQjMlRDglQTclRDklODUlRDglQjMlRDklODglRDklODYlRDglQUMtYTA0LSVEOSU4MSVEOSU4QS0lRDklODUlRDglQjUlRDglQjEtJUQ5JTg1JUQ5JTg4JUQ4JUE3JUQ4JUI1JUQ5JTgxJUQ4JUE3JUQ4JUFBJUQ5JTg3LSVEOSU4NCVEOCVBNy0lRDklODUlRDglQUIlRDklOEElRDklODQtJUQ5JTg0JUQ5JTg3JUQ4JUE3L9IBAA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "محتوى بلس",
+      "datetime": "2023-03-18T11:29:08Z",
+      "titleSlug": "سعر-سامسونج-a04-في-مصر..-مواصفاته-لا-مثيل-لها"
+    },
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "سعر ومواصفات جوال كوكاكولا الجديد.. تريند 2023",
+      "thumb": "https://lh3.googleusercontent.com/proxy/SmEWp9rGed4haAH1Q7aaAcutK899aBVjZV8m0in8I4p6zAhFkQ42h6VBlc16r49LfHSChaFrXEaTmIN0bpq0XQg6eX2hgm5o-Dd2H3wF2IlIXu8V90ROKKt2SkcBd4XtjoaKcoIhPbCIKQ=s0-w200-h112-dcETGIrJwH",
+      "googleLink": "https://news.google.com/./articles/CBMigAJodHRwczovL211aHR3YXBsdXMuY29tLzM2NjAxNi8yMDIzLzAzLzE3LyVEOCVCMyVEOCVCOSVEOCVCMS0lRDklODglRDklODUlRDklODglRDglQTclRDglQjUlRDklODElRDglQTclRDglQUEtJUQ4JUFDJUQ5JTg4JUQ4JUE3JUQ5JTg0LSVEOSU4MyVEOSU4OCVEOSU4MyVEOCVBNyVEOSU4MyVEOSU4OCVEOSU4NCVEOCVBNy0lRDglQTclRDklODQlRDglQUMlRDglQUYlRDklOEElRDglQUYtJUQ4JUFBJUQ4JUIxJUQ5JThBJUQ5JTg2JUQ4JUFGLTIwMjMv0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "محتوى بلس",
+      "datetime": "2023-03-18T10:00:28Z",
+      "titleSlug": "سعر-ومواصفات-جوال-كوكاكولا-الجديد..-تريند-2023"
+    },
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "مواصفات Infinix GT 10 Pro.. بيشحن بسرعة البرق",
+      "thumb": "https://lh3.googleusercontent.com/proxy/8EKkRFXgjF7Saon7Mk2eGiCr_rA7Pa3mCXxGgps3vMiePgaqDbpw2VbbSdbBRmiV_GPFRmqiJZSdJE_FSS5WvbhOZIW6qMVHea8hppjYDc_OmeSxj5tyvm4=s0-w200-h112-p-df",
+      "googleLink": "https://news.google.com/./articles/CBMiwwFodHRwczovL211aHR3YXBsdXMuY29tLzM2NTk5My8yMDIzLzAzLzE3LyVEOSU4NSVEOSU4OCVEOCVBNyVEOCVCNSVEOSU4MSVEOCVBNyVEOCVBQS1pbmZpbml4LWd0LTEwLXByby0lRDglQTglRDklOEElRDglQjQlRDglQUQlRDklODYtJUQ4JUE4JUQ4JUIzJUQ4JUIxJUQ4JUI5JUQ4JUE5LSVEOCVBNyVEOSU4NCVEOCVBOCVEOCVCMSVEOSU4Mi_SAQA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "محتوى بلس",
+      "datetime": "2023-03-18T08:58:46Z",
+      "titleSlug": "مواصفات-Infinix-GT-10-Pro..-بيشحن-بسرعة-البرق"
+    }
+  ]
+}
