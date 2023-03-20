@@ -1,0 +1,37 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "egypt",
+      "source": "https://news.google.com/",
+      "title": "40 جنيهًا مرة واحدة|مفاجأة في أسعار الدواجن الآن بعد قرار الاستيراد الجديد",
+      "thumb": "https://lh3.googleusercontent.com/proxy/lU2kvZGyU1NDc3aiTpnrlnzfGoadD3jgCEtYGEQtH_evskkfgG7lm3byFOw38EtT1ul6MgW49oWpq3VtOCQWH1i5kF-Hzzx95N7gOV0G9m_1MF7ykZQSCXZRXuS2xRg=s0-w280-h168-dcAQCOLhkI",
+      "googleLink": "https://news.google.com/./articles/CBMiIGh0dHBzOi8vd3d3LmVsYmFsYWQubmV3cy81Njk2NTM30gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sada El-Bald صدى البلد",
+      "datetime": "2023-03-20T04:45:00Z",
+      "titleSlug": "40-جنيهًا-مرة-واحدة-مفاجأة-في-أسعار-الدواجن-الآن-بعد-قرار-الاستيراد-الجديد"
+    },
+    {
+      "category": "egypt",
+      "source": "https://news.google.com/",
+      "title": "مصر.. إنشاء شركة استثمار للمصريين لتخفيف الطلب على الدولار",
+      "thumb": "https://lh3.googleusercontent.com/proxy/emkG-kMfud6PzF7f4FQ2AiPWPHKcHOUwY0q3-ockrD5p4Q-Dr8IqXk-L6RH7PY3cgryxv3Os6MT78FXLStkT0tzWYeKyQ_7tPsx-Il7UB03oLJer7Trxlx3V9sseyE9zlq2Ef4huoTLEGM3gMEGZii1LBgj_ro_J5_NXbNX48BX_4vJZc_lq4RNw1LFaQ6zpMdLdWzHJkXWnVatlUgQyhA=s0-w280-h168-dcgTGApT7lRNMA",
+      "googleLink": "https://news.google.com/./articles/CBMigAFodHRwczovL2FyYWJpYy5jbm4uY29tL21pZGRsZS1lYXN0L2FydGljbGUvMjAyMy8wMy8yMC9lZ3lwdC1pbnZlc3RtZW50LWNvbXBhbnktZm9yLWVneXB0aWFucy1hYnJvYWQtZXhjaGFuZ2UtcnVzc2lhLWNoaW5hLWRvbGxhctIBiAFodHRwczovL2FyYWJpYy5jbm4uY29tL2FtcGh0bWwvbWlkZGxlLWVhc3QvYXJ0aWNsZS8yMDIzLzAzLzIwL2VneXB0LWludmVzdG1lbnQtY29tcGFueS1mb3ItZWd5cHRpYW5zLWFicm9hZC1leGNoYW5nZS1ydXNzaWEtY2hpbmEtZG9sbGFy?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "CNN Arabic",
+      "datetime": "2023-03-20T04:16:10Z",
+      "titleSlug": "مصر..-إنشاء-شركة-استثمار-للمصريين-لتخفيف-الطلب-على-الدولار"
+    },
+    {
+      "category": "egypt",
+      "source": "https://news.google.com/",
+      "title": "لماذا يحاول سجناء مصريون الانتحار في زنازينهم الجديدة؟",
+      "thumb": "https://lh3.googleusercontent.com/proxy/Djuz6QxNkVVIq0lAPXinRKfSYAVz9LB72TwUGNr0siLUCME98Oms0iDOvA-uv-NedOghSRML4OqTBF61I-aM0vZQtEXWgzGXH7fvRbomTCNth-1s_G2uDYB-6mKRYXp4ENdFhatRYMAdqd6UOIBWDZb5QMuWkChCKO55J1kPvd2fDg=s0-w200-h112-dcibCASz3ma7cA",
+      "googleLink": "https://news.google.com/./articles/CBMiKWh0dHBzOi8vd3d3LmJiYy5jb20vYXJhYmljL3dvcmxkLTY1MDA3NjQ20gEtaHR0cHM6Ly93d3cuYmJjLmNvbS9hcmFiaWMvd29ybGQtNjUwMDc2NDYuYW1w?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "BBC Arabic",
+      "datetime": "2023-03-20T05:55:24Z",
+      "titleSlug": "لماذا-يحاول-سجناء-مصريون-الانتحار-في-زنازينهم-الجديدة؟"
+    }
+  ]
+}
