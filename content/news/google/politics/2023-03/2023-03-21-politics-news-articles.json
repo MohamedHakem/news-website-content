@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "politics",
+      "source": "https://news.google.com/",
+      "title": "روسيا وأوكرانيا: كييف تتحدث عن تدمير صواريخ روسية في شبه جزيرة القرم",
+      "thumb": "https://lh3.googleusercontent.com/proxy/kjYggTKEwPNgqEN2TiocSZrl6tj9QUx7eTWDgMZkPwWLE7HMuwRdvvpCDKVdnQ_wD2B-SDrplo_7LxCd3mDnK7OK5v9hJzcQEubw1rb7I_N-3K5pb_r88CbbabKOugC8cEcMbu5f1Vmt70Wb_FxEHRKm1L2iohDfgZniKvSExWczqRBfaSg3fXM4UsbJKw29lg=s0-w280-h168-dcgSKAA~cB",
+      "googleLink": "https://news.google.com/./articles/CBMiKWh0dHBzOi8vd3d3LmJiYy5jb20vYXJhYmljL3dvcmxkLTY1MDEwNTIw0gEtaHR0cHM6Ly93d3cuYmJjLmNvbS9hcmFiaWMvd29ybGQtNjUwMTA1MjAuYW1w?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "BBC Arabic",
+      "datetime": "2023-03-21T00:47:36Z",
+      "titleSlug": "روسيا-وأوكرانيا-كييف-تتحدث-عن-تدمير-صواريخ-روسية-في-شبه-جزيرة-القرم"
+    },
+    {
+      "category": "politics",
+      "source": "https://news.google.com/",
+      "title": "الحكومة الفرنسية تنجو من تصويت على سحب الثقة",
+      "thumb": "https://lh3.googleusercontent.com/proxy/QE4gyimYvrQHJ8B-9uEA2sJm_rPBu3CiE7iuk9znyivJmtpDmS29XSWysKjbzVfpBxwtwo0QOyCikwzPmiD_urO3LFOmH5-jiMVS2ibeI6GOO15o0-xIZRJV0romOVWAmlUEwUvWH5bvbeDUuzuQQrUKExgI94Kth77PM864pf_1fYcloweEc5-KKqqZk04u=s0-w280-h168-dcAQCCwbSisHuIC5o",
+      "googleLink": "https://news.google.com/./articles/CBMiKWh0dHBzOi8vd3d3LmJiYy5jb20vYXJhYmljL3dvcmxkLTY1MDA3NjQ40gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "BBC Arabic",
+      "datetime": "2023-03-21T00:56:15Z",
+      "titleSlug": "الحكومة-الفرنسية-تنجو-من-تصويت-على-سحب-الثقة"
+    }
+  ]
+}
