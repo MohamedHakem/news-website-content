@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "world",
+      "source": "https://news.google.com/",
+      "title": "انفجار القرم.. تدمير صواريخ \"كروز\" روسية وحديث عن مسيرات",
+      "thumb": "https://lh3.googleusercontent.com/proxy/8Ac1-9M1gEMinuCKDK0oSbgn4GC5AlVM1Ykh0QU9jsIShBcv2jzG_l00FHm7BFacsdvg25WOr6Pq85qbbFY8EVi9MAV-ka51BZPaaw64_q2IhtDu3-1X3EySawe7fzNtR44PLPHEtA-DcD1c=s0-w200-h112-dcrQOckAkK",
+      "googleLink": "https://news.google.com/./articles/CBMiowJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS93b3JsZC8xNjA2NzM2LSVEOSU4NyVEOCVBQyVEOSU4OCVEOSU4NS0lRDglQTclRDklODQlRDklODIlRDglQjElRDklODUtJUQ4JUFBJUQ4JUFGJUQ5JTg1JUQ5JThBJUQ4JUIxLSVEOCVCNSVEOSU4OCVEOCVBNyVEOCVCMSVEOSU4QSVEOCVBRS0lRDklODMlRDglQjElRDklODglRDglQjItJUQ4JUIxJUQ5JTg4JUQ4JUIzJUQ5JThBJUQ4JUE5LSVEOSU4OCVEOCVBRCVEOCVBRiVEOSU4QSVEOCVBQi0lRDklODUlRDglQjMlRDklOEElRDglQjElRDglQTclRDglQUHSAacCaHR0cHM6Ly93d3cuc2t5bmV3c2FyYWJpYS5jb20vYW1wL3dvcmxkLzE2MDY3MzYtJUQ5JTg3JUQ4JUFDJUQ5JTg4JUQ5JTg1LSVEOCVBNyVEOSU4NCVEOSU4MiVEOCVCMSVEOSU4NS0lRDglQUElRDglQUYlRDklODUlRDklOEElRDglQjEtJUQ4JUI1JUQ5JTg4JUQ4JUE3JUQ4JUIxJUQ5JThBJUQ4JUFFLSVEOSU4MyVEOCVCMSVEOSU4OCVEOCVCMi0lRDglQjElRDklODglRDglQjMlRDklOEElRDglQTktJUQ5JTg4JUQ4JUFEJUQ4JUFGJUQ5JThBJUQ4JUFCLSVEOSU4NSVEOCVCMyVEOSU4QSVEOCVCMSVEOCVBNyVEOCVBQQ?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sky News Arabia سكاي نيوز عربية",
+      "datetime": "2023-03-21T01:17:15Z",
+      "titleSlug": "انفجار-القرم..-تدمير-صواريخ-كروز-روسية-وحديث-عن-مسيرات"
+    },
+    {
+      "category": "world",
+      "source": "https://news.google.com/",
+      "title": "الحكومة الفرنسية تنجو من تصويت على سحب الثقة",
+      "thumb": "https://lh3.googleusercontent.com/proxy/QE4gyimYvrQHJ8B-9uEA2sJm_rPBu3CiE7iuk9znyivJmtpDmS29XSWysKjbzVfpBxwtwo0QOyCikwzPmiD_urO3LFOmH5-jiMVS2ibeI6GOO15o0-xIZRJV0romOVWAmlUEwUvWH5bvbeDUuzuQQrUKExgI94Kth77PM864pf_1fYcloweEc5-KKqqZk04u=s0-w200-h112-dcAQCCwbSisHuIC5o",
+      "googleLink": "https://news.google.com/./articles/CBMiKWh0dHBzOi8vd3d3LmJiYy5jb20vYXJhYmljL3dvcmxkLTY1MDA3NjQ40gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "BBC Arabic",
+      "datetime": "2023-03-21T00:56:15Z",
+      "titleSlug": "الحكومة-الفرنسية-تنجو-من-تصويت-على-سحب-الثقة"
+    }
+  ]
+}
