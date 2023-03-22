@@ -1,0 +1,48 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "انتداب المعمل الجنائي لمعاينة حريق داخل فيلا فى مدينة الشيخ زايد",
+      "thumb": "https://lh3.googleusercontent.com/proxy/bq3UkWc-u5oXFc0FsnHRocan9s0MzEmmjmEmeyMvF82GypmFpZ1IjvukUhS8p-BQQi1UR-u0v5CLFdYXpk1eIOYHTmVNNLtQGBf7vfqSrc6K3f1R-2C4zXJ82SIQbN-0rgVbo2IlcpOKi8xd=s0-w200-h112-dcAZKKAcMF",
+      "googleLink": "https://news.google.com/./articles/CBMiK2h0dHBzOi8vZ2F0ZS5haHJhbS5vcmcuZWcvTmV3cy80MTgzMDk0LmFzcHjSAQA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "بوابة الأهرام",
+      "datetime": "2023-03-22T06:01:00Z",
+      "titleSlug": "انتداب-المعمل-الجنائي-لمعاينة-حريق-داخل-فيلا-فى-مدينة-الشيخ-زايد"
+    },
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "رئيس اتحاد الآثاريين العرب لـ صدى البلد: نحتفي بعلماء الآثار الذين رحلوا",
+      "thumb": "https://lh3.googleusercontent.com/proxy/SdTFYwfhEBM6_RLrSZ6mSb0uc3dCLaI_BykSNC3hrEq3ZS10kM9vP30oD_DF7Rv2QbngGFJviFTLoHp3k11_dAR6GLmZvsgQ6CTNzmpZeap9MTMSlBVRkW1MMN4cdIF1=s0-w200-h112-dcLYWEzrEG",
+      "googleLink": "https://news.google.com/./articles/CBMiIGh0dHBzOi8vd3d3LmVsYmFsYWQubmV3cy81Njk4Njcw0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sada El-Bald صدى البلد",
+      "datetime": "2023-03-21T20:25:00Z",
+      "titleSlug": "رئيس-اتحاد-الآثاريين-العرب-لـ-صدى-البلد-نحتفي-بعلماء-الآثار-الذين-رحلوا"
+    },
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "\"السفيرة عزيزة\" يعرض تقريرًا عن \"بدرية\" دينامو الأكاديمية الوطنية للتدريب",
+      "thumb": "https://lh3.googleusercontent.com/proxy/KN1FPT0_391ludgCVCHTcH651qyWdkQr_T8BHNIUVUuOd4kL3Aa2bz7Zfndh8oGQ3mmErXF0TEQZ9wp9qwMtFeKuMSX3wNHQ6SLGfw=s0-w200-h112-dcCWOKxSZoTCoC",
+      "googleLink": "https://news.google.com/./articles/CBMinwNodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy8zLzIxLyVEOCVBNyVEOSU4NCVEOCVCMyVEOSU4MSVEOSU4QSVEOCVCMSVEOCVBOS0lRDglQjklRDglQjIlRDklOEElRDglQjIlRDglQTktJUQ5JThBJUQ4JUI5JUQ4JUIxJUQ4JUI2LSVEOCVBQSVEOSU4MiVEOCVCMSVEOSU4QSVEOCVCMSVEOSU4QiVEOCVBNy0lRDglQjklRDklODYtJUQ4JUE4JUQ4JUFGJUQ4JUIxJUQ5JThBJUQ4JUE5LSVEOCVBRiVEOSU4QSVEOSU4NiVEOCVBNyVEOSU4NSVEOSU4OC0lRDglQTclRDklODQlRDglQTMlRDklODMlRDglQTclRDglQUYlRDklOEElRDklODUlRDklOEElRDglQTktJUQ4JUE3JUQ5JTg0JUQ5JTg4JUQ4JUI3JUQ5JTg2JUQ5JThBJUQ4JUE5LSVEOSU4NCVEOSU4NCVEOCVBQSVEOCVBRiVEOCVCMSVEOSU4QSVEOCVBOC82MTIzNDk30gGbA2h0dHBzOi8vbS55b3VtNy5jb20vYW1wLzIwMjMvMy8yMS8lRDglQTclRDklODQlRDglQjMlRDklODElRDklOEElRDglQjElRDglQTktJUQ4JUI5JUQ4JUIyJUQ5JThBJUQ4JUIyJUQ4JUE5LSVEOSU4QSVEOCVCOSVEOCVCMSVEOCVCNi0lRDglQUElRDklODIlRDglQjElRDklOEElRDglQjElRDklOEIlRDglQTctJUQ4JUI5JUQ5JTg2LSVEOCVBOCVEOCVBRiVEOCVCMSVEOSU4QSVEOCVBOS0lRDglQUYlRDklOEElRDklODYlRDglQTclRDklODUlRDklODgtJUQ4JUE3JUQ5JTg0JUQ4JUEzJUQ5JTgzJUQ4JUE3JUQ4JUFGJUQ5JThBJUQ5JTg1JUQ5JThBJUQ4JUE5LSVEOCVBNyVEOSU4NCVEOSU4OCVEOCVCNyVEOSU4NiVEOSU4QSVEOCVBOS0lRDklODQlRDklODQlRDglQUElRDglQUYlRDglQjElRDklOEElRDglQTgvNjEyMzQ5Nw?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "اليوم السابع",
+      "datetime": "2023-03-21T17:13:00Z",
+      "titleSlug": "السفيرة-عزيزة-يعرض-تقريرًا-عن-بدرية-دينامو-الأكاديمية-الوطنية-للتدريب"
+    },
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "تطوير التعاون المشترك بين الأكاديمية العربية للنقل البحري وميناء دمياط",
+      "thumb": "https://lh3.googleusercontent.com/proxy/YxLrUmE-jvVGN2GqdgZ4ANJczUos64N7eNKJZ6ZRRYcNIXGwfw_OEk4u2FSBwOA8vJTT4HZJyzQ12ILhRSHfdPmjavD_T3AVEbhmpNcv94EfpPl3Zur1tYOQ_jlj=s0-w200-h112-dcgXCGozgkyEu6GjY",
+      "googleLink": "https://news.google.com/./articles/CBMiHmh0dHBzOi8vd3d3LmRvc3Rvci5vcmcvNDM0MzkyNtIBAA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "جريدة الدستور",
+      "datetime": "2023-03-21T18:13:00Z",
+      "titleSlug": "تطوير-التعاون-المشترك-بين-الأكاديمية-العربية-للنقل-البحري-وميناء-دمياط"
+    }
+  ]
+}
