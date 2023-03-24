@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "politics",
+      "source": "https://news.google.com/",
+      "title": "كوريا الشمالية تختبر غواصة قادرة على شن هجوم نووي",
+      "thumb": "https://lh3.googleusercontent.com/proxy/Lllpq1Hrm-llB5PE42Tu8TdbNlAEzcu_55incRkrxz403_3pjc9TSD8g6nZMW3f1Gv32fV3mI8L2qhe0qzVRhsTGO_uG3EErHaGq2HHcIi9ryQ9pnhiIuL2-FmPjlqqFKEzECcuIG-1wd1_X=s0-w280-h168-dcMbCArzkH",
+      "googleLink": "https://news.google.com/./articles/CBMilwJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS93b3JsZC8xNjA3NTg3LSVEOSU4MyVEOSU4OCVEOCVCMSVEOSU4QSVEOCVBNy0lRDglQTclRDklODQlRDglQjQlRDklODUlRDglQTclRDklODQlRDklOEElRDglQTktJUQ4JUFBJUQ4JUFFJUQ4JUFBJUQ4JUE4JUQ4JUIxLSVEOCVCQSVEOSU4OCVEOCVBNyVEOCVCNSVEOCVBOS0lRDklODIlRDglQTclRDglQUYlRDglQjElRDglQTktJUQ4JUI0JUQ5JTg2LSVEOSU4NyVEOCVBQyVEOSU4OCVEOSU4NS0lRDklODYlRDklODglRDklODglRDklOEHSAZsCaHR0cHM6Ly93d3cuc2t5bmV3c2FyYWJpYS5jb20vYW1wL3dvcmxkLzE2MDc1ODctJUQ5JTgzJUQ5JTg4JUQ4JUIxJUQ5JThBJUQ4JUE3LSVEOCVBNyVEOSU4NCVEOCVCNCVEOSU4NSVEOCVBNyVEOSU4NCVEOSU4QSVEOCVBOS0lRDglQUElRDglQUUlRDglQUElRDglQTglRDglQjEtJUQ4JUJBJUQ5JTg4JUQ4JUE3JUQ4JUI1JUQ4JUE5LSVEOSU4MiVEOCVBNyVEOCVBRiVEOCVCMSVEOCVBOS0lRDglQjQlRDklODYtJUQ5JTg3JUQ4JUFDJUQ5JTg4JUQ5JTg1LSVEOSU4NiVEOSU4OCVEOSU4OCVEOSU4QQ?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sky News Arabia سكاي نيوز عربية",
+      "datetime": "2023-03-24T00:23:32Z",
+      "titleSlug": "كوريا-الشمالية-تختبر-غواصة-قادرة-على-شن-هجوم-نووي"
+    },
+    {
+      "category": "politics",
+      "source": "https://news.google.com/",
+      "title": "قائد «التيار الصدري» يصحو على قواعد جديدة",
+      "thumb": "https://lh3.googleusercontent.com/proxy/dANTrBVOa14c3nUFkza60GLqoNMmLUs-ama5TwGAAJAlpi63GHMmTgbI2vCcqaDrg2yzr0XP4Za-L0Ye0K5ZAYyyWNauVyz_QOaWQLI0Z_9wREPDONOhoWQYK7oNF7LuR1McXy2gSRTEMD-Whnj8LvzGtCTUEpIBbZotEkZIqIYu6q67VNhHxSyg4HWOL8ivHDUV_w=s0-w200-h112-dcqWWQzbEG",
+      "googleLink": "https://news.google.com/./articles/CBMigAJodHRwczovL2Fhd3NhdC5jb20vaG9tZS9hcnRpY2xlLzQyMjk3MDYvJUQ5JTgyJUQ4JUE3JUQ4JUE2JUQ4JUFGLSVDMiVBQiVEOCVBNyVEOSU4NCVEOCVBQSVEOSU4QSVEOCVBNyVEOCVCMS0lRDglQTclRDklODQlRDglQjUlRDglQUYlRDglQjElRDklOEElQzIlQkItJUQ5JThBJUQ4JUI1JUQ4JUFEJUQ5JTg4LSVEOCVCOSVEOSU4NCVEOSU4OS0lRDklODIlRDklODglRDglQTclRDglQjklRDglQUYtJUQ4JUFDJUQ4JUFGJUQ5JThBJUQ4JUFGJUQ4JUE50gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "صحيفة الشرق الأوسط",
+      "datetime": "2023-03-24T01:43:43Z",
+      "titleSlug": "قائد-«التيار-الصدري»-يصحو-على-قواعد-جديدة"
+    }
+  ]
+}
