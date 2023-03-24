@@ -1,0 +1,48 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "world",
+      "source": "https://news.google.com/",
+      "title": "المجر: لن ننفذ مذكرة اعتقال بحق بوتين إن زار البلاد",
+      "thumb": "https://lh3.googleusercontent.com/proxy/ExgLFEiCLB92OEoRweeG66tZq8L-HxmSITDWXeDbM6oeNooFpullhg1cQJEflqDIhe5QwT1f0L95Z1rgcmp-Y2mZZW9o9qqNA01sFrv9YGelgkFSFsD3UYypc5oiBOrVvykrtx1vQXjk2U5z=s0-w280-h168-dcDWiKh7IF",
+      "googleLink": "https://news.google.com/./articles/CBMikQJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS93b3JsZC8xNjA3NTkzLSVEOCVBNyVEOSU4NCVEOSU4NSVEOCVBQyVEOCVCMS0lRDklODYlRDklODYlRDklODElRDglQjAtJUQ5JTg1JUQ4JUIwJUQ5JTgzJUQ4JUIxJUQ4JUE5LSVEOCVBNyVEOCVCOSVEOCVBQSVEOSU4MiVEOCVBNyVEOSU4NC0lRDglQTglRDglQUQlRDklODItJUQ4JUE4JUQ5JTg4JUQ4JUFBJUQ5JThBJUQ5JTg2LSVEOCVCMiVEOCVBNyVEOCVCMS0lRDglQTclRDklODQlRDglQTglRDklODQlRDglQTclRDglQUbSAZUCaHR0cHM6Ly93d3cuc2t5bmV3c2FyYWJpYS5jb20vYW1wL3dvcmxkLzE2MDc1OTMtJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ4JUFDJUQ4JUIxLSVEOSU4NiVEOSU4NiVEOSU4MSVEOCVCMC0lRDklODUlRDglQjAlRDklODMlRDglQjElRDglQTktJUQ4JUE3JUQ4JUI5JUQ4JUFBJUQ5JTgyJUQ4JUE3JUQ5JTg0LSVEOCVBOCVEOCVBRCVEOSU4Mi0lRDglQTglRDklODglRDglQUElRDklOEElRDklODYtJUQ4JUIyJUQ4JUE3JUQ4JUIxLSVEOCVBNyVEOSU4NCVEOCVBOCVEOSU4NCVEOCVBNyVEOCVBRg?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sky News Arabia سكاي نيوز عربية",
+      "datetime": "2023-03-24T02:11:14Z",
+      "titleSlug": "المجر-لن-ننفذ-مذكرة-اعتقال-بحق-بوتين-إن-زار-البلاد"
+    },
+    {
+      "category": "world",
+      "source": "https://news.google.com/",
+      "title": "ردا على المناورات الأميركية الكورية.. كوريا الشمالية تختبر غواصة قادرة على شن هجوم نووي",
+      "thumb": "https://lh3.googleusercontent.com/proxy/Lllpq1Hrm-llB5PE42Tu8TdbNlAEzcu_55incRkrxz403_3pjc9TSD8g6nZMW3f1Gv32fV3mI8L2qhe0qzVRhsTGO_uG3EErHaGq2HHcIi9ryQ9pnhiIuL2-FmPjlqqFKEzECcuIG-1wd1_X=s0-w280-h168-dcMbCArzkH",
+      "googleLink": "https://news.google.com/./articles/CBMilwJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS93b3JsZC8xNjA3NTg3LSVEOSU4MyVEOSU4OCVEOCVCMSVEOSU4QSVEOCVBNy0lRDglQTclRDklODQlRDglQjQlRDklODUlRDglQTclRDklODQlRDklOEElRDglQTktJUQ4JUFBJUQ4JUFFJUQ4JUFBJUQ4JUE4JUQ4JUIxLSVEOCVCQSVEOSU4OCVEOCVBNyVEOCVCNSVEOCVBOS0lRDklODIlRDglQTclRDglQUYlRDglQjElRDglQTktJUQ4JUI0JUQ5JTg2LSVEOSU4NyVEOCVBQyVEOSU4OCVEOSU4NS0lRDklODYlRDklODglRDklODglRDklOEHSAQA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sky News Arabia سكاي نيوز عربية",
+      "datetime": "2023-03-24T00:23:32Z",
+      "titleSlug": "ردا-على-المناورات-الأميركية-الكورية..-كوريا-الشمالية-تختبر-غواصة-قادرة-على-شن-هجوم-نووي"
+    },
+    {
+      "category": "world",
+      "source": "https://news.google.com/",
+      "title": "واشنطن: مقتل متعاقد أمريكي وإصابة 5 جنود بضربة \"درون\" بسوريا",
+      "thumb": "https://lh3.googleusercontent.com/proxy/r3M9q1v7ByvPTBJuWKvmyIy_8G__E7LECc4M1m0XZcGUkFsCOjYCXeWNBOg9zfNTRfhlKF3lYgIeijra1N2PEw_WGXE6vmRy_n31cxM-dH4t7-xAoKIT3g0GhGmly5tsv0rP2jTnZts36BXEVkWjVl5SqP0sNffiYRIVUaaOkmXsBYkmAg6AfJtd8YnqovZSCpdFUv2-3mie-0mBnW4UMK0RxdiIdVBBw4pCU5Nuk6psYdUWvlsBpj7FKcRCKRY=s0-w280-h168-dcATCEqSlmwa8B",
+      "googleLink": "https://news.google.com/./articles/CBMilAFodHRwczovL2FyYWJpYy5jbm4uY29tL21pZGRsZS1lYXN0L2FydGljbGUvMjAyMy8wMy8yNC9zdXNwZWN0ZWQtaXJhbmlhbi1kcm9uZS1raWxscy11cy1jb250cmFjdG9yLWFuZC13b3VuZHMtNS11cy1zZXJ2aWNlLW1lbWJlcnMtaW4tbm9ydGhlYXN0LXN5cmlh0gGcAWh0dHBzOi8vYXJhYmljLmNubi5jb20vYW1waHRtbC9taWRkbGUtZWFzdC9hcnRpY2xlLzIwMjMvMDMvMjQvc3VzcGVjdGVkLWlyYW5pYW4tZHJvbmUta2lsbHMtdXMtY29udHJhY3Rvci1hbmQtd291bmRzLTUtdXMtc2VydmljZS1tZW1iZXJzLWluLW5vcnRoZWFzdC1zeXJpYQ?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "CNN Arabic",
+      "datetime": "2023-03-24T03:00:24Z",
+      "titleSlug": "واشنطن-مقتل-متعاقد-أمريكي-وإصابة-5-جنود-بضربة-درون-بسوريا"
+    },
+    {
+      "category": "world",
+      "source": "https://news.google.com/",
+      "title": "تستهدف العرب.. 2400 صفحة فيسبوك تنشر وظائف مزيفة لسرقة البيانات",
+      "thumb": "https://lh3.googleusercontent.com/proxy/vbCpEOwpkdZ2t69Fq_UpW8yOK74IViNwI7zIrHMUkreHZn70kknDzIK2bbtuKnCGr4oqiQK0Kmh_Az1O_p1bGXMrwDshYtahitoTdUXEBI2afjlOQeA2GfxonMb7pwr3H21u82k9iDslz3HlNlI2R86bSUOcXGhWEZD0r2yR8F-taAbYITvIjbdBpVmT-WU-mYHJRdlQ8JL7ODDtcWlGqFuc6A=s0-w200-h112-dcBWSOa6kG",
+      "googleLink": "https://news.google.com/./articles/CBMi3QJodHRwczovL3d3dy5hbGFyYWJpeWEubmV0L3RlY2hub2xvZ3kvMjAyMy8wMy8yNC8lRDglQUElRDglQjMlRDglQUElRDklODclRDglQUYlRDklODEtJUQ4JUE3JUQ5JTg0JUQ4JUI5JUQ4JUIxJUQ4JUE4LTI0MDAtJUQ4JUI1JUQ5JTgxJUQ4JUFEJUQ4JUE5LSVEOSU4MSVEOSU4QSVEOCVCMyVEOCVBOCVEOSU4OCVEOSU4My0lRDglQUElRDklODYlRDglQjQlRDglQjEtJUQ5JTg4JUQ4JUI4JUQ4JUE3JUQ4JUE2JUQ5JTgxLSVEOSU4NSVEOCVCMiVEOSU4QSVEOSU4MSVEOCVBOS0lRDklODQlRDglQjMlRDglQjElRDklODIlRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUE4JUQ5JThBJUQ4JUE3JUQ5JTg2JUQ4JUE3JUQ4JUFB0gHhAmh0dHBzOi8vd3d3LmFsYXJhYml5YS5uZXQvYW1wL3RlY2hub2xvZ3kvMjAyMy8wMy8yNC8lRDglQUElRDglQjMlRDglQUElRDklODclRDglQUYlRDklODEtJUQ4JUE3JUQ5JTg0JUQ4JUI5JUQ4JUIxJUQ4JUE4LTI0MDAtJUQ4JUI1JUQ5JTgxJUQ4JUFEJUQ4JUE5LSVEOSU4MSVEOSU4QSVEOCVCMyVEOCVBOCVEOSU4OCVEOSU4My0lRDglQUElRDklODYlRDglQjQlRDglQjEtJUQ5JTg4JUQ4JUI4JUQ4JUE3JUQ4JUE2JUQ5JTgxLSVEOSU4NSVEOCVCMiVEOSU4QSVEOSU4MSVEOCVBOS0lRDklODQlRDglQjMlRDglQjElRDklODIlRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUE4JUQ5JThBJUQ4JUE3JUQ5JTg2JUQ4JUE3JUQ4JUFB?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "العربية",
+      "datetime": "2023-03-24T00:20:00Z",
+      "titleSlug": "تستهدف-العرب..-2400-صفحة-فيسبوك-تنشر-وظائف-مزيفة-لسرقة-البيانات"
+    }
+  ]
+}
