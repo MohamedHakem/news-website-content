@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "world",
+      "source": "https://news.google.com/",
+      "title": "كيف تُغيّر شابةٌ عشرينية من القدس صورةَ الكهنوت؟",
+      "thumb": "https://lh3.googleusercontent.com/proxy/sm4TC78lcODryyy5spLHGL4uNxskR2_x84BUBRYXTfsELK2pSWf7Lk-ls-Gu2-xaSs9_XK7AJCX6FLcdN8NrgZNEy_1HaYsuBSJ0eIwoya4V4JYnXlKluIuiqbrfSh5HsgVCEGOuwhSUtY-ZhciI5ObayLsxQeOeX-ix0lfK=s0-w200-h112-dcHSaEzZUK",
+      "googleLink": "https://news.google.com/./articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vYXJhYmljL21pZGRsZWVhc3QtNjQ5MjEzMDfSAQA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "BBC Arabic",
+      "datetime": "2023-03-25T01:39:04Z",
+      "titleSlug": "كيف-تُغيّر-شابةٌ-عشرينية-من-القدس-صورةَ-الكهنوت؟"
+    },
+    {
+      "category": "world",
+      "source": "https://news.google.com/",
+      "title": "حسناء تونسية تثير جدلا بسبب تصريحات حول الجزائريين",
+      "thumb": "https://lh3.googleusercontent.com/proxy/V5X8b2e_Y5jTfgR26vzcDs-yq9RCpHoL_CTQyX3Q77CUn5Y4e-O6gixMcxXeKCLF90a_aixB3AC-6mM4DAv24YvIEDbVCU-Z1fGGnM5yvay3w7C_VouRTRCKPyjw3teMW5QFe9g8neR9RuUHl4yjzx_ofs7Db5KnSFdDxGjy_QawpLej_nOb1tfevIzLzW0jiuHCkUfhABhClYKgVeT0nIAR8A=s0-w200-h112-dcuUOKcSEJ",
+      "googleLink": "https://news.google.com/./articles/CBMiuwJodHRwczovL3d3dy5hbGFyYWJpeWEubmV0L3NvY2lhbC1tZWRpYS8yMDIzLzAzLzI1LyVEOCVBRCVEOCVCMyVEOSU4NiVEOCVBNyVEOCVBMS0lRDglQUElRDklODglRDklODYlRDglQjMlRDklOEElRDglQTktJUQ4JUFBJUQ4JUFCJUQ5JThBJUQ4JUIxLSVEOCVBQyVEOCVBRiVEOSU4NCVEOCVBNy0lRDglQTglRDglQjMlRDglQTglRDglQTgtJUQ4JUFBJUQ4JUI1JUQ4JUIxJUQ5JThBJUQ4JUFEJUQ4JUE3JUQ4JUFBLSVEOCVBRCVEOSU4OCVEOSU4NC0lRDglQTclRDklODQlRDglQUMlRDglQjIlRDglQTclRDglQTYlRDglQjElRDklOEElRDklOEElRDklODbSAb8CaHR0cHM6Ly93d3cuYWxhcmFiaXlhLm5ldC9hbXAvc29jaWFsLW1lZGlhLzIwMjMvMDMvMjUvJUQ4JUFEJUQ4JUIzJUQ5JTg2JUQ4JUE3JUQ4JUExLSVEOCVBQSVEOSU4OCVEOSU4NiVEOCVCMyVEOSU4QSVEOCVBOS0lRDglQUElRDglQUIlRDklOEElRDglQjEtJUQ4JUFDJUQ4JUFGJUQ5JTg0JUQ4JUE3LSVEOCVBOCVEOCVCMyVEOCVBOCVEOCVBOC0lRDglQUElRDglQjUlRDglQjElRDklOEElRDglQUQlRDglQTclRDglQUEtJUQ4JUFEJUQ5JTg4JUQ5JTg0LSVEOCVBNyVEOSU4NCVEOCVBQyVEOCVCMiVEOCVBNyVEOCVBNiVEOCVCMSVEOSU4QSVEOSU4QSVEOSU4Ng?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "العربية",
+      "datetime": "2023-03-25T01:33:00Z",
+      "titleSlug": "حسناء-تونسية-تثير-جدلا-بسبب-تصريحات-حول-الجزائريين"
+    }
+  ]
+}
