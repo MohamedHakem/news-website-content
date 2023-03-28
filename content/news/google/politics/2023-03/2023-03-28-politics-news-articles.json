@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "politics",
+      "source": "https://news.google.com/",
+      "title": "مظاهرات إسرائيل: إلى أين تتجه الاحتجاجات وهل يرضخ نتنياهو؟",
+      "thumb": "https://lh3.googleusercontent.com/proxy/M2dCWhs5osvYxQjvyyRTSfZgTHXTf-iMZZUpLhQ2OzlsJPD5Rq3dRLSMeRu-VGrbkZ66-PSh16ud2MzoQnQEfPltndi0hv5z0GEjK_Wsf0HEbgOJwm6tG7G1v4t0cugavzlMl8nbui7At070ejeK_vPbDGntrniXKXpQeit7AUZPNWztpwB_NmA1aDyko64E=s0-w280-h168-dcAWCIIq8H",
+      "googleLink": "https://news.google.com/./articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vYXJhYmljL21pZGRsZWVhc3QtNjUwOTI5ODDSATJodHRwczovL3d3dy5iYmMuY29tL2FyYWJpYy9taWRkbGVlYXN0LTY1MDkyOTgwLmFtcA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "BBC Arabic",
+      "datetime": "2023-03-28T00:15:58Z",
+      "titleSlug": "مظاهرات-إسرائيل-إلى-أين-تتجه-الاحتجاجات-وهل-يرضخ-نتنياهو؟"
+    },
+    {
+      "category": "politics",
+      "source": "https://news.google.com/",
+      "title": "كيف أصبحت التكنولوجيا الحديثة سلاحا ذا حدين لمظاهرات آسيا؟",
+      "thumb": "https://lh3.googleusercontent.com/proxy/_DmbXGYWfOFTH9sTihW3_o81WEot-CXYxe5Eso1jiPdBbO6fV9D5VpYup4LQBCzmV0HemXSfWGbtVq9fMG-zHFHhXED_gYCpL0BiZbsVElEht5zXxI7WklFW4ERe6qw3GhBvCeOIUdtMT9f0RQmvPHpjHeh_WqI0CLLMXg=s0-w200-h112-dclXCICi4H",
+      "googleLink": "https://news.google.com/./articles/CBMiKWh0dHBzOi8vd3d3LmJiYy5jb20vYXJhYmljL3dvcmxkLTY1MDkzNDA20gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "BBC Arabic",
+      "datetime": "2023-03-28T04:07:36Z",
+      "titleSlug": "كيف-أصبحت-التكنولوجيا-الحديثة-سلاحا-ذا-حدين-لمظاهرات-آسيا؟"
+    }
+  ]
+}
