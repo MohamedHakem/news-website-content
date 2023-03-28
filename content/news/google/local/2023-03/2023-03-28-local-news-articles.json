@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "انتداب المعمل الجنائي لكشف أسباب حريق شقة سكنية بمنطقة الشيخ زايد",
+      "thumb": "https://lh3.googleusercontent.com/proxy/konmc66h_YhILsPnQsYEL-wMUfuJWaG2FZlMbkH7GynzVCLjNjIT_OFqE0FL0KBfYfuh9bj-MDFNkZ6xHyHh9bdLvC801oZoIkduHzELVCyd1zxue6KA9rb837kVz_8_Ohk1zZWO4buMSWg=s0-w200-h112-dcBSGC0hBpitQA",
+      "googleLink": "https://news.google.com/./articles/CBMiK2h0dHBzOi8vZ2F0ZS5haHJhbS5vcmcuZWcvTmV3cy80MTk4NzcxLmFzcHjSAQA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "بوابة الأهرام",
+      "datetime": "2023-03-28T00:30:00Z",
+      "titleSlug": "انتداب-المعمل-الجنائي-لكشف-أسباب-حريق-شقة-سكنية-بمنطقة-الشيخ-زايد"
+    },
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "تجديد حبس \"دليفري الكيف\" لاتهامه بالاتجار في مخدر الحشيش بكرداسة",
+      "thumb": "https://lh3.googleusercontent.com/proxy/GEBdBGRm0ZwaTlM9fcA-woY-jvdfEgBuQLMhRIPkPF018W20R-TjeQDH24XvxoRB0ba3jmmR7JLpD_7tInPKGkH1Lu2XdYYb9DRXNyaD_i31HQ_rLO4EsF-FHiPwZv5pzd2TRCz40tx2Bln0=s0-w200-h112-dcgQGGTo0H",
+      "googleLink": "https://news.google.com/./articles/CBMiK2h0dHBzOi8vZ2F0ZS5haHJhbS5vcmcuZWcvTmV3cy80MTk4Nzc0LmFzcHjSAQA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "بوابة الأهرام",
+      "datetime": "2023-03-28T00:46:00Z",
+      "titleSlug": "تجديد-حبس-دليفري-الكيف-لاتهامه-بالاتجار-في-مخدر-الحشيش-بكرداسة"
+    }
+  ]
+}
