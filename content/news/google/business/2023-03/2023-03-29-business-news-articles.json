@@ -1,0 +1,37 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "business",
+      "source": "https://news.google.com/",
+      "title": "مفاجأة في أسعار الذهب اليوم.. الأربعاء 29 مارس بمحلات الصاغة",
+      "thumb": "https://lh3.googleusercontent.com/proxy/5hZmtEoj-hzTKJp4DjE4ozFRFWEKUDiMqUrQPrEEk-R52OkUYKan10f7nYLIZFTpwXpYSJCuxwihVpk89COGXUufs8u38_Rilo8NMGOZjo9oFdzrt6CuWif-TRJS3rLPX0Y=s0-w280-h168-dcAYCEZUAE",
+      "googleLink": "https://news.google.com/./articles/CBMiIGh0dHBzOi8vd3d3LmVsYW9zYm9hLmNvbS84MjI4MTAv0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "الأسبوع",
+      "datetime": "2023-03-29T03:22:44Z",
+      "titleSlug": "مفاجأة-في-أسعار-الذهب-اليوم..-الأربعاء-29-مارس-بمحلات-الصاغة"
+    },
+    {
+      "category": "business",
+      "source": "https://news.google.com/",
+      "title": "هتغطي على الكل.. مواصفات جبارة لـ سيارة شيري أريزو 5 الجديدة",
+      "thumb": "https://lh3.googleusercontent.com/proxy/dP5CiTIQGUVT9dWHj99OHOX7pife2EJ87HcUa2Cpk-jk_dBYixbPq3Tg9XMgtB2EcfvQmm0JplacDjV-ak8xTXIfckvBIvr8RkfOcAp9g-F_LAWFc95t4Vaddt2WjlxIKXbhw-9dv-tcWUKcBToEdJ3e4X7zUSY4mY8hAN_rmT_sefdXyAjYR10EbngLrw=s0-w200-h112-dcAUGOJ6XlNW8B",
+      "googleLink": "https://news.google.com/./articles/CBMizwJodHRwczovL211aHR3YXBsdXMuY29tLzM3Mzg5Ni8yMDIzLzAzLzI5LyVEOSU4NyVEOCVBQSVEOCVCQSVEOCVCNyVEOSU4QS0lRDglQjklRDklODQlRDklODktJUQ4JUE3JUQ5JTg0JUQ5JTgzJUQ5JTg0LSVEOSU4NSVEOSU4OCVEOCVBNyVEOCVCNSVEOSU4MSVEOCVBNyVEOCVBQS0lRDglQUMlRDglQTglRDglQTclRDglQjElRDglQTktJUQ5JTg0JUQ5JTgwLSVEOCVCMyVEOSU4QSVEOCVBNyVEOCVCMSVEOCVBOS0lRDglQjQlRDklOEElRDglQjElRDklOEEtJUQ4JUEzJUQ4JUIxJUQ5JThBJUQ4JUIyJUQ5JTg4LTUtJUQ4JUE3JUQ5JTg0JUQ4JUFDJUQ4JUFGJUQ5JThBJUQ4JUFGJUQ4JUE5L9IBAA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "محتوى بلس",
+      "datetime": "2023-03-29T00:27:03Z",
+      "titleSlug": "هتغطي-على-الكل..-مواصفات-جبارة-لـ-سيارة-شيري-أريزو-5-الجديدة"
+    },
+    {
+      "category": "business",
+      "source": "https://news.google.com/",
+      "title": "الذهب .. تفاصيل مَخْفيّة .. ومُخِيْفة",
+      "thumb": "https://lh3.googleusercontent.com/proxy/KzO2P60g65M_wk7LHmSr0QvcJuVBSCjMl4Za1Z4fXKB6zV5Rqo4YF-qzrXjFYb6mca7KKtM5A7ePRrmXH7llEmTklhDXlfRD2Dhoasd0hPXii2UvlstVBSE5WAFFej5twuasmIcg077M6w=s0-w200-h112-dcgUSO6iEI",
+      "googleLink": "https://news.google.com/./articles/CBMiM2h0dHBzOi8vc2EuaW52ZXN0aW5nLmNvbS9hbmFseXNpcy9hcnRpY2xlLTIwMDQ3NTY0MtIBAA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "السعودية Investing.com",
+      "datetime": "2023-03-29T01:21:00Z",
+      "titleSlug": "الذهب-..-تفاصيل-مَخْفيّة-..-ومُخِيْفة"
+    }
+  ]
+}
