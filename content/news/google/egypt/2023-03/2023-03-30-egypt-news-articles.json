@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "egypt",
+      "source": "https://news.google.com/",
+      "title": "«انخفاض 60 جنيهًا في البانيه».. أسعار الدواجن والبيض اليوم في البورصة والأسواق",
+      "thumb": "https://lh3.googleusercontent.com/proxy/ZuEpm2Xwtr1KD-m3kIODt_GWIxe90duXRIam-DyKxtFEJMxYtJVjWyuTjjBsyLviJVjwq_d67FZGHZN_nxR6yRaqlpvKnd0POkU_w7IkFUGPKfG6hLRA7iW7BgoLdGKfTmRQJ7U=s0-w280-h168-dcAQCChJSkJPco~IE",
+      "googleLink": "https://news.google.com/./articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yODUzNzA50gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Al Masry Al Youm - المصري اليوم",
+      "datetime": "2023-03-30T00:04:00Z",
+      "titleSlug": "«انخفاض-60-جنيهًا-في-البانيه»..-أسعار-الدواجن-والبيض-اليوم-في-البورصة-والأسواق"
+    },
+    {
+      "category": "egypt",
+      "source": "https://news.google.com/",
+      "title": "العاصفة بدأت.. تحذير عاجل من الأرصاد الجوية من طقس الساعات المقبلة",
+      "thumb": "https://lh3.googleusercontent.com/proxy/hfJJAUj15k70IKihLqD_jBk68Omt2PevWK1xrhh_fc5TzZ6yLi63lEk-cq9CnhXFcRHoaZ91iQMPneaLqc9wN29WIM99qH0gb-X0Ywzv5WKafgqvNBfe45GPPmcZmT0=s0-w280-h168-dcAZAQ",
+      "googleLink": "https://news.google.com/./articles/CBMiIGh0dHBzOi8vd3d3LmVsYmFsYWQubmV3cy81NzA5NTk10gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sada El-Bald صدى البلد",
+      "datetime": "2023-03-30T00:20:00Z",
+      "titleSlug": "العاصفة-بدأت..-تحذير-عاجل-من-الأرصاد-الجوية-من-طقس-الساعات-المقبلة"
+    }
+  ]
+}
