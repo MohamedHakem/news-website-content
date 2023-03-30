@@ -87,6 +87,28 @@
       "origin": "اليوم السابع",
       "datetime": "2023-03-30T06:00:00Z",
       "titleSlug": "الأرصاد-نشاط-للرياح-واضطراب-فى-حركة-الملاحة..-والصغرى-بالقاهرة-11-درجة"
+    },
+    {
+      "category": "egypt",
+      "source": "https://news.google.com/",
+      "title": "حالة الطقس اليوم الخميس 30 مارس 2023",
+      "thumb": "https://lh3.googleusercontent.com/proxy/I0dqv8P_7Jcx_wmXfdOfbceltAhWqpFQfjNr8R5U360Dj1x8yFAIzdLsFF1LvfGDR_fMPio7gjLUHxJNYEfiDmiHpgRHTK0vhGdoA4vMQ5IPC_AlTXVrzeGDYIq2O4c=s0-w280-h168-dcAYAS",
+      "googleLink": "https://news.google.com/./articles/CBMiIGh0dHBzOi8vd3d3LmVsYmFsYWQubmV3cy81NzA5Njcw0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sada El-Bald صدى البلد",
+      "datetime": "2023-03-30T06:00:51Z",
+      "titleSlug": "حالة-الطقس-اليوم-الخميس-30-مارس-2023"
+    },
+    {
+      "category": "egypt",
+      "source": "https://news.google.com/",
+      "title": "رئيس الوزراء يصدر قرارين جديدين (التفاصيل)",
+      "thumb": "https://lh3.googleusercontent.com/proxy/HRjUZg37mQjFY89SxQOsl4ia505vQla0t8qpNyBxgSMh2IFvsLJk8fZ-yJipKowCjkIILgS15aNNTb07YyQAe4JLzffgdVXkcEpxI1Zt_9krPpOpkHD6QHck_Gi11g0LiQ=s0-w200-h112-dcrTWazZ0J",
+      "googleLink": "https://news.google.com/./articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yODUzNzk50gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Al Masry Al Youm - المصري اليوم",
+      "datetime": "2023-03-30T07:49:00Z",
+      "titleSlug": "رئيس-الوزراء-يصدر-قرارين-جديدين-(التفاصيل)"
     }
   ]
 }
