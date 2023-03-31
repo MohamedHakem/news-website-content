@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "business",
+      "source": "https://news.google.com/",
+      "title": "بعد رفع سعر الفائدة.. سعر الدولار مقابل الجنيه المصري اليوم الجمعة 31-3-2023",
+      "thumb": "https://lh3.googleusercontent.com/proxy/H7wvTlJsyYRhXeiIGrWndlwSh2H981OqAE21RGXaJTon-e-rFDJk0OmsUiyqyqxIIdVQeylb19AWt5_55mF2I0SBRugIV8_Cae-GQYna1PvhL2j0pIe_cY0rU43dU5KbKygZd0Gc=s0-w280-h168-dcDQGOKJUF",
+      "googleLink": "https://news.google.com/./articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yODU0NTc00gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Al Masry Al Youm - المصري اليوم",
+      "datetime": "2023-03-31T03:09:00Z",
+      "titleSlug": "بعد-رفع-سعر-الفائدة..-سعر-الدولار-مقابل-الجنيه-المصري-اليوم-الجمعة-31-3-2023"
+    },
+    {
+      "category": "business",
+      "source": "https://news.google.com/",
+      "title": "بعد رفع سعر الفائدة.. صدمة فى أسعار الحديد والأسمنت اليوم الجمعة 31 مارس 2023",
+      "thumb": "https://lh3.googleusercontent.com/proxy/_7__sBY9GswpAOaY43KVoY2I9YXecU9nS-Hc9HQcDzdmhIk2_81RfljwOc7pkAwQR39KMJ4rFehvKePNHUy1i15FpIDVsb0qfB5cS0spAJHbth_H9IWLoBeMTh3OA6Gtqw=s0-w280-h168-dcATCME6QE",
+      "googleLink": "https://news.google.com/./articles/CBMiIGh0dHBzOi8vd3d3LmVsYW9zYm9hLmNvbS84MjY3NTQv0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "الأسبوع",
+      "datetime": "2023-03-30T23:34:06Z",
+      "titleSlug": "بعد-رفع-سعر-الفائدة..-صدمة-فى-أسعار-الحديد-والأسمنت-اليوم-الجمعة-31-مارس-2023"
+    }
+  ]
+}
