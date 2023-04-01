@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "politics",
+      "source": "https://news.google.com/",
+      "title": "ما تبعات توجيه اتهامات رسمية لترامب؟",
+      "thumb": "https://lh3.googleusercontent.com/proxy/2QZDvYGDctSSKOghB79reSs4AAEwZiurpLyfybx0bcD-9ThtJMMolIRNFnKQ32cC5CRSL-A9kCst_Ufk2-PYPC4qyxgYNlQuSNLcwHwmI7vZhz_6z45jltGvEpUrVvDYNB0IzTIbua_nAA3Q3VOblB0slUzuE5pMi232Q50=s0-w280-h168-dclSieiJoK",
+      "googleLink": "https://news.google.com/./articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vYXJhYmljL2ludGhlcHJlc3MtNjUxNDU5MDPSAQA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "BBC Arabic",
+      "datetime": "2023-04-01T02:42:16Z",
+      "titleSlug": "ما-تبعات-توجيه-اتهامات-رسمية-لترامب؟"
+    },
+    {
+      "category": "politics",
+      "source": "https://news.google.com/",
+      "title": "الحرب في اليمن: هل يُغيّر اتفاق طهران والرياض المشهد بعد 9 سنوات من الصراع؟",
+      "thumb": "https://lh3.googleusercontent.com/proxy/m5FZda-RTsMvbGD5wYcaEayUK1P0Ptm2nxJlDMfyZ14NTDGzLoexUNTvKjFiIRX4x0PRDTfRDNDhTnn48_-rX77Pdiu_dQgfP1p4A1dKVt14kREuHsSpCnVNZ7PYaBNpDLRVyu-2by8LY5ib5xee5tKBpNCPgzqpxYGfn8hxZr_22iinDwbHHDO4pIKtqNx0XzaBI4rp=s0-w200-h112-dcgWOIj6UH",
+      "googleLink": "https://news.google.com/./articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vYXJhYmljL21pZGRsZWVhc3QtNjUxMzc1NjnSAQA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "BBC Arabic",
+      "datetime": "2023-04-01T02:11:42Z",
+      "titleSlug": "الحرب-في-اليمن-هل-يُغيّر-اتفاق-طهران-والرياض-المشهد-بعد-9-سنوات-من-الصراع؟"
+    }
+  ]
+}
