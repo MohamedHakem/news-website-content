@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "هذه العادات تسبب سرطان القولون لدى الشباب",
+      "thumb": "https://lh3.googleusercontent.com/proxy/2N4FpyI4elfurQzsWKJyJ0p8qdC3FP1Dpu5wAxIxLnbFxXpbVEgfBZXgv9PN0Q8gl8cPQAnNLUbO0uFd_QOCl3OtSekC7PT4nu2uPq61V99q_gj1-taMFxiZungwUAw=s0-w200-h112-dcpSaOC5oJ",
+      "googleLink": "https://news.google.com/./articles/CBMiIGh0dHBzOi8vd3d3LmVsYmFsYWQubmV3cy81NzEyMTA00gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sada El-Bald صدى البلد",
+      "datetime": "2023-04-01T13:01:00Z",
+      "titleSlug": "هذه-العادات-تسبب-سرطان-القولون-لدى-الشباب"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "أنواع التهاب المفاصل.. كيف يمكن أن تساعد التمارين الرياضية وأسلوب الحياة الصحي",
+      "thumb": "https://lh3.googleusercontent.com/proxy/6c8b3t-gYeWDlg8x7aHZ3-BKJ3I43GU-ln9g4Fw8KCVz6qIqSAw1A5tm26tCTS5JM7EWpq-pP5nUeVNMV-mnQ-VpKL_dQ0NWbgwmWTE=s0-w200-h112-dcgSaELCIJ",
+      "googleLink": "https://news.google.com/./articles/CBMi-gJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy80LzEvJUQ4JUEzJUQ5JTg2JUQ5JTg4JUQ4JUE3JUQ4JUI5LSVEOCVBNyVEOSU4NCVEOCVBQSVEOSU4NyVEOCVBNyVEOCVBOC0lRDglQTclRDklODQlRDklODUlRDklODElRDglQTclRDglQjUlRDklODQtJUQ5JTgzJUQ5JThBJUQ5JTgxLSVEOSU4QSVEOSU4NSVEOSU4MyVEOSU4Ni0lRDglQTMlRDklODYtJUQ4JUFBJUQ4JUIzJUQ4JUE3JUQ4JUI5JUQ4JUFGLSVEOCVBNyVEOSU4NCVEOCVBQSVEOSU4NSVEOCVBNyVEOCVCMSVEOSU4QSVEOSU4Ni0lRDglQTclRDklODQlRDglQjElRDklOEElRDglQTclRDglQjYlRDklOEElRDglQTktJUQ5JTg4JUQ4JUEzJUQ4JUIzJUQ5JTg0JUQ5JTg4JUQ4JUE4LzYwMjI3NzjSAQA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "اليوم السابع",
+      "datetime": "2023-04-01T06:00:00Z",
+      "titleSlug": "أنواع-التهاب-المفاصل..-كيف-يمكن-أن-تساعد-التمارين-الرياضية-وأسلوب-الحياة-الصحي"
+    }
+  ]
+}
