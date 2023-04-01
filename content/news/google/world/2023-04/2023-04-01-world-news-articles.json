@@ -1,0 +1,48 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "world",
+      "source": "https://news.google.com/",
+      "title": "ماذا سيحدث مع ترامب عندما يمثل أمام المحكمة؟",
+      "thumb": "https://lh3.googleusercontent.com/proxy/roBItcsNDaYJBQfyZwUoQTKbVFdtFcJcgmVQKLpYgP9q8QCmjkB57s7jTv5vGJzwK7sdjnYl-EcpyiqecAWwGDrEAkShUNOLN_38hkgRI2xUNqQwvK2TIwZl-l8Xh3zqVTWvx8fxZ9O81eVtXxez1MZu3ZLvx8uCvhGG04uJ-pV54Td_xbxumy5YADZKuz7d=s0-w280-h168-dciZaASTIE",
+      "googleLink": "https://news.google.com/./articles/CBMiKWh0dHBzOi8vd3d3LmJiYy5jb20vYXJhYmljL3dvcmxkLTY1MTQ1NzYz0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "BBC Arabic",
+      "datetime": "2023-04-01T02:08:39Z",
+      "titleSlug": "ماذا-سيحدث-مع-ترامب-عندما-يمثل-أمام-المحكمة؟"
+    },
+    {
+      "category": "world",
+      "source": "https://news.google.com/",
+      "title": "بينهم رضيع.. مقتل 8 أثناء محاولتهم دخول أميركا من كندا",
+      "thumb": "https://lh3.googleusercontent.com/proxy/pz2x6hDOuA4qZUxgqPficIaTA9aTlMSjX303z71LHJD7YIHpkdFCaDsbLFDr_9Seu6GNMgGMRLN69x9mx3FG3mp5BqALUuRghlIuVHNZUAmQGyAQF1Jns8JW_tmUG3r6-OqQ-ApB8riYxTNV=s0-w280-h168-dclUWCDZoK",
+      "googleLink": "https://news.google.com/./articles/CBMisQJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS93b3JsZC8xNjA5NDkyLSVEOCVBOCVEOSU4QSVEOSU4NiVEOSU4NyVEOSU4NS0lRDglQjElRDglQjYlRDklOEElRDglQjktJUQ5JTg1JUQ5JTgyJUQ4JUFBJUQ5JTg0LTgtJUQ4JUE3JUQ5JTk0JUQ4JUFCJUQ5JTg2JUQ4JUE3JUQ4JUExLSVEOSU4NSVEOCVBRCVEOCVBNyVEOSU4OCVEOSU4NCVEOCVBQSVEOSU4NyVEOSU4NS0lRDglQUYlRDglQUUlRDklODglRDklODQtJUQ4JUE3JUQ5JTk0JUQ5JTg1JUQ5JThBJUQ4JUIxJUQ5JTgzJUQ4JUE3LSVEOSU4MyVEOSU4NiVEOCVBRiVEOCVBN9IBtQJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9hbXAvd29ybGQvMTYwOTQ5Mi0lRDglQTglRDklOEElRDklODYlRDklODclRDklODUtJUQ4JUIxJUQ4JUI2JUQ5JThBJUQ4JUI5LSVEOSU4NSVEOSU4MiVEOCVBQSVEOSU4NC04LSVEOCVBNyVEOSU5NCVEOCVBQiVEOSU4NiVEOCVBNyVEOCVBMS0lRDklODUlRDglQUQlRDglQTclRDklODglRDklODQlRDglQUElRDklODclRDklODUtJUQ4JUFGJUQ4JUFFJUQ5JTg4JUQ5JTg0LSVEOCVBNyVEOSU5NCVEOSU4NSVEOSU4QSVEOCVCMSVEOSU4MyVEOCVBNy0lRDklODMlRDklODYlRDglQUYlRDglQTc?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sky News Arabia سكاي نيوز عربية",
+      "datetime": "2023-04-01T01:37:05Z",
+      "titleSlug": "بينهم-رضيع..-مقتل-8-أثناء-محاولتهم-دخول-أميركا-من-كندا"
+    },
+    {
+      "category": "world",
+      "source": "https://news.google.com/",
+      "title": "لمواجهة نفوذ الصين بالمحيط الهادئ.. سفارة لواشنطن في فانواتو",
+      "thumb": "https://lh3.googleusercontent.com/proxy/lkRP6WIrpNR8Bd9R0gV7boHfZQtanz1h8bRm9eR438XjRqhxNujms7sr4vrAN0SMeoJXjVMnOxWm6e0EQiuS6dPIJLb5v9IcpJDCLqJ7LhgNwFPcj0No7WzRDHdN_xk8MyU5X-Y6X8Fq4bEF=s0-w200-h112-dcFROCqqEC",
+      "googleLink": "https://news.google.com/./articles/CBMi2AJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS93b3JsZC8xNjA5NDk0LSVEOSU4NCVEOSU4NSVEOSU4OCVEOCVBNyVEOCVBQyVEOSU4NyVEOCVBOS0lRDklODYlRDklODElRDklODglRDglQjAtJUQ4JUE3JUQ5JTg0JUQ4JUI1JUQ5JThBJUQ5JTg2LSVEOCVBOCVEOCVBNyVEOSU4NCVEOSU4NSVEOCVBRCVEOSU4QSVEOCVCNy0lRDglQTclRDklODQlRDklODclRDglQTclRDglQUYlRDklOEElRDglQTElRDglQjMlRDklODElRDglQTclRDglQjElRDglQTktJUQ5JTg0JUQ5JTg4JUQ4JUE3JUQ4JUI0JUQ5JTg2JUQ4JUI3JUQ5JTg2LSVEOSU4MSVEOCVBNyVEOSU4NiVEOSU4OCVEOCVBNyVEOCVBQSVEOSU4ONIB3AJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9hbXAvd29ybGQvMTYwOTQ5NC0lRDklODQlRDklODUlRDklODglRDglQTclRDglQUMlRDklODclRDglQTktJUQ5JTg2JUQ5JTgxJUQ5JTg4JUQ4JUIwLSVEOCVBNyVEOSU4NCVEOCVCNSVEOSU4QSVEOSU4Ni0lRDglQTglRDglQTclRDklODQlRDklODUlRDglQUQlRDklOEElRDglQjctJUQ4JUE3JUQ5JTg0JUQ5JTg3JUQ4JUE3JUQ4JUFGJUQ5JThBJUQ4JUExJUQ4JUIzJUQ5JTgxJUQ4JUE3JUQ4JUIxJUQ4JUE5LSVEOSU4NCVEOSU4OCVEOCVBNyVEOCVCNCVEOSU4NiVEOCVCNyVEOSU4Ni0lRDklODElRDglQTclRDklODYlRDklODglRDglQTclRDglQUElRDklODg?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sky News Arabia سكاي نيوز عربية",
+      "datetime": "2023-04-01T02:01:55Z",
+      "titleSlug": "لمواجهة-نفوذ-الصين-بالمحيط-الهادئ..-سفارة-لواشنطن-في-فانواتو"
+    },
+    {
+      "category": "world",
+      "source": "https://news.google.com/",
+      "title": "الغرب \"وضع خطة لمشاركة مصر في السيادة على قناة السويس بعد التأميم\"",
+      "thumb": "https://lh3.googleusercontent.com/proxy/q_5ZRbaBG5a7zWSv2YzxYLDCW6vzjik7H28WJD8vm19MDcEwCJhQj7hE3CRE0Wa_1J8wJbg-4n7Q6bHPPGJLPoa43K61z3wI_gdUQKSHpqk9hQnyqZs2VAqCwyW2w3jyBdGVRGdK7-y2vP9xx9c81E5R0lDIFzS_sPV9-uZBKm1UDCwEqdlDTEVZ_1EYPw=s0-w200-h112-dclbMC",
+      "googleLink": "https://news.google.com/./articles/CBMiI2h0dHBzOi8vd3d3LmJiYy5jb20vYXJhYmljLzY1MDA0NzA20gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "BBC Arabic",
+      "datetime": "2023-04-01T04:02:16Z",
+      "titleSlug": "الغرب-وضع-خطة-لمشاركة-مصر-في-السيادة-على-قناة-السويس-بعد-التأميم"
+    }
+  ]
+}
