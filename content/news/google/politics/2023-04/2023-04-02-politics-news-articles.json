@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "politics",
+      "source": "https://news.google.com/",
+      "title": "إيران: السلطات تلقي القبض على امرأتين بتهمة السفور عقب تعرضهما للهجوم باللبن الزبادي",
+      "thumb": "https://lh3.googleusercontent.com/proxy/f1zTH9rNfXth91VLmEp9m4PzKgrneeWG4_7KPe6EGGqtjaM5whMUoVBzHPlbItfysulbun0eqWCFKigWD_1hZqTFVHdPIxBFq_yZK4AFxkSon5-sgu-zc0yX7PYO7gIhfOKkft2eSjjCgkwPOorv-Kzbp2Rrvl_4XxyGkXyykX-zeQAceSI8-chHDub-kdSZ=s0-w280-h168-dckUWGCUYE",
+      "googleLink": "https://news.google.com/./articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vYXJhYmljL21pZGRsZWVhc3QtNjUxMzY5NTfSATJodHRwczovL3d3dy5iYmMuY29tL2FyYWJpYy9taWRkbGVlYXN0LTY1MTM2OTU3LmFtcA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "BBC Arabic",
+      "datetime": "2023-04-02T00:26:48Z",
+      "titleSlug": "إيران-السلطات-تلقي-القبض-على-امرأتين-بتهمة-السفور-عقب-تعرضهما-للهجوم-باللبن-الزبادي"
+    },
+    {
+      "category": "politics",
+      "source": "https://news.google.com/",
+      "title": "«حميدتي» يشترط تطهير الجيش من أنصار البشير",
+      "thumb": "https://lh3.googleusercontent.com/proxy/-wPnvILxOCJDP5syugPzAqvmFk6Mk0Zq9Qg6X9wLY7d1rIw2TBXowu5T_5IWy0rcpQy0xRN1-iJkwPk8gbw84A_uDCf-5euiW0Zvv_psQ_Lwj_5nVgnFhaXfhpdYdAWfLmoeNl5bRo16KXKQM_rs5gIs95Y9U1gfpeiLdEd5WhzqcVux1Wj7LO81BzY8kbM=s0-w200-h112-dchVGS5C5nNUcC",
+      "googleLink": "https://news.google.com/./articles/CBMihgJodHRwczovL2Fhd3NhdC5jb20vaG9tZS9hcnRpY2xlLzQyNDgwNTYvJUMyJUFCJUQ4JUFEJUQ5JTg1JUQ5JThBJUQ4JUFGJUQ4JUFBJUQ5JThBJUMyJUJCLSVEOSU4QSVEOCVCNCVEOCVBQSVEOCVCMSVEOCVCNy0lRDglQUElRDglQjclRDklODclRDklOEElRDglQjEtJUQ4JUE3JUQ5JTg0JUQ4JUFDJUQ5JThBJUQ4JUI0LSVEOSU4NSVEOSU4Ni0lRDglQTMlRDklODYlRDglQjUlRDglQTclRDglQjEtJUQ4JUE3JUQ5JTg0JUQ4JUE4JUQ4JUI0JUQ5JThBJUQ4JUIx0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "صحيفة الشرق الأوسط",
+      "datetime": "2023-04-02T01:42:42Z",
+      "titleSlug": "«حميدتي»-يشترط-تطهير-الجيش-من-أنصار-البشير"
+    }
+  ]
+}
