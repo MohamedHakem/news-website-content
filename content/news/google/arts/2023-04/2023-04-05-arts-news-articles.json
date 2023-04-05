@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "arts",
+      "source": "https://news.google.com/",
+      "title": "«فولة واتقسمت».. مصطفى غريب يعلق على صورته مع محمد محمود في كواليس الكبير أوي 7",
+      "thumb": "https://lh3.googleusercontent.com/proxy/bT_k38DAoM4EYjtMRvaQNaKvMut7ft0H_cMa7CelbQDXGU7sM2FLCDDOO-fBm481uyLIWz5-0y2jyioIZT_isLm-Crigk19j32lzkORG2JtE_nVoQcvwkEB3kGuJ6LaJEh5qG7o=s0-w200-h112-dcmQSOKQIM",
+      "googleLink": "https://news.google.com/./articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yODU4MjM00gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Al Masry Al Youm - المصري اليوم",
+      "datetime": "2023-04-05T00:49:00Z",
+      "titleSlug": "فولة-واتقسمت.-مصطفى-غريب-يعلق-على-صورته-مع-محمد-محمود-في-كواليس-الكبير-أوي-7"
+    },
+    {
+      "category": "arts",
+      "source": "https://news.google.com/",
+      "title": "أحمد العوضي يوجه رسالة إلى متابعي «ضرب نار»",
+      "thumb": "https://lh3.googleusercontent.com/proxy/-pZTUfHU74o9AFAI9CCf_sLeEr6I51bEMrKobGDkva7mADkS1LiUjoW-f-cLoA0ZCLlJt9RocYO2qrSjHrgfmKb7L553zqNJFBuLsJS1nlEU7sARjnMxxCJ1418mNPirFgR1eNo=s0-w200-h112-dcoRaYK5YK",
+      "googleLink": "https://news.google.com/./articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yODU4MjQw0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Al Masry Al Youm - المصري اليوم",
+      "datetime": "2023-04-05T00:53:00Z",
+      "titleSlug": "أحمد-العوضي-يوجه-رسالة-إلى-متابعي-ضرب-نار"
+    }
+  ]
+}
