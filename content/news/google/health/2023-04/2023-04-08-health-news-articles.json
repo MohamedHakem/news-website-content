@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "لدماغ أكثر صحة.. عليك بتناول هذه الوجبة يوميا",
+      "thumb": "https://lh3.googleusercontent.com/proxy/KN8HIzs4Vebzp2H9hoDiRQ9G6jzWb7C11nfu0XZmvrCIwJkOhjuuaa4oCxSE42w83_1EVLJMwNeHcbnHcXB1MMwuMpZ4fSK7tlrFZbC9Olgs0qQlUT4P9qjI2ESVbAmGSSmOf1mQj3KgDQd1=s0-w200-h112-dcDQGKSKYG",
+      "googleLink": "https://news.google.com/./articles/CBMi3gFodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS90ZWNobm9sb2d5LzE2MTEzNjItJUQ5JTg0JUQ4JUFGJUQ5JTg1JUQ4JUE3JUQ4JUJBLSVEOCVCNSVEOCVBRCVEOCVBOS0lRDglQTglRDglQUElRDklODYlRDglQTclRDklODglRDklODQtJUQ5JTg3JUQ4JUIwJUQ5JTg3LSVEOCVBNyVEOSU4NCVEOSU4OCVEOCVBQyVEOCVBOCVEOCVBOS0lRDklOEElRDklODglRDklODUlRDklOEElRDglQTfSAeIBaHR0cHM6Ly93d3cuc2t5bmV3c2FyYWJpYS5jb20vYW1wL3RlY2hub2xvZ3kvMTYxMTM2Mi0lRDklODQlRDglQUYlRDklODUlRDglQTclRDglQkEtJUQ4JUI1JUQ4JUFEJUQ4JUE5LSVEOCVBOCVEOCVBQSVEOSU4NiVEOCVBNyVEOSU4OCVEOSU4NC0lRDklODclRDglQjAlRDklODctJUQ4JUE3JUQ5JTg0JUQ5JTg4JUQ4JUFDJUQ4JUE4JUQ4JUE5LSVEOSU4QSVEOSU4OCVEOSU4NSVEOSU4QSVEOCVBNw?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sky News Arabia سكاي نيوز عربية",
+      "datetime": "2023-04-08T06:03:45Z",
+      "titleSlug": "لدماغ-أكثر-صحة.-عليك-بتناول-هذه-الوجبة-يوميا"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "6 فوائد صحية هائلة لعصير قصب السكر في الصيف",
+      "thumb": "https://lh3.googleusercontent.com/proxy/TAM9ziAYX9Am-tF-QwDnR_rCVnb_k06hZAu_SsOgeOx6A6h-sf572wLjvS5UREuI-YlwlqJhgZRSzBetp90ne-z9Io6t7P2uIXU1zJw=s0-w200-h112-dcGQGI1JgG",
+      "googleLink": "https://news.google.com/./articles/CBMiggJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy80LzgvNi0lRDklODElRDklODglRDglQTclRDglQTYlRDglQUYtJUQ4JUI1JUQ4JUFEJUQ5JThBJUQ4JUE5LSVEOSU4NyVEOCVBNyVEOCVBNiVEOSU4NCVEOCVBOS0lRDklODQlRDglQjklRDglQjUlRDklOEElRDglQjEtJUQ5JTgyJUQ4JUI1JUQ4JUE4LSVEOCVBNyVEOSU4NCVEOCVCMyVEOSU4MyVEOCVCMS0lRDklODElRDklOEEtJUQ4JUE3JUQ5JTg0JUQ4JUI1JUQ5JThBJUQ5JTgxLzYxNDE5NjnSAf4BaHR0cHM6Ly9tLnlvdW03LmNvbS9hbXAvMjAyMy80LzgvNi0lRDklODElRDklODglRDglQTclRDglQTYlRDglQUYtJUQ4JUI1JUQ4JUFEJUQ5JThBJUQ4JUE5LSVEOSU4NyVEOCVBNyVEOCVBNiVEOSU4NCVEOCVBOS0lRDklODQlRDglQjklRDglQjUlRDklOEElRDglQjEtJUQ5JTgyJUQ4JUI1JUQ4JUE4LSVEOCVBNyVEOSU4NCVEOCVCMyVEOSU4MyVEOCVCMS0lRDklODElRDklOEEtJUQ4JUE3JUQ5JTg0JUQ4JUI1JUQ5JThBJUQ5JTgxLzYxNDE5Njk?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "اليوم السابع",
+      "datetime": "2023-04-08T05:00:00Z",
+      "titleSlug": "6-فوائد-صحية-هائلة-لعصير-قصب-السكر-في-الصيف"
+    }
+  ]
+}
