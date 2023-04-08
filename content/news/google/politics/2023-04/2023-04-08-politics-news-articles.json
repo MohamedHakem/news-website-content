@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "politics",
+      "source": "https://news.google.com/",
+      "title": "أمريكا: ندين بشدة \"الهجمات الإرهابية\" التي وقعت في إسرائيل",
+      "thumb": "https://lh3.googleusercontent.com/proxy/9r4xVU_yforaku1OfGcSZwmCNkYtQYhw-lWbjKmCSggEtFnOviF5QArJ8OrJZj0Z6tNmIJiSdpB564Im71X3keg-v1e8KzQQNmg-n4ym4ltJ372Ocd7adq8z9xhBLpDNt2lE4eA4dwdf0uQPS8Z8ie9cOXIU14syHwutZc2tiqYe8ZvfuOp1XPBOhB34iUK7GjLziIu_JpqYxh3tgQB9Y_qaiifkStIlXUS-B0zM5mBzKj6PXkVF-V3Ic2uIsX8=s0-w280-h168-dckXeGSKoE",
+      "googleLink": "https://news.google.com/./articles/CBMiZmh0dHBzOi8vYXJhYmljLmNubi5jb20vbWlkZGxlLWVhc3QvYXJ0aWNsZS8yMDIzLzA0LzA4L3VzLXN0cm9uZ2x5LWNvbmRlbW5zLXRlcnJvcmlzdC1hdHRhY2tzLWluLWlzcmFlbNIBbmh0dHBzOi8vYXJhYmljLmNubi5jb20vYW1waHRtbC9taWRkbGUtZWFzdC9hcnRpY2xlLzIwMjMvMDQvMDgvdXMtc3Ryb25nbHktY29uZGVtbnMtdGVycm9yaXN0LWF0dGFja3MtaW4taXNyYWVs?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "CNN Arabic",
+      "datetime": "2023-04-08T00:21:56Z",
+      "titleSlug": "أمريكا-ندين-بشدة-الهجمات-الإرهابية-التي-وقعت-في-إسرائيل"
+    },
+    {
+      "category": "politics",
+      "source": "https://news.google.com/",
+      "title": "العدل الأميركية تحقق في تسريب وثائق أمنية سرية",
+      "thumb": "https://lh3.googleusercontent.com/proxy/hh-sOIoCDMfJ1upM5ZjdcdfrHvuDJ8UiTuXVHUg56Wp99hkMNHNqn_O0aMqCcm2wuNbmYJi5D0ZjUNpwErRGoIWXXV5EqArnASYFQPt2dLgYvXtfOshNXiqSdkL78578rQrUTuv-JoZyrZWB4KzlvTP2XRk-lQzm-u9nT3nmPzqNqD1YIcWYUjvD9p4TvNq6CUJ2IYaeCqMzmOG_j3iTW7A7vg=s0-w280-h168-dciTKUEBkK",
+      "googleLink": "https://news.google.com/./articles/CBMi5wJodHRwczovL3d3dy5hbGFyYWJpeWEubmV0L2FyYWItYW5kLXdvcmxkLzIwMjMvMDQvMDgvJUQ5JTg1JUQ4JUIzJUQ4JUE0JUQ5JTg4JUQ5JTg0JUQ5JTg4JUQ5JTg2LSVEOCVBMyVEOSU4NSVEOSU4QSVEOCVCMSVEOSU4MyVEOSU4QSVEOSU4OCVEOSU4Ni0lRDklOEElRDglQUElRDklODclRDklODUlRDklODglRDklODYtJUQ4JUIxJUQ5JTg4JUQ4JUIzJUQ5JThBJUQ4JUE3LSVEOCVBOCVEOCVBQSVEOCVCMyVEOCVCMSVEOSU4QSVEOCVBOC0lRDklODglRDglQUIlRDglQTclRDglQTYlRDklODItJUQ4JUI5JUQ4JUIzJUQ5JTgzJUQ4JUIxJUQ5JThBJUQ4JUE5LSVEOCVBMyVEOSU4NSVEOSU4QSVEOCVCMSVEOSU4MyVEOSU4QSVEOCVBOdIB6wJodHRwczovL3d3dy5hbGFyYWJpeWEubmV0L2FtcC9hcmFiLWFuZC13b3JsZC8yMDIzLzA0LzA4LyVEOSU4NSVEOCVCMyVEOCVBNCVEOSU4OCVEOSU4NCVEOSU4OCVEOSU4Ni0lRDglQTMlRDklODUlRDklOEElRDglQjElRDklODMlRDklOEElRDklODglRDklODYtJUQ5JThBJUQ4JUFBJUQ5JTg3JUQ5JTg1JUQ5JTg4JUQ5JTg2LSVEOCVCMSVEOSU4OCVEOCVCMyVEOSU4QSVEOCVBNy0lRDglQTglRDglQUElRDglQjMlRDglQjElRDklOEElRDglQTgtJUQ5JTg4JUQ4JUFCJUQ4JUE3JUQ4JUE2JUQ5JTgyLSVEOCVCOSVEOCVCMyVEOSU4MyVEOCVCMSVEOSU4QSVEOCVBOS0lRDglQTMlRDklODUlRDklOEElRDglQjElRDklODMlRDklOEElRDglQTk?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "العربية",
+      "datetime": "2023-04-07T22:58:00Z",
+      "titleSlug": "العدل-الأميركية-تحقق-في-تسريب-وثائق-أمنية-سرية"
+    }
+  ]
+}
