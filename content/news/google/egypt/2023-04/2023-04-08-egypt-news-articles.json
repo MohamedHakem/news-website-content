@@ -230,6 +230,28 @@
       "origin": "اليوم السابع",
       "datetime": "2023-04-08T12:34:00Z",
       "titleSlug": "ارتفاع-درجات-الحرارة-غدا-وفرص-أمطار-والعظمى-بالقاهرة-35-وأسوان-38-درجة"
+    },
+    {
+      "category": "egypt",
+      "source": "https://news.google.com/",
+      "title": "السيسي يتابع العمل في مشروع \"التجلي الأعظم\" بسيناء",
+      "thumb": "https://lh3.googleusercontent.com/proxy/dGvCR22FFiXu6RXWBYae8mtlTvO49axrkr-t6WPm1sLDmH2utfB-CdFQJ4u3I0L9aDK-p30Yr6MaK-h6Ai-1adgwJ9IMx4uiH4iuO-639iOmzLULryeE4tFRdMC3hGISweP44nNHcawd0Hc-hQMtt1ixo-UUavsmTW9y39qktgf_6Fvm6u9rHxzy_neAeeAsDdeW6WpCJeEh2-rEXIhtYg=s0-w280-h168-dcAZCOeDhm2I8B",
+      "googleLink": "https://news.google.com/./articles/CBMidGh0dHBzOi8vYXJhYmljLmNubi5jb20vbWlkZGxlLWVhc3QvYXJ0aWNsZS8yMDIzLzA0LzA4L2VneXB0LWFiZGVsLWZhdHRhaC1lbC1zaXNpLW1vc3RhZmEtbWFkYm91bHktdGFuemFuaWEtZGFtLXNpbmFp0gF8aHR0cHM6Ly9hcmFiaWMuY25uLmNvbS9hbXBodG1sL21pZGRsZS1lYXN0L2FydGljbGUvMjAyMy8wNC8wOC9lZ3lwdC1hYmRlbC1mYXR0YWgtZWwtc2lzaS1tb3N0YWZhLW1hZGJvdWx5LXRhbnphbmlhLWRhbS1zaW5haQ?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "CNN Arabic",
+      "datetime": "2023-04-08T14:34:09Z",
+      "titleSlug": "السيسي-يتابع-العمل-في-مشروع-التجلي-الأعظم-بسيناء"
+    },
+    {
+      "category": "egypt",
+      "source": "https://news.google.com/",
+      "title": "رسالة الإمام الحلقة 16.. بماذا وصفت السيدة نفيسة أهل مصر؟",
+      "thumb": "https://lh3.googleusercontent.com/proxy/FS2zAxyPjc9cUK3BAN3ReRbnflnTpo5FrBEXWKYCroZgMgVIi9yKVJJsHrsbRPcCfma2MNS288Hbw5V4ezrBquMWH20YKm3884uLapfZJ37FpnQyvCiXSW7q2WGphX5v6kInCjY=s0-w280-h168-dcgXKIDrXloSkC",
+      "googleLink": "https://news.google.com/./articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yODYwNzAw0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Al Masry Al Youm - المصري اليوم",
+      "datetime": "2023-04-08T13:58:00Z",
+      "titleSlug": "رسالة-الإمام-الحلقة-16.-بماذا-وصفت-السيدة-نفيسة-أهل-مصر؟"
     }
   ]
 }
