@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "egypt",
+      "source": "https://news.google.com/",
+      "title": "معركة قضائية لـ مرتضى منصور أمام مجلس الدولة.. تفاصيل",
+      "thumb": "https://lh3.googleusercontent.com/proxy/RKCZ6oI-9-EF0QCJsladWOz5PwZulJyXG2Z6Qkp0gE5_YVfyFnvz_XuTPdEIZr1yL7wmv0W8GwVo3YBR5I3Opn5jCyiDAx3KkAieveSz1mljx7gpovk2izxIJgOG7Xo=s0-w200-h112-dcCSGexZqpNYYC",
+      "googleLink": "https://news.google.com/./articles/CBMiIGh0dHBzOi8vd3d3LmVsYmFsYWQubmV3cy81NzIyNDMw0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sada El-Bald صدى البلد",
+      "datetime": "2023-04-09T01:09:00Z",
+      "titleSlug": "معركة-قضائية-لـ-مرتضى-منصور-أمام-مجلس-الدولة.-تفاصيل"
+    },
+    {
+      "category": "egypt",
+      "source": "https://news.google.com/",
+      "title": "مصانع الأعلاف تبدأ تسجيل العضوية ببورصة السلع للحصول على الذرة الصفراء",
+      "thumb": "https://lh3.googleusercontent.com/proxy/M-cH9dZkBwhBQbR_m2VkWwIDTEF6XmVGEmRDjvVdJOwt4JsXAEt0RIotkE9zMiRgQ_JyZZh1sRQTApYmCXknGdpMwV9QbCwBYw5H9yU=s0-w280-h168-dcAQAW",
+      "googleLink": "https://news.google.com/./articles/CBMi9AJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy80LzkvJUQ5JTg1JUQ4JUI1JUQ4JUE3JUQ5JTg2JUQ4JUI5LSVEOCVBNyVEOSU4NCVEOCVBMyVEOCVCOSVEOSU4NCVEOCVBNyVEOSU4MS0lRDglQUElRDglQTglRDglQUYlRDglQTMtJUQ4JUFBJUQ4JUIzJUQ4JUFDJUQ5JThBJUQ5JTg0LSVEOCVBNyVEOSU4NCVEOCVCOSVEOCVCNiVEOSU4OCVEOSU4QSVEOCVBOS0lRDglQTglRDglQTglRDklODglRDglQjElRDglQjUlRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUIzJUQ5JTg0JUQ4JUI5LSVEOSU4NCVEOSU4NCVEOCVBRCVEOCVCNSVEOSU4OCVEOSU4NC0lRDglQjklRDklODQlRDklODktJUQ4JUE3JUQ5JTg0JUQ4JUIwJUQ4JUIxJUQ4JUE5LzYxNDI4MTbSAfACaHR0cHM6Ly9tLnlvdW03LmNvbS9hbXAvMjAyMy80LzkvJUQ5JTg1JUQ4JUI1JUQ4JUE3JUQ5JTg2JUQ4JUI5LSVEOCVBNyVEOSU4NCVEOCVBMyVEOCVCOSVEOSU4NCVEOCVBNyVEOSU4MS0lRDglQUElRDglQTglRDglQUYlRDglQTMtJUQ4JUFBJUQ4JUIzJUQ4JUFDJUQ5JThBJUQ5JTg0LSVEOCVBNyVEOSU4NCVEOCVCOSVEOCVCNiVEOSU4OCVEOSU4QSVEOCVBOS0lRDglQTglRDglQTglRDklODglRDglQjElRDglQjUlRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUIzJUQ5JTg0JUQ4JUI5LSVEOSU4NCVEOSU4NCVEOCVBRCVEOCVCNSVEOSU4OCVEOSU4NC0lRDglQjklRDklODQlRDklODktJUQ4JUE3JUQ5JTg0JUQ4JUIwJUQ4JUIxJUQ4JUE5LzYxNDI4MTY?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "اليوم السابع",
+      "datetime": "2023-04-09T00:04:00Z",
+      "titleSlug": "مصانع-الأعلاف-تبدأ-تسجيل-العضوية-ببورصة-السلع-للحصول-على-الذرة-الصفراء"
+    }
+  ]
+}
