@@ -1,0 +1,37 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "world",
+      "source": "https://news.google.com/",
+      "title": "أزمة الوثائق المسربة.. هل شارك \"الناتو\" في حرب أوكرانيا؟",
+      "thumb": "https://lh3.googleusercontent.com/proxy/Bvl5FdAjKBudlMLbOZvUpSlAlGEYGRpN75SkOF3n-fYYxLllufo68iFGJUQ87l_gfkIsDIm8EM8DbxSvjiXKQ0dxO6deWDhRw7_2lV2Xf3lQvivQJeGFCPm8Tq1ATEw8ur4BCWqZGbkMLTyt=s0-w280-h168-dcqTSMrRkG",
+      "googleLink": "https://news.google.com/./articles/CBMitAJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS93b3JsZC8xNjExNTk1LSVEOCVBNyVEOSU5NCVEOCVCMiVEOSU4NSVEOCVBOS0lRDglQTclRDklODQlRDklODglRDglQUIlRDglQTclRDklOEElRDklOTQlRDklODItJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ4JUIzJUQ4JUIxJUQ4JUE4JUQ4JUE5LSVEOCVCNCVEOCVBNyVEOCVCMSVEOSU4My0lRDglQTclRDklODQlRDklODYlRDglQTclRDglQUElRDklODgtJUQ4JUFEJUQ4JUIxJUQ4JUE4LSVEOCVBNyVEOSU5NCVEOSU4OCVEOSU4MyVEOCVCMSVEOCVBNyVEOSU4NiVEOSU4QSVEOCVBNyVEOCU5RtIBuAJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9hbXAvd29ybGQvMTYxMTU5NS0lRDglQTclRDklOTQlRDglQjIlRDklODUlRDglQTktJUQ4JUE3JUQ5JTg0JUQ5JTg4JUQ4JUFCJUQ4JUE3JUQ5JThBJUQ5JTk0JUQ5JTgyLSVEOCVBNyVEOSU4NCVEOSU4NSVEOCVCMyVEOCVCMSVEOCVBOCVEOCVBOS0lRDglQjQlRDglQTclRDglQjElRDklODMtJUQ4JUE3JUQ5JTg0JUQ5JTg2JUQ4JUE3JUQ4JUFBJUQ5JTg4LSVEOCVBRCVEOCVCMSVEOCVBOC0lRDglQTclRDklOTQlRDklODglRDklODMlRDglQjElRDglQTclRDklODYlRDklOEElRDglQTclRDglOUY?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sky News Arabia سكاي نيوز عربية",
+      "datetime": "2023-04-10T00:35:51Z",
+      "titleSlug": "أزمة-الوثائق-المسربة.-هل-شارك-الناتو-في-حرب-أوكرانيا؟"
+    },
+    {
+      "category": "world",
+      "source": "https://news.google.com/",
+      "title": "شاهد يروي لـ«الشرق الأوسط» وقائع اجتماعين مع صدام في ظل الاحتلال",
+      "thumb": "https://lh3.googleusercontent.com/proxy/XJtoChmPlZoXy3qWsl7j2fLHgAqLWx0EjzIjvwlPJaua8Rpvr6PJCUxLrzlQ25zmCF8vMLQc9i7qLeNuV64dgteIOg_HziZBN-VlfCz7gWEWJenn7CxS0h7rulcHQYoxr-L6FYGGGON_EWOtLKBgHw-4_4EqIYJ2ffIyCWSnLKY-Fy9CETDQifiCdX80NKeeL7BlFfwWOOk=s0-w280-h168-dcjSKA6xkK",
+      "googleLink": "https://news.google.com/./articles/CBMi9gJodHRwczovL2Fhd3NhdC5jb20vaG9tZS9hcnRpY2xlLzQyNjE5MjYvJUQ4JUI0JUQ4JUE3JUQ5JTg3JUQ4JUFGLSVEOSU4QSVEOCVCMSVEOSU4OCVEOSU4QS0lRDklODQlRDklODAlQzIlQUIlRDglQTclRDklODQlRDglQjQlRDglQjElRDklODItJUQ4JUE3JUQ5JTg0JUQ4JUEzJUQ5JTg4JUQ4JUIzJUQ4JUI3JUMyJUJCLSVEOSU4OCVEOSU4MiVEOCVBNyVEOCVBNiVEOCVCOS0lRDglQTclRDglQUMlRDglQUElRDklODUlRDglQTclRDglQjklRDklOEElRDklODYtJUQ5JTg1JUQ4JUI5LSVEOCVCNSVEOCVBRiVEOCVBNyVEOSU4NS0lRDklODElRDklOEEtJUQ4JUI4JUQ5JTg0LSVEOCVBNyVEOSU4NCVEOCVBNyVEOCVBRCVEOCVBQSVEOSU4NCVEOCVBNyVEOSU4NNIBAA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "صحيفة الشرق الأوسط",
+      "datetime": "2023-04-09T22:44:23Z",
+      "titleSlug": "شاهد-يروي-لـالشرق-الأوسط-وقائع-اجتماعين-مع-صدام-في-ظل-الاحتلال"
+    },
+    {
+      "category": "world",
+      "source": "https://news.google.com/",
+      "title": "بي بي سي تعترض على تصنيف تويتر لها بأنها \"وسيلة إعلامية ممولة من الحكومة\"",
+      "thumb": "https://lh3.googleusercontent.com/proxy/LQR4geASK10Qp7QZGtOXvkj5X_xbmqlS_4Ne6lzPdjSj99N1yFmdeIOlVmnb-Q5wKbA7YQDVUQzdumG8JXZls9x01W-h88fKnqWdlg_8UrpANcKdNP7MCiZhW7qZnRsb81L3jETMygqJ9Ot6AvqrVRdn2oPX=s0-w280-h168-dcAQKkI5cK",
+      "googleLink": "https://news.google.com/./articles/CBMiM2h0dHBzOi8vd3d3LmJiYy5jb20vYXJhYmljL2FydC1hbmQtY3VsdHVyZS02NTIyODc4NdIBAA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "BBC Arabic",
+      "datetime": "2023-04-09T22:43:17Z",
+      "titleSlug": "بي-بي-سي-تعترض-على-تصنيف-تويتر-لها-بأنها-وسيلة-إعلامية-ممولة-من-الحكومة"
+    }
+  ]
+}
