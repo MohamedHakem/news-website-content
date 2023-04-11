@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "مطار سفنكس الدولي يستقبل أولى رحلات إير أوروبا الإسبانية",
+      "thumb": "https://lh3.googleusercontent.com/proxy/n7fFpiO5tFcv6gRmXoILJi3m7hRQI9PMyxvRxvhvOe6lk1-Idvdq1Gc9Quj5-0cdGnQkdUScWuBk6P9zvi7tVS23cDI5OiAsBBWRtdARpDQfydbaqz7uqNc0l7p4pv4RaGgs=s0-w200-h112-dcAWCQMLEm4CoC",
+      "googleLink": "https://news.google.com/./articles/CBMigQJodHRwczovL20uYWtoYmFyZWx5b20uY29tL25ld3MvTmV3RGV0YWlscy80MDYyMTg4LzEvJUQ5JTg1JUQ4JUI3JUQ4JUE3JUQ4JUIxLSVEOCVCMyVEOSU4MSVEOSU4NiVEOSU4MyVEOCVCMy0lRDglQTclRDklODQlRDglQUYlRDklODglRDklODQlRDklOEEtJUQ5JThBJUQ4JUIzJUQ4JUFBJUQ5JTgyJUQ4JUE4JUQ5JTg0LSVEOCVBMyVEOSU4OCVEOSU4NCVEOSU4OS0lRDglQjElRDglQUQlRDklODQlRDglQTclRDglQUEtJUQ4JUE1JUQ5JThBJUQ4JUIxLdIBAA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "بوابة أخبار اليوم",
+      "datetime": "2023-04-11T05:21:55Z",
+      "titleSlug": "مطار-سفنكس-الدولي-يستقبل-أولى-رحلات-إير-أوروبا-الإسبانية"
+    },
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "أسرة طفل تكشف ملابسات مصرعه خلال اللعب فى منشأة القناطر بالجيزة",
+      "thumb": "https://lh3.googleusercontent.com/proxy/g1hko_uxIyX67sS2Mg8xlRdG8AG_FbF2iAKOIyXgLWtojMGwpBA2ct8cSS6INBljX_jJ_1Y6R5urUW1rENjTk4sEvqNOsHxhHDaKk2A=s0-w200-h112-dcATAK",
+      "googleLink": "https://news.google.com/./articles/CBMiywJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy80LzExLyVEOCVBMyVEOCVCMyVEOCVCMSVEOCVBOS0lRDglQjclRDklODElRDklODQtJUQ4JUFBJUQ5JTgzJUQ4JUI0JUQ5JTgxLSVEOSU4NSVEOSU4NCVEOCVBNyVEOCVBOCVEOCVCMyVEOCVBNyVEOCVBQS0lRDklODUlRDglQjUlRDglQjElRDglQjklRDklODctJUQ4JUFFJUQ5JTg0JUQ4JUE3JUQ5JTg0LSVEOCVBNyVEOSU4NCVEOSU4NCVEOCVCOSVEOCVBOC0lRDklODElRDklODktJUQ5JTg1JUQ5JTg2JUQ4JUI0JUQ4JUEzJUQ4JUE5LSVEOCVBNyVEOSU4NCVEOSU4MiVEOSU4NiVEOCVBNyVEOCVCNyVEOCVCMS82MTQ1MTY40gHHAmh0dHBzOi8vbS55b3VtNy5jb20vYW1wLzIwMjMvNC8xMS8lRDglQTMlRDglQjMlRDglQjElRDglQTktJUQ4JUI3JUQ5JTgxJUQ5JTg0LSVEOCVBQSVEOSU4MyVEOCVCNCVEOSU4MS0lRDklODUlRDklODQlRDglQTclRDglQTglRDglQjMlRDglQTclRDglQUEtJUQ5JTg1JUQ4JUI1JUQ4JUIxJUQ4JUI5JUQ5JTg3LSVEOCVBRSVEOSU4NCVEOCVBNyVEOSU4NC0lRDglQTclRDklODQlRDklODQlRDglQjklRDglQTgtJUQ5JTgxJUQ5JTg5LSVEOSU4NSVEOSU4NiVEOCVCNCVEOCVBMyVEOCVBOS0lRDglQTclRDklODQlRDklODIlRDklODYlRDglQTclRDglQjclRDglQjEvNjE0NTE2OA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "اليوم السابع",
+      "datetime": "2023-04-11T04:00:00Z",
+      "titleSlug": "أسرة-طفل-تكشف-ملابسات-مصرعه-خلال-اللعب-فى-منشأة-القناطر-بالجيزة"
+    }
+  ]
+}
