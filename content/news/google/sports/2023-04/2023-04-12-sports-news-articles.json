@@ -1,0 +1,48 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "sports",
+      "source": "https://news.google.com/",
+      "title": "مانشستر سيتي يهزم بايرن ميونيخ ويقترب من نصف نهائي دوري أبطال أوروبا",
+      "thumb": "https://lh3.googleusercontent.com/proxy/6yFsZUvCqAfh0GcQTJBvXUrTmq483Uy8ZYCGz8NJbn7HshETrjAuFDnlG_rThIwfVu4NaYAcfhJ6_xVwwalOU_E2kXaBjOKvz7ratAy8K0EeD7VJ3nNpkvTVhVCkY4ZU30Km1SvUMCA7IVd0VwtxrFDuLpO_UKUE-z4i6uhwlVW6Hg=s0-w280-h168-dcJQWCrQ0L",
+      "googleLink": "https://news.google.com/./articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jb20vYXJhYmljL3Nwb3J0cy02NTIyNzAzM9IBAA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "BBC Arabic",
+      "datetime": "2023-04-12T02:28:41Z",
+      "titleSlug": "مانشستر-سيتي-يهزم-بايرن-ميونيخ-ويقترب-من-نصف-نهائي-دوري-أبطال-أوروبا"
+    },
+    {
+      "category": "sports",
+      "source": "https://news.google.com/",
+      "title": "الزمالك يستعيد محمود شبانة أمام حرس الحدود",
+      "thumb": "https://lh3.googleusercontent.com/proxy/reNfhl0K9vDW0V0WeKqCCOFwpE9xU4CE_YLIzMuR7_JZmRyr5qJYbjDxDGIKg1k5LxV6akfvPS3RQy-THoMhC0rgKjyrR_2jddU8PQ=s0-w280-h168-dcASCYsxiqwGcC",
+      "googleLink": "https://news.google.com/./articles/CBMijAJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy80LzEyLyVEOCVBNyVEOSU4NCVEOCVCMiVEOSU4NSVEOCVBNyVEOSU4NCVEOSU4My0lRDklOEElRDglQjMlRDglQUElRDglQjklRDklOEElRDglQUYtJUQ5JTg1JUQ4JUFEJUQ5JTg1JUQ5JTg4JUQ4JUFGLSVEOCVCNCVEOCVBOCVEOCVBNyVEOSU4NiVEOCVBOS0lRDglQTMlRDklODUlRDglQTclRDklODUtJUQ4JUFEJUQ4JUIxJUQ4JUIzLSVEOCVBNyVEOSU4NCVEOCVBRCVEOCVBRiVEOSU4OCVEOCVBRi82MTQ2ODI30gGIAmh0dHBzOi8vbS55b3VtNy5jb20vYW1wLzIwMjMvNC8xMi8lRDglQTclRDklODQlRDglQjIlRDklODUlRDglQTclRDklODQlRDklODMtJUQ5JThBJUQ4JUIzJUQ4JUFBJUQ4JUI5JUQ5JThBJUQ4JUFGLSVEOSU4NSVEOCVBRCVEOSU4NSVEOSU4OCVEOCVBRi0lRDglQjQlRDglQTglRDglQTclRDklODYlRDglQTktJUQ4JUEzJUQ5JTg1JUQ4JUE3JUQ5JTg1LSVEOCVBRCVEOCVCMSVEOCVCMy0lRDglQTclRDklODQlRDglQUQlRDglQUYlRDklODglRDglQUYvNjE0NjgyNw?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "اليوم السابع",
+      "datetime": "2023-04-12T00:30:00Z",
+      "titleSlug": "الزمالك-يستعيد-محمود-شبانة-أمام-حرس-الحدود"
+    },
+    {
+      "category": "sports",
+      "source": "https://news.google.com/",
+      "title": "مواجهات قوية فى ثالث جولات المرحلة النهائية لحسم لقب مرتبط اليد",
+      "thumb": "https://lh3.googleusercontent.com/proxy/E3GDcqArKXWhYBu0ZfC8rt0jdhcI_CEKZY5-Yee1OTogVT6z1DiQ2UyTTwNBfH7wmygxrINSn8Ofor8oiuhXymQt1RJmuS9uTXZ2GXg=s0-w280-h168-dcpWGKDikH",
+      "googleLink": "https://news.google.com/./articles/CBMi3QJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy80LzEyLyVEOSU4NSVEOSU4OCVEOCVBNyVEOCVBQyVEOSU4NyVEOCVBNyVEOCVBQS0lRDklODIlRDklODglRDklOEElRDglQTktJUQ5JTgxJUQ5JTg5LSVEOCVBQiVEOCVBNyVEOSU4NCVEOCVBQi0lRDglQUMlRDklODglRDklODQlRDglQTclRDglQUEtJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ4JUIxJUQ4JUFEJUQ5JTg0JUQ4JUE5LSVEOCVBNyVEOSU4NCVEOSU4NiVEOSU4NyVEOCVBNyVEOCVBNiVEOSU4QSVEOCVBOS0lRDklODQlRDglQUQlRDglQjMlRDklODUtJUQ5JTg0JUQ5JTgyJUQ4JUE4LSVEOSU4NSVEOCVCMSVEOCVBQSVEOCVBOCVEOCVCNy82MTQ2MjM00gHZAmh0dHBzOi8vbS55b3VtNy5jb20vYW1wLzIwMjMvNC8xMi8lRDklODUlRDklODglRDglQTclRDglQUMlRDklODclRDglQTclRDglQUEtJUQ5JTgyJUQ5JTg4JUQ5JThBJUQ4JUE5LSVEOSU4MSVEOSU4OS0lRDglQUIlRDglQTclRDklODQlRDglQUItJUQ4JUFDJUQ5JTg4JUQ5JTg0JUQ4JUE3JUQ4JUFBLSVEOCVBNyVEOSU4NCVEOSU4NSVEOCVCMSVEOCVBRCVEOSU4NCVEOCVBOS0lRDglQTclRDklODQlRDklODYlRDklODclRDglQTclRDglQTYlRDklOEElRDglQTktJUQ5JTg0JUQ4JUFEJUQ4JUIzJUQ5JTg1LSVEOSU4NCVEOSU4MiVEOCVBOC0lRDklODUlRDglQjElRDglQUElRDglQTglRDglQjcvNjE0NjIzNA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "اليوم السابع",
+      "datetime": "2023-04-12T01:00:00Z",
+      "titleSlug": "مواجهات-قوية-فى-ثالث-جولات-المرحلة-النهائية-لحسم-لقب-مرتبط-اليد"
+    },
+    {
+      "category": "sports",
+      "source": "https://news.google.com/",
+      "title": "من \"المنزل\" لمنصات التتويج.. قصة ملهمة لمدرب الأهلي المصري",
+      "thumb": "https://lh3.googleusercontent.com/proxy/2YEdIgYy9nFLo6pfuReNwQkbhCUuLIFaq9zB8kh2Mwo7SanxRBQABwXvi3lgRtkEht3HQ4W7gunaiiQf9qUdU3yAHbgOsuWz980UqxoUU4NE9OAqiEJ1NhNoGgWJbHQlJQt5RTh9kbXgeClB=s0-w200-h112-dclRKQzakH",
+      "googleLink": "https://news.google.com/./articles/CBMiwQJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9zcG9ydC8xNjEyMjc1LSVEOCVBNyVEOSU4NCVEOSU4NSVEOSU4NiVEOCVCMiVEOSU4NC0lRDklODQlRDklODUlRDklODYlRDglQjUlRDglQTclRDglQUEtJUQ4JUE3JUQ5JTg0JUQ4JUFBJUQ4JUFBJUQ5JTg4JUQ5JThBJUQ4JUFDLSVEOSU4MiVEOCVCNSVEOCVBOS0lRDklODUlRDklODQlRDklODclRDklODUlRDglQTktJUQ5JTg0JUQ5JTg1JUQ4JUFGJUQ4JUIxJUQ4JUE4LSVEOCVBNyVEOSU4NCVEOCVBNyVEOSU5NCVEOSU4NyVEOSU4NCVEOSU4QS0lRDglQTclRDklODQlRDklODUlRDglQjUlRDglQjElRDklOEHSAcUCaHR0cHM6Ly93d3cuc2t5bmV3c2FyYWJpYS5jb20vYW1wL3Nwb3J0LzE2MTIyNzUtJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ5JTg2JUQ4JUIyJUQ5JTg0LSVEOSU4NCVEOSU4NSVEOSU4NiVEOCVCNSVEOCVBNyVEOCVBQS0lRDglQTclRDklODQlRDglQUElRDglQUElRDklODglRDklOEElRDglQUMtJUQ5JTgyJUQ4JUI1JUQ4JUE5LSVEOSU4NSVEOSU4NCVEOSU4NyVEOSU4NSVEOCVBOS0lRDklODQlRDklODUlRDglQUYlRDglQjElRDglQTgtJUQ4JUE3JUQ5JTg0JUQ4JUE3JUQ5JTk0JUQ5JTg3JUQ5JTg0JUQ5JThBLSVEOCVBNyVEOSU4NCVEOSU4NSVEOCVCNSVEOCVCMSVEOSU4QQ?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "أخبار الرياضة - سكاي نيوز عربية Sky News Arabia Sports",
+      "datetime": "2023-04-12T03:43:44Z",
+      "titleSlug": "من-المنزل-لمنصات-التتويج.-قصة-ملهمة-لمدرب-الأهلي-المصري"
+    }
+  ]
+}
