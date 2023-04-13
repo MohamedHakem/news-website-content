@@ -1,0 +1,26 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "world",
+      "source": "https://news.google.com/",
+      "title": "جيش السودان: \"الدعم السريع\" يحشد قواته من دون موافقتنا",
+      "thumb": "https://lh3.googleusercontent.com/proxy/LCIZZFLsM8ljaiA-g3qESRR8Z2G94oOJfD3bgkk8seiDXOUEmc-TPeOikFGEemNHlZFq-s5P6mQUmIhtfnXigJhe8tAZfnxRyT65FGsFd7HlgvZuo0h4MpSl79r4NkCjc9mM_TP0zZgD6UNn=s0-w280-h168-dcpRWU7CEJ",
+      "googleLink": "https://news.google.com/./articles/CBMirwJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9taWRkbGUtZWFzdC8xNjEyNjMxLSVEOCVBQyVEOSU4QSVEOCVCNC0lRDglQTclRDklODQlRDglQjMlRDklODglRDglQUYlRDglQTclRDklODYtJUQ4JUE3JUQ5JTg0JUQ4JUFGJUQ4JUI5JUQ5JTg1LSVEOCVBNyVEOSU4NCVEOCVCMyVEOCVCMSVEOSU4QSVEOCVCOS0lRDklOEElRDglQUQlRDglQjQlRDglQUYtJUQ5JTgyJUQ5JTg4JUQ4JUE3JUQ4JUFBJUQ5JTg3LSVEOCVBRiVEOSU4OCVEOSU4Ni0lRDklODUlRDklODglRDglQTclRDklODElRDklODIlRDglQUElRDklODYlRDglQTfSAbMCaHR0cHM6Ly93d3cuc2t5bmV3c2FyYWJpYS5jb20vYW1wL21pZGRsZS1lYXN0LzE2MTI2MzEtJUQ4JUFDJUQ5JThBJUQ4JUI0LSVEOCVBNyVEOSU4NCVEOCVCMyVEOSU4OCVEOCVBRiVEOCVBNyVEOSU4Ni0lRDglQTclRDklODQlRDglQUYlRDglQjklRDklODUtJUQ4JUE3JUQ5JTg0JUQ4JUIzJUQ4JUIxJUQ5JThBJUQ4JUI5LSVEOSU4QSVEOCVBRCVEOCVCNCVEOCVBRi0lRDklODIlRDklODglRDglQTclRDglQUElRDklODctJUQ4JUFGJUQ5JTg4JUQ5JTg2LSVEOSU4NSVEOSU4OCVEOCVBNyVEOSU4MSVEOSU4MiVEOCVBQSVEOSU4NiVEOCVBNw?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sky News Arabia سكاي نيوز عربية",
+      "datetime": "2023-04-13T01:28:09Z",
+      "titleSlug": "جيش-السودان-الدعم-السريع-يحشد-قواته-من-دون-موافقتنا"
+    },
+    {
+      "category": "world",
+      "source": "https://news.google.com/",
+      "title": "واشنطن ترى أن الأمين العام للأمم المتحدة لين في تعامله مع روسيا",
+      "thumb": "https://lh3.googleusercontent.com/proxy/gNoqo9ORN-GdNo_R4JIKPnnW1o8q_cBiuIxjLYb0D_dLB8rlDaCnVZ7JLUoYCfSvttads2eppm8cqjO-o8P330UvTEZhg-4FgqheorUSXWCiORQIPXvWCktLm7s9HXTnhjz5j6XKFt6muXtEIJFRBNIgzJKhLjRX=s0-w200-h112-dcJXeCC64H",
+      "googleLink": "https://news.google.com/./articles/CBMiKWh0dHBzOi8vd3d3LmJiYy5jb20vYXJhYmljL3dvcmxkLTY1MjQ3Njk40gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "BBC Arabic",
+      "datetime": "2023-04-13T00:27:10Z",
+      "titleSlug": "واشنطن-ترى-أن-الأمين-العام-للأمم-المتحدة-لين-في-تعامله-مع-روسيا"
+    }
+  ]
+}
