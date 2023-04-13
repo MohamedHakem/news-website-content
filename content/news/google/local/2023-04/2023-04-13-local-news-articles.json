@@ -1,0 +1,70 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "إنقاذ شخص تعطل به مصعد أحد العقارات فى الشيخ زايد",
+      "thumb": "https://lh3.googleusercontent.com/proxy/auvjJ4YMH-3tAh4c29wI5ErRvZjM1VBH_Kcq58sE1Zxi7aQDPG0CVAa3YCr_lxVTNI7AqKEg9f9bba1XHMrbCrZGdi5YJl00SfYAL8g=s0-w200-h112-dcARGWtIypYcYC",
+      "googleLink": "https://news.google.com/./articles/CBMipwJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy80LzEzLyVEOCVBNSVEOSU4NiVEOSU4MiVEOCVBNyVEOCVCMC0lRDglQjQlRDglQUUlRDglQjUtJUQ4JUFBJUQ4JUI5JUQ4JUI3JUQ5JTg0LSVEOCVBOCVEOSU4Ny0lRDklODUlRDglQjUlRDglQjklRDglQUYtJUQ4JUEzJUQ4JUFEJUQ4JUFGLSVEOCVBNyVEOSU4NCVEOCVCOSVEOSU4MiVEOCVBNyVEOCVCMSVEOCVBNyVEOCVBQS0lRDklODElRDklODktJUQ4JUE3JUQ5JTg0JUQ4JUI0JUQ5JThBJUQ4JUFFLSVEOCVCMiVEOCVBNyVEOSU4QSVEOCVBRi82MTQ4NjE30gGjAmh0dHBzOi8vbS55b3VtNy5jb20vYW1wLzIwMjMvNC8xMy8lRDglQTUlRDklODYlRDklODIlRDglQTclRDglQjAtJUQ4JUI0JUQ4JUFFJUQ4JUI1LSVEOCVBQSVEOCVCOSVEOCVCNyVEOSU4NC0lRDglQTglRDklODctJUQ5JTg1JUQ4JUI1JUQ4JUI5JUQ4JUFGLSVEOCVBMyVEOCVBRCVEOCVBRi0lRDglQTclRDklODQlRDglQjklRDklODIlRDglQTclRDglQjElRDglQTclRDglQUEtJUQ5JTgxJUQ5JTg5LSVEOCVBNyVEOSU4NCVEOCVCNCVEOSU4QSVEOCVBRS0lRDglQjIlRDglQTclRDklOEElRDglQUYvNjE0ODYxNw?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "اليوم السابع",
+      "datetime": "2023-04-13T10:33:00Z",
+      "titleSlug": "إنقاذ-شخص-تعطل-به-مصعد-أحد-العقارات-فى-الشيخ-زايد"
+    },
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "حدث وأنت نائم| تغريم مرتضى منصور 12 ألف جنيه ووفاة ضحية «كلب الشيخ زايد»",
+      "thumb": "https://lh3.googleusercontent.com/proxy/YpeA1GRxLcKC36C3RZwytFVUipNLr_Rp50IcX2BWk5QAz82i_F8IiuvE96r_MLVrylnvqJeXkEhRSY8RrsOaAHZ--PUGx5wMQZ5QJth1x5x6oyZMAeo9YkTfo9HOJj36iA=s0-w200-h112-dcDUSAzaEnknkA",
+      "googleLink": "https://news.google.com/./articles/CBMiIGh0dHBzOi8vd3d3LmVsYW9zYm9hLmNvbS84NTA3NjIv0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "الأسبوع",
+      "datetime": "2023-04-13T07:57:58Z",
+      "titleSlug": "حدث-وأنت-نائم-تغريم-مرتضى-منصور-12-ألف-جنيه-ووفاة-ضحية-كلب-الشيخ-زايد"
+    },
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "السيطرة على حريق فى سيارة ملاكى بالشيخ زايد",
+      "thumb": "https://lh3.googleusercontent.com/proxy/wQxo3Fe_ihThImdTbYFAhYMpG5YXsdaEXvG3RdE4fkQAdU_YZkYzekY_wIVvZzbdc0DyAOxF5oq6y2jj59m75DTgQNyGXy-QA3AVfpM=s0-w200-h112-dcpTOWbqkH",
+      "googleLink": "https://news.google.com/./articles/CBMijQJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy80LzEzLyVEOCVBNyVEOSU4NCVEOCVCMyVEOSU4QSVEOCVCNyVEOCVCMSVEOCVBOS0lRDglQjklRDklODQlRDklODktJUQ4JUFEJUQ4JUIxJUQ5JThBJUQ5JTgyLSVEOSU4MSVEOSU4OS0lRDglQjMlRDklOEElRDglQTclRDglQjElRDglQTktJUQ5JTg1JUQ5JTg0JUQ4JUE3JUQ5JTgzJUQ5JTg5LSVEOCVBOCVEOCVBNyVEOSU4NCVEOCVCNCVEOSU4QSVEOCVBRS0lRDglQjIlRDglQTclRDklOEElRDglQUYvNjE0ODYwNtIBiQJodHRwczovL20ueW91bTcuY29tL2FtcC8yMDIzLzQvMTMvJUQ4JUE3JUQ5JTg0JUQ4JUIzJUQ5JThBJUQ4JUI3JUQ4JUIxJUQ4JUE5LSVEOCVCOSVEOSU4NCVEOSU4OS0lRDglQUQlRDglQjElRDklOEElRDklODItJUQ5JTgxJUQ5JTg5LSVEOCVCMyVEOSU4QSVEOCVBNyVEOCVCMSVEOCVBOS0lRDklODUlRDklODQlRDglQTclRDklODMlRDklODktJUQ4JUE4JUQ4JUE3JUQ5JTg0JUQ4JUI0JUQ5JThBJUQ4JUFFLSVEOCVCMiVEOCVBNyVEOSU4QSVEOCVBRi82MTQ4NjA2?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "اليوم السابع",
+      "datetime": "2023-04-13T10:21:00Z",
+      "titleSlug": "السيطرة-على-حريق-فى-سيارة-ملاكى-بالشيخ-زايد"
+    },
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "كارثة كرداسة.. ماس كهربائى وانفجار أنبوبة يكتبان نهاية طفلين",
+      "thumb": "https://lh3.googleusercontent.com/proxy/3-z5aZLbIaRboRJOAfbMYZDzNGv61m7GwgjMLdj8z3YqFInzL2XFpir01lhY5nbzJZXhjODxYMaOiP2lIYJ3R44PRhpXXbxlgrMn1L70Nx1gYpMDxGPmVi3L1bKBr-4UeXFjir_P=s0-w200-h112-dcAUCOA5tpHogC",
+      "googleLink": "https://news.google.com/./articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yODY0MDA10gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Al Masry Al Youm - المصري اليوم",
+      "datetime": "2023-04-13T02:58:00Z",
+      "titleSlug": "كارثة-كرداسة.-ماس-كهربائى-وانفجار-أنبوبة-يكتبان-نهاية-طفلين"
+    },
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "إخماد حريق \"كشك بقالة\" بطريق المنصورية فى كرداسة",
+      "thumb": "https://lh3.googleusercontent.com/proxy/8pJvLvlqm5ZJumSgwUFI-dwNlwxc0nvso1-tfel-K4noOCB7RnIQR61_tW0oQcsVZEF6_Gk4Bw4o6WDxMUcFTfYTjVR_mDV4wpNclXU=s0-w200-h112-dcAVCSwCUI",
+      "googleLink": "https://news.google.com/./articles/CBMinwJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy80LzEzLyVEOCVBNSVEOCVBRSVEOSU4NSVEOCVBNyVEOCVBRi0lRDglQUQlRDglQjElRDklOEElRDklODItJUQ5JTgzJUQ4JUI0JUQ5JTgzLSVEOCVBOCVEOSU4MiVEOCVBNyVEOSU4NCVEOCVBOS0lRDglQTglRDglQjclRDglQjElRDklOEElRDklODItJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ5JTg2JUQ4JUI1JUQ5JTg4JUQ4JUIxJUQ5JThBJUQ4JUE5LSVEOSU4MSVEOSU4OS0lRDklODMlRDglQjElRDglQUYlRDglQTclRDglQjMlRDglQTkvNjE0ODYwOdIBmwJodHRwczovL20ueW91bTcuY29tL2FtcC8yMDIzLzQvMTMvJUQ4JUE1JUQ4JUFFJUQ5JTg1JUQ4JUE3JUQ4JUFGLSVEOCVBRCVEOCVCMSVEOSU4QSVEOSU4Mi0lRDklODMlRDglQjQlRDklODMtJUQ4JUE4JUQ5JTgyJUQ4JUE3JUQ5JTg0JUQ4JUE5LSVEOCVBOCVEOCVCNyVEOCVCMSVEOSU4QSVEOSU4Mi0lRDglQTclRDklODQlRDklODUlRDklODYlRDglQjUlRDklODglRDglQjElRDklOEElRDglQTktJUQ5JTgxJUQ5JTg5LSVEOSU4MyVEOCVCMSVEOCVBRiVEOCVBNyVEOCVCMyVEOCVBOS82MTQ4NjA5?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "اليوم السابع",
+      "datetime": "2023-04-13T10:25:00Z",
+      "titleSlug": "إخماد-حريق-كشك-بقالة-بطريق-المنصورية-فى-كرداسة"
+    },
+    {
+      "category": "local",
+      "source": "https://news.google.com/",
+      "title": "ضبط عصابة الاتجار بالنقد الأجنبي بحوزتهم مبالغ مالية \"أجنبية ومحلية\"",
+      "thumb": "https://lh3.googleusercontent.com/proxy/qrlBHz0o63OufzlHNEbecON-K9it1Fpimz97TgEhHtiQx5lh9ruwcuW6T8M7RLLoGw_WERTDH_SZFBd5VVfe6xVAcPPZ42YO_eBqltGKj0O7dCvEu5JDU50Gn6rWq0nnxghhig=s0-w200-h112-dcgQGAZwGtqY0B",
+      "googleLink": "https://news.google.com/./articles/CBMiogNodHRwczovL3d3dy5tYXNyYXd5LmNvbS9uZXdzL25ld3NfY2FzZXMvZGV0YWlscy8yMDIzLzQvMTIvMjM5ODIyNS8lRDglQjYlRDglQTglRDglQjctJUQ4JUI5JUQ4JUI1JUQ4JUE3JUQ4JUE4JUQ4JUE5LSVEOCVBNyVEOSU4NCVEOCVBNyVEOCVBQSVEOCVBQyVEOCVBNyVEOCVCMS0lRDglQTglRDglQTclRDklODQlRDklODYlRDklODIlRDglQUYtJUQ4JUE3JUQ5JTg0JUQ4JUEzJUQ4JUFDJUQ5JTg2JUQ4JUE4JUQ5JThBLSVEOCVBOCVEOCVBRCVEOSU4OCVEOCVCMiVEOCVBQSVEOSU4NyVEOSU4NS0lRDklODUlRDglQTglRDglQTclRDklODQlRDglQkEtJUQ5JTg1JUQ4JUE3JUQ5JTg0JUQ5JThBJUQ4JUE5LSVEOCVBMyVEOCVBQyVEOSU4NiVEOCVBOCVEOSU4QSVEOCVBOS0lRDklODglRDklODUlRDglQUQlRDklODQlRDklOEElRDglQTkt0gGmA2h0dHBzOi8vd3d3Lm1hc3Jhd3kuY29tL25ld3MvbmV3c19jYXNlcy9kZXRhaWxzLzIwMjMvNC8xMi8yMzk4MjI1LyVEOCVCNiVEOCVBOCVEOCVCNy0lRDglQjklRDglQjUlRDglQTclRDglQTglRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUE3JUQ4JUFBJUQ4JUFDJUQ4JUE3JUQ4JUIxLSVEOCVBOCVEOCVBNyVEOSU4NCVEOSU4NiVEOSU4MiVEOCVBRi0lRDglQTclRDklODQlRDglQTMlRDglQUMlRDklODYlRDglQTglRDklOEEtJUQ4JUE4JUQ4JUFEJUQ5JTg4JUQ4JUIyJUQ4JUFBJUQ5JTg3JUQ5JTg1LSVEOSU4NSVEOCVBOCVEOCVBNyVEOSU4NCVEOCVCQS0lRDklODUlRDglQTclRDklODQlRDklOEElRDglQTktJUQ4JUEzJUQ4JUFDJUQ5JTg2JUQ4JUE4JUQ5JThBJUQ4JUE5LSVEOSU4OCVEOSU4NSVEOCVBRCVEOSU4NCVEOSU4QSVEOCVBOS0_YW1w?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Masrawy - مصراوي",
+      "datetime": "2023-04-12T21:31:00Z",
+      "titleSlug": "ضبط-عصابة-الاتجار-بالنقد-الأجنبي-بحوزتهم-مبالغ-مالية-أجنبية-ومحلية"
+    }
+  ]
+}
