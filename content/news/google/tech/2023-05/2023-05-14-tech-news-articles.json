@@ -1,0 +1,136 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "ناسا تكشف عن الروبوت الثعبان.. ومهمته البحث عن حياة بزحل",
+      "thumb": "https://lh3.googleusercontent.com/proxy/foOibI5tVTNqDySlZaEeAVML0HxDLiBNo8ycht9f1SjUkHSssoBZJEdmXWrRuC-D0f7oDtuY0lvyDl3TQnSOaeFPfhGbqisi-gOOD4G4FPrVKCbv0KGrYfjyBYPadjCMyINjlg66ZosOu3hPTHWRFEMmiVII1b-XrQxOUlD3VHarm0xQ3O76LEdoTPggaiBQSLeTipGMR2Yi7hmHYklBLo_gqA=s0-w280-h168-dcAbAI",
+      "googleLink": "https://news.google.com/./articles/CBMimQJodHRwczovL3d3dy5hbGFyYWJpeWEubmV0L3NjaWVuY2UvMjAyMy8wNS8xNC8lRDklODYlRDglQTclRDglQjMlRDglQTctJUQ4JUFBJUQ4JUI3JUQ5JTg4JUQ4JUIxLSVEOCVCMSVEOSU4OCVEOCVBOCVEOSU4OCVEOCVBQSVEOCVBNy0lRDklOEElRDglQjQlRDglQTglRDklODctJUQ4JUE3JUQ5JTg0JUQ4JUFCJUQ4JUI5JUQ4JUE4JUQ4JUE3JUQ5JTg2LSVEOSU4NCVEOSU4NCVEOCVBOCVEOCVBRCVEOCVBQi0lRDglQjklRDklODYtJUQ4JUE3JUQ5JTg0JUQ4JUFEJUQ5JThBJUQ4JUE3JUQ4JUE5LdIBnQJodHRwczovL3d3dy5hbGFyYWJpeWEubmV0L2FtcC9zY2llbmNlLzIwMjMvMDUvMTQvJUQ5JTg2JUQ4JUE3JUQ4JUIzJUQ4JUE3LSVEOCVBQSVEOCVCNyVEOSU4OCVEOCVCMS0lRDglQjElRDklODglRDglQTglRDklODglRDglQUElRDglQTctJUQ5JThBJUQ4JUI0JUQ4JUE4JUQ5JTg3LSVEOCVBNyVEOSU4NCVEOCVBQiVEOCVCOSVEOCVBOCVEOCVBNyVEOSU4Ni0lRDklODQlRDklODQlRDglQTglRDglQUQlRDglQUItJUQ4JUI5JUQ5JTg2LSVEOCVBNyVEOSU4NCVEOCVBRCVEOSU4QSVEOCVBNyVEOCVBOS0?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "العربية",
+      "datetime": "2023-05-14T03:33:00Z",
+      "titleSlug": "ناسا-تكشف-عن-الروبوت-الثعبان.-ومهمته-البحث-عن-حياة-بزحل"
+    },
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "علماء فلك يكتشفون أكبر انفجار كوني على الإطلاق",
+      "thumb": "https://lh3.googleusercontent.com/proxy/9OyH1z1XcYkpuNJM35NvCgbAuu9XqFgJHbgyej82ChsEwpW6tIRpGruwBDAZDKspPIbOXGTRrcE5bJXv6Al8a6sgETdGMQ-JuePhDIlNSNxmYTlzLGdAZQ8pvt2fljwWYOnwqdq9VReflY41hNmOCxiZYYVml3yGEhs7=s0-w280-h168-dcAUmB4mYB",
+      "googleLink": "https://news.google.com/./articles/CBMiNGh0dHBzOi8vd3d3LmJiYy5jb20vYXJhYmljL3NjaWVuY2UtYW5kLXRlY2gtNjU1ODEzMzfSAQA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "BBC Arabic",
+      "datetime": "2023-05-13T09:32:47Z",
+      "titleSlug": "علماء-فلك-يكتشفون-أكبر-انفجار-كوني-على-الإطلاق"
+    },
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "ليس من الخيال العلمي.. هكذا ستصبح الهواتف الذكية بعد أشهر",
+      "thumb": "https://lh3.googleusercontent.com/proxy/Tb88EE1K7dOWTuKfQPAQVSynKkYQulTi7EGkva3bS5N0lk001TbYT0RCdZHeoG6VTEDECbnD8kukGfYsKOybY6I2D1cKCD64cYljPW6CArlCuADPRcf7_lqnoXMInGqycGSpXkadT9Tqjr6l=s0-w200-h112-p-df",
+      "googleLink": "https://news.google.com/./articles/CBMimQJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9idXNpbmVzcy8xNjIwNjUxLSVEOSU4NCVEOSU4QSVEOCVCMy0lRDglQTclRDklODQlRDglQUUlRDklOEElRDglQTclRDklODQtJUQ4JUE3JUQ5JTg0JUQ4JUI5JUQ5JTg0JUQ5JTg1JUQ5JThBLSVEOCVCMyVEOCVBQSVEOCVCNSVEOCVBOCVEOCVBRC0lRDglQTclRDklODQlRDklODclRDklODglRDglQTclRDglQUElRDklODEtJUQ4JUE3JUQ5JTg0JUQ4JUIwJUQ5JTgzJUQ5JThBJUQ4JUE5LSVEOCVBNyVEOSU5NCVEOCVCNCVEOSU4NyVEOCVCMdIBnQJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9hbXAvYnVzaW5lc3MvMTYyMDY1MS0lRDklODQlRDklOEElRDglQjMtJUQ4JUE3JUQ5JTg0JUQ4JUFFJUQ5JThBJUQ4JUE3JUQ5JTg0LSVEOCVBNyVEOSU4NCVEOCVCOSVEOSU4NCVEOSU4NSVEOSU4QS0lRDglQjMlRDglQUElRDglQjUlRDglQTglRDglQUQtJUQ4JUE3JUQ5JTg0JUQ5JTg3JUQ5JTg4JUQ4JUE3JUQ4JUFBJUQ5JTgxLSVEOCVBNyVEOSU4NCVEOCVCMCVEOSU4MyVEOSU4QSVEOCVBOS0lRDglQTclRDklOTQlRDglQjQlRDklODclRDglQjE?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sky News Arabia سكاي نيوز عربية",
+      "datetime": "2023-05-14T09:47:02Z",
+      "titleSlug": "ليس-من-الخيال-العلمي.-هكذا-ستصبح-الهواتف-الذكية-بعد-أشهر"
+    },
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "تسريب خريطة لعبة جاتا GTA 6 وروكستار تكشف أشياء جديدة في اللعبة",
+      "thumb": "https://lh3.googleusercontent.com/proxy/-dC6gOAuvnFBY1s_bT3AaLHgSZky7iR6jDIxFdR5RVVLj5FkKYF3T3ZmsXjT-gbcqn-xprtETsckI8M_KNRd6QlaKog2GFjJqK1SNYbXJFZ3M-jEn9QJVU6THI1l=s0-w200-h112-dcoWKMzC0G",
+      "googleLink": "https://news.google.com/./articles/CBMi5wFodHRwczovL3BvcnRhbC5uaWxlNC5jb20vMjkxMjQxLyVEOCVBQSVEOCVCMyVEOCVCMSVEOSU4QSVEOCVBOC0lRDglQUUlRDglQjElRDklOEElRDglQjclRDglQTktJUQ5JTg0JUQ4JUI5JUQ4JUE4JUQ4JUE5LSVEOCVBQyVEOCVBNyVEOCVBQSVEOCVBNy1ndGEtNi0lRDklODglRDglQjElRDklODglRDklODMlRDglQjMlRDglQUElRDglQTclRDglQjEtJUQ4JUFBJUQ5JTgzJUQ4JUI0JUQ5JTgxLSVEOCVBMy_SAQA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "portal.nile4.com",
+      "datetime": "2023-05-14T16:37:57Z",
+      "titleSlug": "تسريب-خريطة-لعبة-جاتا-GTA-6-وروكستار-تكشف-أشياء-جديدة-في-اللعبة"
+    },
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "تسجيل أصوات غامضة من أصل \"غير معروف\" فى الغلاف الجوى للأرض يحير العلماء",
+      "thumb": "https://lh3.googleusercontent.com/proxy/P-co3pJg0CGcoo3IlpNZdnY6E_11ftIjo_KLN-Beot5cn6jSCC_6gFrJShWBLeA7F0MvT0I8vF76S2NFd-jJvJW1MdLXNXJlPqgHBXo=s0-w280-h168-dcGeIM",
+      "googleLink": "https://news.google.com/./articles/CBMirQJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy81LzEzLyVEOCVBQSVEOCVCMyVEOCVBQyVEOSU4QSVEOSU4NC0lRDglQTMlRDglQjUlRDklODglRDglQTclRDglQUEtJUQ4JUJBJUQ4JUE3JUQ5JTg1JUQ4JUI2JUQ4JUE5LSVEOSU4NSVEOSU4Ni0lRDglQTMlRDglQjUlRDklODQtJUQ4JUJBJUQ5JThBJUQ4JUIxLSVEOSU4NSVEOCVCOSVEOCVCMSVEOSU4OCVEOSU4MS0lRDklODElRDklODktJUQ4JUE3JUQ5JTg0JUQ4JUJBJUQ5JTg0JUQ4JUE3JUQ5JTgxLSVEOCVBNyVEOSU4NCVEOCVBQyVEOSU4OCVEOSU4OS82MTc5MDY50gGpAmh0dHBzOi8vbS55b3VtNy5jb20vYW1wLzIwMjMvNS8xMy8lRDglQUElRDglQjMlRDglQUMlRDklOEElRDklODQtJUQ4JUEzJUQ4JUI1JUQ5JTg4JUQ4JUE3JUQ4JUFBLSVEOCVCQSVEOCVBNyVEOSU4NSVEOCVCNiVEOCVBOS0lRDklODUlRDklODYtJUQ4JUEzJUQ4JUI1JUQ5JTg0LSVEOCVCQSVEOSU4QSVEOCVCMS0lRDklODUlRDglQjklRDglQjElRDklODglRDklODEtJUQ5JTgxJUQ5JTg5LSVEOCVBNyVEOSU4NCVEOCVCQSVEOSU4NCVEOCVBNyVEOSU4MS0lRDglQTclRDklODQlRDglQUMlRDklODglRDklODkvNjE3OTA2OQ?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "اليوم السابع",
+      "datetime": "2023-05-13T16:00:00Z",
+      "titleSlug": "تسجيل-أصوات-غامضة-من-أصل-غير-معروف-فى-الغلاف-الجوى-للأرض-يحير-العلماء"
+    },
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "استفاد بالخصم .. طريقة شراء هاتف آيفون 14 برو ماكس من نون السعودية بخصم كبير ومواصفاته",
+      "thumb": "https://lh3.googleusercontent.com/proxy/dlNcm7vSi4g8nmP8Y7XrHdfCckGmD_TrilgrRo9rwWLh1gD2VH2Rs0u5xrycs-HBDPxOX_IKm54rQjoF0Rj7j6H7SvpnreExurvm4uPM7D10LJTuCLiMl7Ov-wg=s0-w280-h168-dcGQOESk0D",
+      "googleLink": "https://news.google.com/./articles/CBMi5AFodHRwczovL3BvcnRhbC5uaWxlNC5jb20vMjkyOTE5LyVEOCVBNyVEOCVCMyVEOCVBQSVEOSU4MSVEOCVBNyVEOCVBRi0lRDglQTglRDglQTclRDklODQlRDglQUUlRDglQjUlRDklODUtJUQ4JUI3JUQ4JUIxJUQ5JThBJUQ5JTgyJUQ4JUE5LSVEOCVCNCVEOCVCMSVEOCVBNyVEOCVBMS0lRDklODclRDglQTclRDglQUElRDklODEtJUQ4JUEyJUQ5JThBJUQ5JTgxJUQ5JTg4JUQ5JTg2LTE0LSVEOCVBOC_SAQA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "portal.nile4.com",
+      "datetime": "2023-05-14T08:41:08Z",
+      "titleSlug": "استفاد-بالخصم-.-طريقة-شراء-هاتف-آيفون-14-برو-ماكس-من-نون-السعودية-بخصم-كبير-ومواصفاته"
+    },
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "سعره مفاجأة.. نوكيا تطرح أرخص هواتفها الذكية | أبرز مواصفاته",
+      "thumb": "https://lh3.googleusercontent.com/proxy/AQk3KyDRRbW9TMl1IkSkwfzWVeOYkECivfuX-Z9qIgGT8YuK9Ao6ckDEviq_dYNVN9gjBnMKBIupyy7dPVgAgaJCnih4_1hAGgidH4-C-Y6JN52-s8TAokCs7AiwPQPhfMimQS3Ux86UddoPh3_KwG71tcWAHnnaEf_Mc15V_g3Glfse=s0-w200-h112-dckSKMEiUI",
+      "googleLink": "https://news.google.com/./articles/CBMiI2h0dHBzOi8vd3d3LmVsbW9zdGFxYmFsLmNvbS82OTQ1MDkv0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "المستقبل",
+      "datetime": "2023-05-13T10:57:45Z",
+      "titleSlug": "سعره-مفاجأة.-نوكيا-تطرح-أرخص-هواتفها-الذكية-أبرز-مواصفاته"
+    },
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "خصم 30%.. أكبر تخفيض على جوال آبل آيفون 11",
+      "thumb": "https://lh3.googleusercontent.com/proxy/zvq_SRBq3AKEEzdp_kXmEY2gMio4W9xuMw7lp3An-GiqSXwK7L__GDS7eBFRlV8bxjPFHz9XsfSR1pb4ZHWpkyzq49epj5FTd_hMTsOQiEcoJnfCG7eMsBibCcRyRjhr=s0-w280-h168-dcAQKQjpknReIC",
+      "googleLink": "https://news.google.com/./articles/CBMiIGh0dHBzOi8vd3d3LmVsYmFsYWQubmV3cy81NzY0OTY10gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sada El-Bald صدى البلد",
+      "datetime": "2023-05-13T10:00:59Z",
+      "titleSlug": "خصم-30-.-أكبر-تخفيض-على-جوال-آبل-آيفون-11"
+    },
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "فيفو تتحدى بهاتفها المثالي الجديد Y78.. بسعر يناسب جميع الفئات",
+      "thumb": "https://lh3.googleusercontent.com/proxy/DwMpjYpC6ByjrRwz52pLIIGW_FEWeWmNmAhpYDIpAyS17Bda03NZGID7xXdH6e5C9sFJ-FOfFXsp1jXcexhrfX0ZxZw0OCUNcr7zj5iV2iTZ7FDVQT4=s0-w280-h168-dckSSKq6UH",
+      "googleLink": "https://news.google.com/./articles/CBMi3wFodHRwczovL3d3dy5uZ21pc3IuY29tL3RlY2gvJUQ5JTgxJUQ5JThBJUQ5JTgxJUQ5JTg4LSVEOCVBQSVEOCVBQSVEOCVBRCVEOCVBRiVEOSU4OS0lRDglQTglRDklODclRDglQTclRDglQUElRDklODElRDklODclRDglQTctJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ4JUFCJUQ4JUE3JUQ5JTg0JUQ5JThBLSVEOCVBNyVEOSU4NCVEOCVBQyVEOCVBRiVEOSU4QSVEOCVBRi15NzgtJUQ4JUE4JUQ4JUIz0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "نجوم مصرية",
+      "datetime": "2023-05-14T16:05:22Z",
+      "titleSlug": "فيفو-تتحدى-بهاتفها-المثالي-الجديد-Y78.-بسعر-يناسب-جميع-الفئات"
+    },
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "عرض لن يتكرر.. خصم 57 % على جوال سامسونج Galaxy S20 FE",
+      "thumb": "https://lh3.googleusercontent.com/proxy/q5Wj0nxhXHczICHbD3HoFCoJyy8vPB7Xwyl8Du8sDU8yxnTAMiBP9eAPKUOPTBi_PBpJQZ1m079wXo34SYH4dgbtom4SAWOi5f64BM1il0Q02-gIKJnqwkF3633AVXZi=s0-w200-h112-dcBRCMr5FpFhIB",
+      "googleLink": "https://news.google.com/./articles/CBMiIGh0dHBzOi8vd3d3LmVsYmFsYWQubmV3cy81NzY1MTE30gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Sada El-Bald صدى البلد",
+      "datetime": "2023-05-13T14:01:00Z",
+      "titleSlug": "عرض-لن-يتكرر.-خصم-57-على-جوال-سامسونج-Galaxy-S20-FE"
+    },
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "4 أفكار لهدايا تناسب طلاب المدارس احتفالا بنجاحهم في الامتحانات",
+      "thumb": "https://lh3.googleusercontent.com/proxy/40gyVhTVkudBr6ppeIQu86cssNZCLrSpov_fyDsPVxtybNO9pzbWzAeGiK3I72XR1eNvy5RMWLfC7FWTKyNuX18BdFVQYbexqylvzIRhQJd9oXWpbR1SL3nR8TFvum_yvg-Eug=s0-w200-h112-dcCUOOpaIJ",
+      "googleLink": "https://news.google.com/./articles/CBMijgNodHRwczovL3d3dy5tYXNyYXd5LmNvbS9lY29tbWVyY2UvbGlmZXN0eWxlL2RldGFpbHMvMjAyMy81LzEzLzI0MTI3NDUvNC0lRDglQTMlRDklODElRDklODMlRDglQTclRDglQjEtJUQ5JTg0JUQ5JTg3JUQ4JUFGJUQ4JUE3JUQ5JThBJUQ4JUE3LSVEOCVBQSVEOSU4NiVEOCVBNyVEOCVCMyVEOCVBOC0lRDglQjclRDklODQlRDglQTclRDglQTgtJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ4JUFGJUQ4JUE3JUQ4JUIxJUQ4JUIzLSVEOCVBNyVEOCVBRCVEOCVBQSVEOSU4MSVEOCVBNyVEOSU4NCVEOCVBNy0lRDglQTglRDklODYlRDglQUMlRDglQTclRDglQUQlRDklODclRDklODUtJUQ5JTgxJUQ5JThBLSVEOCVBNyVEOSU4NCVEOCVBNyVEOSU4NSVEOCVBQSVEOCVBRCVEOCVBNyVEOSU4NiVEOCVBNyVEOCVBQdIBAA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "Masrawy - مصراوي",
+      "datetime": "2023-05-13T13:53:00Z",
+      "titleSlug": "4-أفكار-لهدايا-تناسب-طلاب-المدارس-احتفالا-بنجاحهم-في-الامتحانات"
+    },
+    {
+      "category": "tech",
+      "source": "https://news.google.com/",
+      "title": "لن يتكرر .. عروض شاومي الجديدة لا تتعدى 2000 جنية",
+      "thumb": "https://lh3.googleusercontent.com/proxy/WxMDLpJN_n3JQblG4V-huyELV1wHdg6NP9GIC7yteuIwyEkyCbx8j-SPJBv23_VBa5SgXGKZsKcwQhuGqNlFlyxXpJUB671AxX8ZMrz3k1_lKWZKYrMcjd7OjdUfvVvybJA3xvbXqEgsXU_2AKpi6ECzQi88dTrf00XTKgPUvR5K7a5u=s0-w200-h112-dclSKKSqVmVHMB",
+      "googleLink": "https://news.google.com/./articles/CBMiI2h0dHBzOi8vd3d3LmVsbW9zdGFxYmFsLmNvbS82OTQ1MzEv0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "المستقبل",
+      "datetime": "2023-05-13T12:59:35Z",
+      "titleSlug": "لن-يتكرر-.-عروض-شاومي-الجديدة-لا-تتعدى-2000-جنية"
+    }
+  ]
+}
