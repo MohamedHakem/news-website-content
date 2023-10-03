@@ -1,0 +1,191 @@
+{
+  "egypt-news-articles": [
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "منظمة الصحة العالمية تجيز لقاحا جديدا \"سينقذ عشرات الآلاف\"",
+      "thumb": "https://lh3.googleusercontent.com/proxy/qmYo3pra1mdXJ-DMMbxFGTGrCBUlokR9SUtd3_VWikypsW_SreTnRIZ4rkYV2DKsHEc1EM1j3MId9ZHPzEU29fiqxWZolxMHnBT72updzwl7vl3zZ76Z4BUFwd8Rw4oIYcysD1rGfmqVwXzY=s0-w280-h168-dcqWIA",
+      "googleLink": "https://news.google.com/./articles/CBMi3wJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS90ZWNobm9sb2d5LzE2NTgyMzctJUQ5JTg1JUQ5JTg2JUQ4JUI4JUQ5JTg1JUQ4JUE5LSVEOCVBNyVEOSU4NCVEOCVCNSVEOCVBRCVEOCVBOS0lRDglQTclRDklODQlRDglQjklRDglQTclRDklODQlRDklODUlRDklOEElRDglQTktJUQ4JUFBJUQ4JUFDJUQ5JThBJUQ4JUIyLSVEOSU4NCVEOSU4MiVEOCVBNyVEOCVBRCVEOCVBNy0lRDglQUMlRDglQUYlRDklOEElRDglQUYlRDglQTctJUQ4JUIzJUQ5JThBJUQ5JTg2JUQ5JTgyJUQ4JUIwLSVEOCVCOSVEOCVCNCVEOCVCMSVEOCVBNyVEOCVBQS0lRDglQTclRDklODQlRDglQTclRDklOTMlRDklODQlRDglQTclRDklODHSAeMCaHR0cHM6Ly93d3cuc2t5bmV3c2FyYWJpYS5jb20vYW1wL3RlY2hub2xvZ3kvMTY1ODIzNy0lRDklODUlRDklODYlRDglQjglRDklODUlRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUI1JUQ4JUFEJUQ4JUE5LSVEOCVBNyVEOSU4NCVEOCVCOSVEOCVBNyVEOSU4NCVEOSU4NSVEOSU4QSVEOCVBOS0lRDglQUElRDglQUMlRDklOEElRDglQjItJUQ5JTg0JUQ5JTgyJUQ4JUE3JUQ4JUFEJUQ4JUE3LSVEOCVBQyVEOCVBRiVEOSU4QSVEOCVBRiVEOCVBNy0lRDglQjMlRDklOEElRDklODYlRDklODIlRDglQjAtJUQ4JUI5JUQ4JUI0JUQ4JUIxJUQ4JUE3JUQ4JUFBLSVEOCVBNyVEOSU4NCVEOCVBNyVEOSU5MyVEOSU4NCVEOCVBNyVEOSU4MQ?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "",
+      "datetime": "2023-10-02T16:35:13Z",
+      "titleSlug": "منظمة-الصحة-العالمية-تجيز-لقاحا-جديدا-سينقذ-عشرات-الآلاف"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "نقص أوميجا 3 عند النساء.. الأسباب والأعراض والعلاج؟",
+      "thumb": "https://lh3.googleusercontent.com/proxy/3bDn7_UNjwEcr7bVYNXpTglLFPbBwQorfpEhoOzjQ42lT1IAdIw9CAe9dHWG1MTRgN2jvakpAU4BKIp80LrNxVjAGx5fTD64BRsirzpImLhQOP1XEApPXRfrV59lDt9K=s0-w200-h112-dcEWCYiCIJ",
+      "googleLink": "https://news.google.com/./articles/CBMiwQJodHRwczovL3d3dy5lbGNvbnNvbHRvLmNvbS9iZWF1dHkvYmVhdXR5LW5ld3MvZGV0YWlscy8yMDIzLzEwLzEvMjQ3NDExMi8lRDklODYlRDklODIlRDglQjUtJUQ4JUEzJUQ5JTg4JUQ5JTg1JUQ5JThBJUQ4JUFDJUQ4JUE3LTMtJUQ4JUI5JUQ5JTg2JUQ4JUFGLSVEOCVBNyVEOSU4NCVEOSU4NiVEOCVCMyVEOCVBNyVEOCVBMS0lRDglQTclRDklODQlRDglQTMlRDglQjMlRDglQTglRDglQTclRDglQTgtJUQ5JTg4JUQ4JUE3JUQ5JTg0JUQ4JUEzJUQ4JUI5JUQ4JUIxJUQ4JUE3JUQ4JUI2LSVEOSU4OCVEOCVBNyVEOSU4NCVEOCVCOSVEOSU4NCVEOCVBNyVEOCVBQy3SAcUCaHR0cHM6Ly93d3cuZWxjb25zb2x0by5jb20vYmVhdXR5L2JlYXV0eS1uZXdzL2RldGFpbHMvMjAyMy8xMC8xLzI0NzQxMTIvJUQ5JTg2JUQ5JTgyJUQ4JUI1LSVEOCVBMyVEOSU4OCVEOSU4NSVEOSU4QSVEOCVBQyVEOCVBNy0zLSVEOCVCOSVEOSU4NiVEOCVBRi0lRDglQTclRDklODQlRDklODYlRDglQjMlRDglQTclRDglQTEtJUQ4JUE3JUQ5JTg0JUQ4JUEzJUQ4JUIzJUQ4JUE4JUQ4JUE3JUQ4JUE4LSVEOSU4OCVEOCVBNyVEOSU4NCVEOCVBMyVEOCVCOSVEOCVCMSVEOCVBNyVEOCVCNi0lRDklODglRDglQTclRDklODQlRDglQjklRDklODQlRDglQTclRDglQUMtP2FtcA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "",
+      "datetime": "2023-10-01T16:47:51Z",
+      "titleSlug": "نقص-أوميجا-3-عند-النساء.-الأسباب-والأعراض-والعلاج؟"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "كشف حالة مصابي حريق الإسماعيلية.. وطائرات شاركت بالإطفاء",
+      "thumb": "https://lh3.googleusercontent.com/proxy/6CHeTedvNZjzeTZYyLBzSCBk66xXK-8BpyZQ2WeZD3JdtQHAdDVr1R00mcfKt-u4UryzeIIaihp6B_QKL9zdVD-5eBM6FIalOMhGA2tPVg4pzB7bIQ7AUVsG6CjgYGBf4ldcCN2Al0FXFOzp=s0-w280-h168-dcDXQA",
+      "googleLink": "https://news.google.com/./articles/CBMi5QJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9taWRkbGUtZWFzdC8xNjU4MDM2LSVEOSU4MyVEOCVCNCVEOSU4MS0lRDglQUQlRDglQTclRDklODQlRDglQTktJUQ5JTg1JUQ4JUI1JUQ4JUE3JUQ4JUE4JUQ5JThBLSVEOCVBRCVEOCVCMSVEOSU4QSVEOSU4Mi0lRDglQTclRDklODQlRDglQTclRDklOTUlRDglQjMlRDklODUlRDglQTclRDglQjklRDklOEElRDklODQlRDklOEElRDglQTktJUQ5JTg4JUQ4JUI3JUQ4JUE3JUQ5JThBJUQ5JTk0JUQ4JUIxJUQ4JUE3JUQ4JUFBLSVEOCVCNCVEOCVBNyVEOCVCMSVEOSU4MyVEOCVBQS0lRDglQTglRDglQTclRDklODQlRDglQTclRDklOTUlRDglQjclRDklODElRDglQTclRDglQTHSAekCaHR0cHM6Ly93d3cuc2t5bmV3c2FyYWJpYS5jb20vYW1wL21pZGRsZS1lYXN0LzE2NTgwMzYtJUQ5JTgzJUQ4JUI0JUQ5JTgxLSVEOCVBRCVEOCVBNyVEOSU4NCVEOCVBOS0lRDklODUlRDglQjUlRDglQTclRDglQTglRDklOEEtJUQ4JUFEJUQ4JUIxJUQ5JThBJUQ5JTgyLSVEOCVBNyVEOSU4NCVEOCVBNyVEOSU5NSVEOCVCMyVEOSU4NSVEOCVBNyVEOCVCOSVEOSU4QSVEOSU4NCVEOSU4QSVEOCVBOS0lRDklODglRDglQjclRDglQTclRDklOEElRDklOTQlRDglQjElRDglQTclRDglQUEtJUQ4JUI0JUQ4JUE3JUQ4JUIxJUQ5JTgzJUQ4JUFBLSVEOCVBOCVEOCVBNyVEOSU4NCVEOCVBNyVEOSU5NSVEOCVCNyVEOSU4MSVEOCVBNyVEOCVBMQ?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "",
+      "datetime": "2023-10-02T05:26:01Z",
+      "titleSlug": "كشف-حالة-مصابي-حريق-الإسماعيلية.-وطائرات-شاركت-بالإطفاء"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "لن تصدق.. هذا ما يحدث لجسمك عند تناول السمك المشوي",
+      "thumb": "https://lh3.googleusercontent.com/proxy/XM9wtLtXQi98H4UxfUWr9RiFAMjY8cfH5QPFECupMVOzVZFDtYVZDCygD8oWZwfXobzXvJq0sHSMkR0zO7zIIO3PTHfFnmdapRte67A0J18lCVDCDy1Puq_2V4XN5XehIdezDc72IHpwnLSYb8TExrrxcmcRMJM0iAEmMKEaNADRgGNVNpc_7JxhcX_UKx_HSrsRdvsvdefhOO13bZ72UGV-1IsVtKgR_oKYUvHbO0t5658ei1WnqmS36oFOUfnTTqMI3KjsUppr3ropFaTGp-CoDHfCUgVhEqZdNinREH289XFFEXJ0726wF7Bu9cMSt_hwtRf-_oJeDGWMsaltKc_zBFLozHTO45K4OvNovk6rHUnNTXb2fOAzMRyKM5CD0BEPmkMiK11gdCfTQLCdiKcvQJRGlpiG0EhAJOr8rs-PkIaVnebXlHIh=s0-w200-h112-dcARKIK8HkqKUC",
+      "googleLink": "https://news.google.com/./articles/CBMi3AFodHRwczovL2dhdGUuZWxnYW5uYS5jb20vJUQ5JTg0JUQ5JTg2LSVEOCVBQSVEOCVCNSVEOCVBRiVEOSU4Mi0lRDklODclRDglQjAlRDglQTctJUQ5JTg1JUQ4JUE3LSVEOSU4QSVEOCVBRCVEOCVBRiVEOCVBQi0lRDklODQlRDglQUMlRDglQjMlRDklODUlRDklODMtJUQ4JUI5JUQ5JTg2JUQ4JUFGLSVEOCVBQSVEOSU4NiVEOCVBNyVEOSU4OCVEOSU4NC0lRDglQTclRDklODQlRDglQjMv0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "",
+      "datetime": "2023-10-02T22:08:13Z",
+      "titleSlug": "لن-تصدق.-هذا-ما-يحدث-لجسمك-عند-تناول-السمك-المشوي"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "دراسة: حمية غذائية بسيطة قد تقلل من زيادة الوزن في منتصف العمر",
+      "thumb": "https://lh3.googleusercontent.com/proxy/5DHnAYnxxPHwevHGxujjjBHBmdxIp8FtHPAylIAYipD9kI8UbdHy74IrntJG2nShEA7T4yYaGM__anXeR3JHEec7ygX2m8yZrLM2sE5KrsHJgSCAPEJTzhcAfustDnHOGSuyGWPSRY9OH9RkF9KafF2Dw1sqPJOBAq8y5NmrMRUgQe8rYqsY__9hpCF1x-AiZ5RVp07DZ2w=s0-w200-h112-dcAQCIaRRlB6NKjUXCMTg",
+      "googleLink": "https://news.google.com/./articles/CBMi6QJodHRwczovL3NwdXRuaWthcmFiaWMuYWUvMjAyMzEwMDEvJUQ4JUFGJUQ4JUIxJUQ4JUE3JUQ4JUIzJUQ4JUE5LSVEOCVBRCVEOSU4NSVEOSU4QSVEOCVBOS0lRDglQkElRDglQjAlRDglQTclRDglQTYlRDklOEElRDglQTktJUQ4JUE4JUQ4JUIzJUQ5JThBJUQ4JUI3JUQ4JUE5LSVEOSU4MiVEOCVBRi0lRDglQUElRDklODIlRDklODQlRDklODQtJUQ5JTg1JUQ5JTg2LSVEOCVCMiVEOSU4QSVEOCVBNyVEOCVBRiVEOCVBOS0lRDglQTclRDklODQlRDklODglRDglQjIlRDklODYtJUQ5JTgxJUQ5JThBLSVEOSU4NSVEOSU4NiVEOCVBQSVEOCVCNSVEOSU4MS0lRDglQTclRDklODQlRDglQjklRDklODUlRDglQjEtMTA4MTU1NTM5NC5odG1s0gHtAmh0dHBzOi8vc3B1dG5pa2FyYWJpYy5hZS9hbXAvMjAyMzEwMDEvJUQ4JUFGJUQ4JUIxJUQ4JUE3JUQ4JUIzJUQ4JUE5LSVEOCVBRCVEOSU4NSVEOSU4QSVEOCVBOS0lRDglQkElRDglQjAlRDglQTclRDglQTYlRDklOEElRDglQTktJUQ4JUE4JUQ4JUIzJUQ5JThBJUQ4JUI3JUQ4JUE5LSVEOSU4MiVEOCVBRi0lRDglQUElRDklODIlRDklODQlRDklODQtJUQ5JTg1JUQ5JTg2LSVEOCVCMiVEOSU4QSVEOCVBNyVEOCVBRiVEOCVBOS0lRDglQTclRDklODQlRDklODglRDglQjIlRDklODYtJUQ5JTgxJUQ5JThBLSVEOSU4NSVEOSU4NiVEOCVBQSVEOCVCNSVEOSU4MS0lRDglQTclRDklODQlRDglQjklRDklODUlRDglQjEtMTA4MTU1NTM5NC5odG1s?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "",
+      "datetime": "2023-10-01T07:15:35Z",
+      "titleSlug": "دراسة-حمية-غذائية-بسيطة-قد-تقلل-من-زيادة-الوزن-في-منتصف-العمر"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "في أعقاب العاصفة دانيال.. \"ضربة موجعة\" جديدة في ليبيا",
+      "thumb": "https://lh3.googleusercontent.com/proxy/GHeW7vwFLE2fnvDqV9jEF5m1FIt4xDlXK6ZpLxQHJOpawIAHewtnxyPWVMW4AnmjDE-FeFZR3rBbSpob0YPJyVwhCGNm8zu0MaiFRP-0y2Im4huWplth31ocTuoAG62W5zuYzPH54jW-XIk9=s0-w200-h112-dciQCYhK7nJQID",
+      "googleLink": "https://news.google.com/./articles/CBMinAJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9taWRkbGUtZWFzdC8xNjU4MjA4LSVEOCVBNyVEOSU5NCVEOCVCOSVEOSU4MiVEOCVBNyVEOCVBOC0lRDglQTclRDklODQlRDglQjklRDglQTclRDglQjUlRDklODElRDglQTktJUQ4JUFGJUQ4JUE3JUQ5JTg2JUQ5JThBJUQ4JUE3JUQ5JTg0LSVEOCVCNiVEOCVCMSVEOCVBOCVEOCVBOS0lRDklODUlRDklODglRDglQUMlRDglQjklRDglQTktJUQ4JUFDJUQ4JUFGJUQ5JThBJUQ4JUFGJUQ4JUE5LSVEOSU4NCVEOSU4QSVEOCVBOCVEOSU4QSVEOCVBN9IBoAJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS9hbXAvbWlkZGxlLWVhc3QvMTY1ODIwOC0lRDglQTclRDklOTQlRDglQjklRDklODIlRDglQTclRDglQTgtJUQ4JUE3JUQ5JTg0JUQ4JUI5JUQ4JUE3JUQ4JUI1JUQ5JTgxJUQ4JUE5LSVEOCVBRiVEOCVBNyVEOSU4NiVEOSU4QSVEOCVBNyVEOSU4NC0lRDglQjYlRDglQjElRDglQTglRDglQTktJUQ5JTg1JUQ5JTg4JUQ4JUFDJUQ4JUI5JUQ4JUE5LSVEOCVBQyVEOCVBRiVEOSU4QSVEOCVBRiVEOCVBOS0lRDklODQlRDklOEElRDglQTglRDklOEElRDglQTc?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "",
+      "datetime": "2023-10-02T14:00:10Z",
+      "titleSlug": "في-أعقاب-العاصفة-دانيال.-ضربة-موجعة-جديدة-في-ليبيا"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "العمل في المكاتب المغلقة يفاقم مرضا خطيرا",
+      "thumb": "https://lh3.googleusercontent.com/proxy/j9HW40lRtG5PmR9mz4-6Z53dLEq-_nIeJ0YwKtfOi_TT0bKo1eidEpYBN48u_aUjTtwVM1VB6NNydHzBSqjHpqNtyGo479k0vnw41TYMCNlwLBROU_VRdDj1b0i2quFN2jwSktvnm94ZEGAd=s0-w200-h112-dcoRKMLB0H",
+      "googleLink": "https://news.google.com/./articles/CBMi_AFodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS90ZWNobm9sb2d5LzE2NTgxNTMtJUQ4JUE3JUQ5JTg0JUQ4JUI5JUQ5JTg1JUQ5JTg0LSVEOCVBNyVEOSU4NCVEOSU4NSVEOSU4MyVEOCVBNyVEOCVBQSVEOCVBOC0lRDglQTclRDklODQlRDklODUlRDglQkElRDklODQlRDklODIlRDglQTktJUQ5JThBJUQ5JTgxJUQ4JUE3JUQ5JTgyJUQ5JTg1LSVEOSU4NSVEOCVCMSVEOCVCNiVEOCVBNy0lRDglQUUlRDglQjclRDklOEElRDglQjElRDglQTfSAYACaHR0cHM6Ly93d3cuc2t5bmV3c2FyYWJpYS5jb20vYW1wL3RlY2hub2xvZ3kvMTY1ODE1My0lRDglQTclRDklODQlRDglQjklRDklODUlRDklODQtJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ5JTgzJUQ4JUE3JUQ4JUFBJUQ4JUE4LSVEOCVBNyVEOSU4NCVEOSU4NSVEOCVCQSVEOSU4NCVEOSU4MiVEOCVBOS0lRDklOEElRDklODElRDglQTclRDklODIlRDklODUtJUQ5JTg1JUQ4JUIxJUQ4JUI2JUQ4JUE3LSVEOCVBRSVEOCVCNyVEOSU4QSVEOCVCMSVEOCVBNw?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "",
+      "datetime": "2023-10-02T11:56:21Z",
+      "titleSlug": "العمل-في-المكاتب-المغلقة-يفاقم-مرضا-خطيرا"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "ارتفاع السكر عند السيدات - هل يختلف عن الرجال؟",
+      "thumb": "https://lh3.googleusercontent.com/proxy/H9H0U2umPE3GbsyO70r59Ox_l-EmWjeofxaWIhGfctoIsDoOFFtalhofITSzzgNMz_-icYj0sNgcnjqlKBdX2E0XnAqf7kOTJE3PFcuWhQ4u3kTh9w-dFfZRTEPJj9dkRRER=s0-w200-h112-dcARCUjxEJ",
+      "googleLink": "https://news.google.com/./articles/CBMirgJodHRwczovL3d3dy5lbGNvbnNvbHRvLmNvbS9wYXJlbnRpbmcvcGFyZW50aW5nLW5ld3MvZGV0YWlscy8yMDIzLzEwLzEvMjQ3NTMwMy8lRDglQTclRDglQjElRDglQUElRDklODElRDglQTclRDglQjktJUQ4JUE3JUQ5JTg0JUQ4JUIzJUQ5JTgzJUQ4JUIxLSVEOCVCOSVEOSU4NiVEOCVBRi0lRDglQTclRDklODQlRDglQjMlRDklOEElRDglQUYlRDglQTclRDglQUEtJUQ5JTg3JUQ5JTg0LSVEOSU4QSVEOCVBRSVEOCVBQSVEOSU4NCVEOSU4MS0lRDglQjklRDklODYtJUQ4JUE3JUQ5JTg0JUQ4JUIxJUQ4JUFDJUQ4JUE3JUQ5JTg0LdIBsgJodHRwczovL3d3dy5lbGNvbnNvbHRvLmNvbS9wYXJlbnRpbmcvcGFyZW50aW5nLW5ld3MvZGV0YWlscy8yMDIzLzEwLzEvMjQ3NTMwMy8lRDglQTclRDglQjElRDglQUElRDklODElRDglQTclRDglQjktJUQ4JUE3JUQ5JTg0JUQ4JUIzJUQ5JTgzJUQ4JUIxLSVEOCVCOSVEOSU4NiVEOCVBRi0lRDglQTclRDklODQlRDglQjMlRDklOEElRDglQUYlRDglQTclRDglQUEtJUQ5JTg3JUQ5JTg0LSVEOSU4QSVEOCVBRSVEOCVBQSVEOSU4NCVEOSU4MS0lRDglQjklRDklODYtJUQ4JUE3JUQ5JTg0JUQ4JUIxJUQ4JUFDJUQ4JUE3JUQ5JTg0LT9hbXA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "",
+      "datetime": "2023-10-01T16:27:59Z",
+      "titleSlug": "ارتفاع-السكر-عند-السيدات-هل-يختلف-عن-الرجال؟"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "وزير الصحة الإيراني يعتزم زيارة القاهرة الأسبوع المقبل",
+      "thumb": "https://lh3.googleusercontent.com/proxy/Bbnkd5-KifqjalDZ4z_RPScfAr_xIeZBS-PmBCJ_cOKkRfDCi86hc0uWt9mCXtOOCXkfe3uHQhQtt1-xlkCaJq0Hr_Xq4Xok68cXHlkAFWIl_NVsi3BDInKHSxe1GyBq_h8dqzWwkFGIIH1XqAOWCZC9G3stBP3DcOjXP9YIdEgwC6ifz4h2yeCB6sOPi3-081Oi9NZN=s0-w200-h112-dckZSC7FkD",
+      "googleLink": "https://news.google.com/./articles/CBMi0wJodHRwczovL3NwdXRuaWthcmFiaWMuYWUvMjAyMzA5MzAvJUQ5JTg4JUQ4JUIyJUQ5JThBJUQ4JUIxLSVEOCVBNyVEOSU4NCVEOCVCNSVEOCVBRCVEOCVBOS0lRDglQTclRDklODQlRDglQTUlRDklOEElRDglQjElRDglQTclRDklODYlRDklOEEtJUQ5JThBJUQ4JUI5JUQ4JUFBJUQ4JUIyJUQ5JTg1LSVEOCVCMiVEOSU4QSVEOCVBNyVEOCVCMSVEOCVBOS0lRDglQTclRDklODQlRDklODIlRDglQTclRDklODclRDglQjElRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUEzJUQ4JUIzJUQ4JUE4JUQ5JTg4JUQ4JUI5LSVEOCVBNyVEOSU4NCVEOSU4NSVEOSU4MiVEOCVBOCVEOSU4NC0xMDgxNTUwMzg3Lmh0bWzSAdcCaHR0cHM6Ly9zcHV0bmlrYXJhYmljLmFlL2FtcC8yMDIzMDkzMC8lRDklODglRDglQjIlRDklOEElRDglQjEtJUQ4JUE3JUQ5JTg0JUQ4JUI1JUQ4JUFEJUQ4JUE5LSVEOCVBNyVEOSU4NCVEOCVBNSVEOSU4QSVEOCVCMSVEOCVBNyVEOSU4NiVEOSU4QS0lRDklOEElRDglQjklRDglQUElRDglQjIlRDklODUtJUQ4JUIyJUQ5JThBJUQ4JUE3JUQ4JUIxJUQ4JUE5LSVEOCVBNyVEOSU4NCVEOSU4MiVEOCVBNyVEOSU4NyVEOCVCMSVEOCVBOS0lRDglQTclRDklODQlRDglQTMlRDglQjMlRDglQTglRDklODglRDglQjktJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ5JTgyJUQ4JUE4JUQ5JTg0LTEwODE1NTAzODcuaHRtbA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "",
+      "datetime": "2023-09-30T13:34:53Z",
+      "titleSlug": "وزير-الصحة-الإيراني-يعتزم-زيارة-القاهرة-الأسبوع-المقبل"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "علاج عين السمكة دون تدخل جراحي.. طريقتان طبيعيتان ووصفة متوفرة بالصيدليات",
+      "thumb": "https://lh3.googleusercontent.com/proxy/ESgfCSuYBWkm7cUhqjy3MoIjcfcqM05ICrxhmya1oWjTCbpEBveLOyJkm8zaH8ABfzgAN_7smQjf_jjAVLTew6EoWruZk0tGbp_CyRaGT1Jwl41KfNn6G9N1B4dAIYmCTUqBkS_6FTY=s0-w200-h112-dcCROGyaUE",
+      "googleLink": "https://news.google.com/./articles/CBMiqwNodHRwczovL2hvbm5hLmVsd2F0YW5uZXdzLmNvbS9uZXdzL2RldGFpbHMvMjE3NjIxMC8lRDglQjklRDklODQlRDglQTclRDglQUMtJUQ4JUI5JUQ5JThBJUQ5JTg2LSVEOCVBNyVEOSU4NCVEOCVCMyVEOSU4NSVEOSU4MyVEOCVBOS0lRDglQUYlRDklODglRDklODYtJUQ4JUFBJUQ4JUFGJUQ4JUFFJUQ5JTg0LSVEOCVBQyVEOCVCMSVEOCVBNyVEOCVBRCVEOSU4QS0lRDglQjclRDglQjElRDklOEElRDklODIlRDglQUElRDglQTclRDklODYtJUQ4JUI3JUQ4JUE4JUQ5JThBJUQ4JUI5JUQ5JThBJUQ4JUFBJUQ4JUE3JUQ5JTg2LSVEOSU4OCVEOSU4OCVEOCVCNSVEOSU4MSVEOCVBOS0lRDklODUlRDglQUElRDklODglRDklODElRDglQjElRDglQTktJUQ4JUE4JUQ4JUE3JUQ5JTg0JUQ4JUI1JUQ5JThBJUQ4JUFGJUQ5JTg0JUQ5JThBJUQ4JUE3JUQ4JUFB0gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "",
+      "datetime": "2023-10-02T12:12:00Z",
+      "titleSlug": "علاج-عين-السمكة-دون-تدخل-جراحي.-طريقتان-طبيعيتان-ووصفة-متوفرة-بالصيدليات"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "اكتشف الكنز العلاجي السحري: أوراق شجرة تخفض الضغط وتنظم مستويات السكر وتقلل الكولسترول بشكل فوري",
+      "thumb": "https://lh3.googleusercontent.com/proxy/esWxyTM4iEhFOF_z4g84g0E8UQfwWhwTRLfAIkvItfCo8oaUGiJGJwy1r-3F2aZnj02mdpvQJUiVx9vhhcmIgAglpdYWYYMGZsj-LAgZjkXZ4y3r5xChJFhYAWQxrEZ0UMjCT_B_T2WeGvcWH4PIhFIYaKgpOGL840j_kQLhnimxjYSB5K2Pi67QeWV-jsL_0IfluPO7vN_zgSz8ERgZwyV6lVxVKrP2SFOHm39M_S9srdTgrYbD1iuZtlqr60iDAQwNEkMCguZh6Yrbq3VXvE1pABPt5BEk5B25CxfU1nSPbIJIcO4NSAbJz-BGCyGazYwgnpXBL3_HBvERmMDJGcNgfsYNRsLGyDc3hk2NEsSPjBpzG7oNUqsLlsbm-9zQfuhK0xdh5mscwoaoeSsvEByyUey6kQIWgh0ogiwOD4edWC_b=s0-w200-h112-dcAUKIqrEE",
+      "googleLink": "https://news.google.com/./articles/CBMiMGh0dHBzOi8vYXIubWlzcmR5LmNvbS8yMDIzLzA5L2Jsb2ctcG9zdF8yMDAuaHRtbNIBAA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "",
+      "datetime": "2023-09-30T10:26:49Z",
+      "titleSlug": "اكتشف-الكنز-العلاجي-السحري-أوراق-شجرة-تخفض-الضغط-وتنظم-مستويات-السكر-وتقلل-الكولسترول-بشكل-فوري"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "إزاي تفوقي بسرعة الصبح.. فيتامينات مهمة للأمهات في المدارس",
+      "thumb": "https://lh3.googleusercontent.com/proxy/HSvXBPbqkh06r_6-BhzWUMHs_KH9ad7wh_SiP7Bv3QNr78Ln_BME5_2JbkCIOJ7Fzk3uFjTawixhqfKN_CDyo7nqwO2C4H7t0t-CouWH2KOWA75ZNN0T8_TlC9-SKMo=s0-w200-h112-dcIVWMrrEF",
+      "googleLink": "https://news.google.com/./articles/CBMiIGh0dHBzOi8vd3d3LmVsYmFsYWQubmV3cy81OTQ0MTA30gEA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "",
+      "datetime": "2023-10-02T22:12:00Z",
+      "titleSlug": "إزاي-تفوقي-بسرعة-الصبح.-فيتامينات-مهمة-للأمهات-في-المدارس"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "4 فيتامينات لمكافحة الالتهابات",
+      "thumb": "https://lh3.googleusercontent.com/proxy/IovZjbjYtf_7syA2t4dgsq-996loQ8pcnmWi8FrxLizsD2O2-iszFHrx7SwpDtlGC5pP_aquqG1p-LFKFFk3F10AZdwa2JS6Tb9wx4OJKpKhayzD8zovfKUnPXTtx4Vrfw3N=s0-w200-h112-dcgUWS464H",
+      "googleLink": "https://news.google.com/./articles/CBMi8AFodHRwczovL3d3dy5lbGNvbnNvbHRvLmNvbS9tZWRpY2FsLWFkdmljZS9hZHZpY2UtbmV3cy9kZXRhaWxzLzIwMjMvMTAvMi8yNDc1NzI0LzQtJUQ5JTgxJUQ5JThBJUQ4JUFBJUQ4JUE3JUQ5JTg1JUQ5JThBJUQ5JTg2JUQ4JUE3JUQ4JUFBLSVEOSU4NCVEOSU4NSVEOSU4MyVEOCVBNyVEOSU4MSVEOCVBRCVEOCVBOS0lRDglQTclRDklODQlRDglQTclRDklODQlRDglQUElRDklODclRDglQTclRDglQTglRDglQTclRDglQUHSAfQBaHR0cHM6Ly93d3cuZWxjb25zb2x0by5jb20vbWVkaWNhbC1hZHZpY2UvYWR2aWNlLW5ld3MvZGV0YWlscy8yMDIzLzEwLzIvMjQ3NTcyNC80LSVEOSU4MSVEOSU4QSVEOCVBQSVEOCVBNyVEOSU4NSVEOSU4QSVEOSU4NiVEOCVBNyVEOCVBQS0lRDklODQlRDklODUlRDklODMlRDglQTclRDklODElRDglQUQlRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUE3JUQ5JTg0JUQ4JUFBJUQ5JTg3JUQ4JUE3JUQ4JUE4JUQ4JUE3JUQ4JUFBP2FtcA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "",
+      "datetime": "2023-10-02T12:27:24Z",
+      "titleSlug": "4-فيتامينات-لمكافحة-الالتهابات"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "دراسة: التعرض للتوتر والإجهاد يؤثر بنظام المكافأة في الدماغ",
+      "thumb": "https://lh3.googleusercontent.com/proxy/9KYjha37KxrlqTj2BDMJ_m2-U06NK0r5lDZPywiuverg3x8tWECfGSgG4Tm8QSL2juXmukpIo2oOUrsGxzlJxQ3Igs56PiLaj0JF0SnL5VZemBvvjVOo2mRAvbSjhdRCPSR77Vnj4_9TewsUXYIob-ouKXWQGR6ir57G4_BU=s0-w200-h112-dcAeiEA0sE",
+      "googleLink": "https://news.google.com/./articles/CBMi5QJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS92aWRlby8xNjU4MDU0LSVEOCVBRiVEOCVCMSVEOCVBNyVEOCVCMyVEOCVBOS0lRDglQTclRDklODQlRDglQUElRDglQjklRDglQjElRDglQjYtJUQ5JTg0JUQ5JTg0JUQ4JUFBJUQ5JTg4JUQ4JUFBJUQ4JUIxLSVEOSU4OCVEOCVBNyVEOSU4NCVEOCVBNyVEOSU5NSVEOCVBQyVEOSU4NyVEOCVBNyVEOCVBRi0lRDklOEElRDklODglRDklOTQlRDglQUIlRDglQjEtJUQ4JUE4JUQ5JTg2JUQ4JUI4JUQ4JUE3JUQ5JTg1LSVEOCVBNyVEOSU4NCVEOSU4NSVEOSU4MyVEOCVBNyVEOSU4MSVEOCVBNyVEOSU5NCVEOCVBOS0lRDglQTclRDklODQlRDglQUYlRDklODUlRDglQTclRDglQkHSAekCaHR0cHM6Ly93d3cuc2t5bmV3c2FyYWJpYS5jb20vYW1wL3ZpZGVvLzE2NTgwNTQtJUQ4JUFGJUQ4JUIxJUQ4JUE3JUQ4JUIzJUQ4JUE5LSVEOCVBNyVEOSU4NCVEOCVBQSVEOCVCOSVEOCVCMSVEOCVCNi0lRDklODQlRDklODQlRDglQUElRDklODglRDglQUElRDglQjEtJUQ5JTg4JUQ4JUE3JUQ5JTg0JUQ4JUE3JUQ5JTk1JUQ4JUFDJUQ5JTg3JUQ4JUE3JUQ4JUFGLSVEOSU4QSVEOSU4OCVEOSU5NCVEOCVBQiVEOCVCMS0lRDglQTglRDklODYlRDglQjglRDglQTclRDklODUtJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ5JTgzJUQ4JUE3JUQ5JTgxJUQ4JUE3JUQ5JTk0JUQ4JUE5LSVEOCVBNyVEOSU4NCVEOCVBRiVEOSU4NSVEOCVBNyVEOCVCQQ?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "",
+      "datetime": "2023-10-02T07:37:29Z",
+      "titleSlug": "دراسة-التعرض-للتوتر-والإجهاد-يؤثر-بنظام-المكافأة-في-الدماغ"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "\"دافنشى جراحة القلب ورجل ذو أيدى سحرية\".. تليجراف تحتفى بمجدى يعقوب",
+      "thumb": "https://lh3.googleusercontent.com/proxy/fLE5-y2euK79qLCJFYVw5iPY88TJlfjIsD8HU1HSbW5LnaOoQCOZBKvcApuR9ycHjkGGMb05rDW-I8ETZY3A-5Tkcc_u828B_L2FtQ=s0-w200-h112-dcMZSGcD0F",
+      "googleLink": "https://news.google.com/./articles/CBMi1wJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy8xMC8yLyVEOCVBRiVEOCVBNyVEOSU4MSVEOSU4NiVEOCVCNCVEOSU4OS0lRDglQUMlRDglQjElRDglQTclRDglQUQlRDglQTktJUQ4JUE3JUQ5JTg0JUQ5JTgyJUQ5JTg0JUQ4JUE4LSVEOSU4OCVEOCVCMSVEOCVBQyVEOSU4NC0lRDglQjAlRDklODgtJUQ4JUEzJUQ5JThBJUQ4JUFGJUQ5JTg5LSVEOCVCMyVEOCVBRCVEOCVCMSVEOSU4QSVEOCVBOS0lRDglQUElRDklODQlRDklOEElRDglQUMlRDglQjElRDglQTclRDklODEtJUQ4JUFBJUQ4JUFEJUQ4JUFBJUQ5JTgxJUQ5JTg5LSVEOCVBOCVEOSU4NSVEOCVBQyVEOCVBRiVEOSU4OS82MzIzMTYy0gHTAmh0dHBzOi8vbS55b3VtNy5jb20vYW1wLzIwMjMvMTAvMi8lRDglQUYlRDglQTclRDklODElRDklODYlRDglQjQlRDklODktJUQ4JUFDJUQ4JUIxJUQ4JUE3JUQ4JUFEJUQ4JUE5LSVEOCVBNyVEOSU4NCVEOSU4MiVEOSU4NCVEOCVBOC0lRDklODglRDglQjElRDglQUMlRDklODQtJUQ4JUIwJUQ5JTg4LSVEOCVBMyVEOSU4QSVEOCVBRiVEOSU4OS0lRDglQjMlRDglQUQlRDglQjElRDklOEElRDglQTktJUQ4JUFBJUQ5JTg0JUQ5JThBJUQ4JUFDJUQ4JUIxJUQ4JUE3JUQ5JTgxLSVEOCVBQSVEOCVBRCVEOCVBQSVEOSU4MSVEOSU4OS0lRDglQTglRDklODUlRDglQUMlRDglQUYlRDklODkvNjMyMzE2Mg?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "",
+      "datetime": "2023-10-02T12:20:00Z",
+      "titleSlug": "دافنشى-جراحة-القلب-ورجل-ذو-أيدى-سحرية-.-تليجراف-تحتفى-بمجدى-يعقوب"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "كيف تفرق بين أعراض الحموضة والنوبة القلبية؟",
+      "thumb": "https://lh3.googleusercontent.com/proxy/onJlYe7saC-HPwPEuxCc-HdMGsXdlWztCKw7bpQb27vg2Ojp5eq6PHXQsOtbVE0T1hFCme-cHi0xi4dJyKie6LWempfEF-ttVQO2jMI=s0-w200-h112-dcKQWe7YEM",
+      "googleLink": "https://news.google.com/./articles/CBMijAJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy8xMC8xLyVEOSU4MyVEOSU4QSVEOSU4MS0lRDglQUElRDklODElRDglQjElRDklODItJUQ4JUE4JUQ5JThBJUQ5JTg2LSVEOCVBMyVEOCVCOSVEOCVCMSVEOCVBNyVEOCVCNi0lRDglQTclRDklODQlRDglQUQlRDklODUlRDklODglRDglQjYlRDglQTktJUQ5JTg4JUQ4JUE3JUQ5JTg0JUQ5JTg2JUQ5JTg4JUQ4JUE4JUQ4JUE5LSVEOCVBNyVEOSU4NCVEOSU4MiVEOSU4NCVEOCVBOCVEOSU4QSVEOCVBOS82MzE2NTc00gGIAmh0dHBzOi8vbS55b3VtNy5jb20vYW1wLzIwMjMvMTAvMS8lRDklODMlRDklOEElRDklODEtJUQ4JUFBJUQ5JTgxJUQ4JUIxJUQ5JTgyLSVEOCVBOCVEOSU4QSVEOSU4Ni0lRDglQTMlRDglQjklRDglQjElRDglQTclRDglQjYtJUQ4JUE3JUQ5JTg0JUQ4JUFEJUQ5JTg1JUQ5JTg4JUQ4JUI2JUQ4JUE5LSVEOSU4OCVEOCVBNyVEOSU4NCVEOSU4NiVEOSU4OCVEOCVBOCVEOCVBOS0lRDglQTclRDklODQlRDklODIlRDklODQlRDglQTglRDklOEElRDglQTkvNjMxNjU3NA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "",
+      "datetime": "2023-10-01T20:00:00Z",
+      "titleSlug": "كيف-تفرق-بين-أعراض-الحموضة-والنوبة-القلبية؟"
+    },
+    {
+      "category": "health",
+      "source": "https://news.google.com/",
+      "title": "فوائد مذهلة لأوراق الفجل من تقوية المناعة إلى علاج البواسير",
+      "thumb": "https://lh3.googleusercontent.com/proxy/47JCWTttcVV6_NRMuHHHV4jrOwmOffejBKjlzmrIHBcwC7w4-lzfeyXuaY4pT905qyGiQiqF8gDDdNMAnb90-C5Z0zb6GSSGyQvs1U0=s0-w200-h112-dcgQKGSDojyMIC",
+      "googleLink": "https://news.google.com/./articles/CBMi4wJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy8xMC8zLyVEOSU4MSVEOSU4OCVEOCVBNyVEOCVBNiVEOCVBRi0lRDklODUlRDglQjAlRDklODclRDklODQlRDglQTktJUQ5JTg0JUQ4JUEzJUQ5JTg4JUQ4JUIxJUQ4JUE3JUQ5JTgyLSVEOCVBNyVEOSU4NCVEOSU4MSVEOCVBQyVEOSU4NC0lRDklODUlRDklODYtJUQ4JUFBJUQ5JTgyJUQ5JTg4JUQ5JThBJUQ4JUE5LSVEOCVBNyVEOSU4NCVEOSU4NSVEOSU4NiVEOCVBNyVEOCVCOSVEOCVBOS0lRDglQTUlRDklODQlRDklODktJUQ4JUI5JUQ5JTg0JUQ4JUE3JUQ4JUFDLSVEOCVBNyVEOSU4NCVEOCVBOCVEOSU4OCVEOCVBNyVEOCVCMyVEOSU4QSVEOCVCMS82MzIxODIw0gHfAmh0dHBzOi8vbS55b3VtNy5jb20vYW1wLzIwMjMvMTAvMy8lRDklODElRDklODglRDglQTclRDglQTYlRDglQUYtJUQ5JTg1JUQ4JUIwJUQ5JTg3JUQ5JTg0JUQ4JUE5LSVEOSU4NCVEOCVBMyVEOSU4OCVEOCVCMSVEOCVBNyVEOSU4Mi0lRDglQTclRDklODQlRDklODElRDglQUMlRDklODQtJUQ5JTg1JUQ5JTg2LSVEOCVBQSVEOSU4MiVEOSU4OCVEOSU4QSVEOCVBOS0lRDglQTclRDklODQlRDklODUlRDklODYlRDglQTclRDglQjklRDglQTktJUQ4JUE1JUQ5JTg0JUQ5JTg5LSVEOCVCOSVEOSU4NCVEOCVBNyVEOCVBQy0lRDglQTclRDklODQlRDglQTglRDklODglRDglQTclRDglQjMlRDklOEElRDglQjEvNjMyMTgyMA?hl=ar&gl=EG&ceid=EG%3Aar",
+      "link": "",
+      "origin": "",
+      "datetime": "2023-10-03T00:00:00Z",
+      "titleSlug": "فوائد-مذهلة-لأوراق-الفجل-من-تقوية-المناعة-إلى-علاج-البواسير"
+    }
+  ]
+}
