@@ -13,30 +13,31 @@ on:
   - cron: '*/5 * * * *'
   
 jobs:
-  callApi:
-    runs-on: ubuntu-latest
+ callApi:
+  runs-on: ubuntu-latest
 
-    steps:
-      - name: Call API Endpoint
-        run: |
-          curl -X GET https://fb-automation.vercel.app/api/new/trigger?from=github-action&every=5m
-          if [[ $? -eq 0 ]]; then
-            echo "API call was successful"
-          else
-            echo "API call failed"
-            exit 1
-          fi
+  steps:
+   - name: Call API Endpoint
+     run: |
+      response=$(curl -X GET https://fb-automation.vercel.app/api/new/trigger?from=github-action&every=5m)
+      echo "$response" | bash
+      if [[ $? -eq 0 ]]; then
+        echo "API call was successful"
+      else
+        echo "API call failed"
+        exit 1
+      fi
 
-      - name: Log API call response
-        run: |
-          curl -X GET https://fb-automation.vercel.app/api/new/trigger?from=github-action&every=5m | jq .
-  
-      - name: Retry API call if it fails
-        run: |
-          for i in {1..3}; do
-            if [[ $(curl -X GET https://fb-automation.vercel.app/api/new/trigger?from=github-action&every=5m | jq .code) -eq 200 ]]; then
-              break
-            fi
-            echo "API call failed. Retrying..."
-            sleep 10
-          done
+   - name: Log API call response
+     run: |
+      curl -X GET https://fb-automation.vercel.app/api/new/trigger?from=github-action&every=5m | jq .
+
+   - name: Retry API call if it fails
+     run: |
+      for i in {1..3}; do
+        if [[ $(curl -X GET https://fb-automation.vercel.app/api/new/trigger?from=github-action&every=5m | jq .code) -eq 200 ]]; then
+          break
+        fi
+        echo "API call failed. Retrying..."
+        sleep 10
+      done
