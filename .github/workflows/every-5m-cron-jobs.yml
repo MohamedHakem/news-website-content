@@ -1,0 +1,28 @@
+name: Scheduled API Calls - every 5m
+
+# Controls when the workflow will run
+on:
+  push:
+    branches: [ main ]
+
+  pull_request:    
+    branches: [ main ]
+
+  # Schedules the workflow to run every 5 minutes
+  schedule:
+    - cron: '*/5 * * * *'
+  
+jobs:
+  callApi:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Call API Endpoint
+        run: |
+          curl https://fb-automation.vercel.app/api/new/trigger?from=github-action&every=5m
+           if [[ $? -eq 0 ]]; then
+            echo "API call was successful"
+          else
+            echo "API call failed"
+            exit 1
+          fi
