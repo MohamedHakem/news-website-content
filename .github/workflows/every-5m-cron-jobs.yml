@@ -17,14 +17,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check for uncommitted changes
-        run:  |
-          git diff --exit-code
-          if [[ $? -ne 0 ]]; then
-            echo "You have uncommitted changes. Please commit your changes before making the API call."
-            exit 1
-          fi
-
       - name: Call API Endpoint
         run: |
           curl -X GET https://fb-automation.vercel.app/api/new/trigger?from=github-action&every=5m
