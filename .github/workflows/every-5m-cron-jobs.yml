@@ -19,7 +19,7 @@ jobs:
     steps:
       - name: Call API Endpoint
         run: |
-          curl -I https://fb-automation.vercel.app/api/new/trigger?from=github-action&every=5m
+          curl https://fb-automation.vercel.app/api/new/trigger?from=github-action&every=5m
            if [[ $? -eq 0 ]]; then
             echo "API call was successful"
           else
