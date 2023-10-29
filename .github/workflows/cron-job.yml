@@ -2,12 +2,16 @@ name: Scheduled API Calls
 
 # Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  schedule:
-    - cron: '*/5 * * * *'  # Every 5 minutes
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+push:
+
+branches: [ main ]
+  pull_request:
+    
+branches: [ main ]
+  # Schedules the workflow to run every 5 minutes
+  schedule:
+    - cron: '*/5 * * * *'
   
 jobs:
   callApi:
@@ -17,3 +21,9 @@ jobs:
       - name: Call API Endpoint
         run: |
           curl-I https://newsapi-msrnow.vercel.app/api/scrape/trigger-all?github-action-5m
+           if [[ $? -eq 0 ]]; then
+            echo "API call was successful"
+          else
+            echo "API call failed"
+            exit 1
+          fi
