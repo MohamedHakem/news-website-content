@@ -8,9 +8,9 @@ on:
   pull_request:    
     branches: [ main ]
 
-  # Schedules the workflow to run every 5 minutes
+  # Schedules the workflow to run every 20 minutes
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/20 * * * *'
   
 jobs:
   callApi:
@@ -19,7 +19,7 @@ jobs:
     steps:
       - name: Call API Endpoint
         run: |
-          curl -I https://newsapi-msrnow.vercel.app/api/scrape/trigger-all?github-action-5m
+          curl -I https://newsapi-msrnow.vercel.app/api/scrape/new/trigger-main-news-categories?github-action-20m
            if [[ $? -eq 0 ]]; then
             echo "API call was successful"
           else
