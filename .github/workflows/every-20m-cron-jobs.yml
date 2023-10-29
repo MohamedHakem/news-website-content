@@ -1,4 +1,4 @@
-name: Scheduled API Calls
+name: Scheduled API Calls - every 20m
 
 # Controls when the workflow will run
 on:
