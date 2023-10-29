@@ -2,13 +2,12 @@ name: Scheduled API Calls
 
 # Controls when the workflow will run
 on:
+  push:
+    branches: [ main ]
 
-push:
+  pull_request:    
+    branches: [ main ]
 
-branches: [ main ]
-  pull_request:
-    
-branches: [ main ]
   # Schedules the workflow to run every 5 minutes
   schedule:
     - cron: '*/5 * * * *'
