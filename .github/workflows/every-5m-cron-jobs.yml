@@ -2,27 +2,49 @@ name: Scheduled API Calls - every 5m
 
 # Controls when the workflow will run
 on:
-  push:
-    branches: [ main ]
+ push:
+  branches: [ main ]
 
-  pull_request:    
-    branches: [ main ]
+ pull_request:   
+  branches: [ main ]
 
-  # Schedules the workflow to run every 5 minutes
-  schedule:
-    - cron: '*/5 * * * *'
+ # Schedules the workflow to run every 5 minutes
+ schedule:
+  - cron: '*/5 * * * *'
   
 jobs:
   callApi:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Check for uncommitted changes
+        run:  |
+          git diff --exit-code
+          if [[ $? -ne 0 ]]; then
+            echo "You have uncommitted changes. Please commit your changes before making the API call."
+            exit 1
+          fi
+
       - name: Call API Endpoint
         run: |
-          curl https://fb-automation.vercel.app/api/new/trigger?from=github-action&every=5m
-           if [[ $? -eq 0 ]]; then
+          curl -X GET https://fb-automation.vercel.app/api/new/trigger?from=github-action&every=5m
+          if [[ $? -eq 0 ]]; then
             echo "API call was successful"
           else
             echo "API call failed"
             exit 1
           fi
+
+      - name: Log API call response
+        run: |
+          curl -X GET https://fb-automation.vercel.app/api/new/trigger?from=github-action&every=5m | jq .
+  
+      - name: Retry API call if it fails
+        run: |
+          for i in {1..3}; do
+            if [[ $(curl -X GET https://fb-automation.vercel.app/api/new/trigger?from=github-action&every=5m | jq .code) -eq 200 ]]; then
+              break
+            fi
+            echo "API call failed. Retrying..."
+            sleep 10
+          done
